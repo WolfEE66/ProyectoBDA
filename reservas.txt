@@ -1,0 +1,9000 @@
+*** Reserva 1 ***
+ID Cliente: 885
+Fecha Llegada: 2024-03-26
+Fecha Salida: 2024-04-05
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 846
+ID Restaurante: 839
+
+*** Reserva 2 ***
+ID Cliente: 353
+Fecha Llegada: 2024-03-15
+Fecha Salida: 2024-03-25
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 499
+ID Restaurante: 568
+
+*** Reserva 3 ***
+ID Cliente: 539
+Fecha Llegada: 2024-04-12
+Fecha Salida: 2024-04-20
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 908
+ID Restaurante: 63
+
+*** Reserva 4 ***
+ID Cliente: 737
+Fecha Llegada: 2024-03-11
+Fecha Salida: 2024-03-12
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 969
+ID Restaurante: 859
+
+*** Reserva 5 ***
+ID Cliente: 194
+Fecha Llegada: 2024-02-03
+Fecha Salida: 2024-02-12
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 506
+ID Restaurante: 67
+
+*** Reserva 6 ***
+ID Cliente: 660
+Fecha Llegada: 2024-01-26
+Fecha Salida: 2024-02-01
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 338
+ID Restaurante: 151
+
+*** Reserva 7 ***
+ID Cliente: 217
+Fecha Llegada: 2024-03-30
+Fecha Salida: 2024-04-02
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 868
+ID Restaurante: 882
+
+*** Reserva 8 ***
+ID Cliente: 997
+Fecha Llegada: 2024-01-14
+Fecha Salida: 2024-01-23
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 794
+ID Restaurante: 415
+
+*** Reserva 9 ***
+ID Cliente: 88
+Fecha Llegada: 2024-01-11
+Fecha Salida: 2024-01-13
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 972
+ID Restaurante: 895
+
+*** Reserva 10 ***
+ID Cliente: 789
+Fecha Llegada: 2024-03-22
+Fecha Salida: 2024-03-24
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 776
+ID Restaurante: 319
+
+*** Reserva 11 ***
+ID Cliente: 631
+Fecha Llegada: 2024-03-25
+Fecha Salida: 2024-04-01
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 698
+ID Restaurante: 723
+
+*** Reserva 12 ***
+ID Cliente: 58
+Fecha Llegada: 2024-03-10
+Fecha Salida: 2024-03-11
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 350
+ID Restaurante: 124
+
+*** Reserva 13 ***
+ID Cliente: 723
+Fecha Llegada: 2024-03-30
+Fecha Salida: 2024-04-05
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 140
+ID Restaurante: 829
+
+*** Reserva 14 ***
+ID Cliente: 290
+Fecha Llegada: 2024-01-08
+Fecha Salida: 2024-01-18
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 650
+ID Restaurante: 301
+
+*** Reserva 15 ***
+ID Cliente: 64
+Fecha Llegada: 2024-03-02
+Fecha Salida: 2024-03-05
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 97
+ID Restaurante: 563
+
+*** Reserva 16 ***
+ID Cliente: 40
+Fecha Llegada: 2024-03-18
+Fecha Salida: 2024-03-19
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 60
+ID Restaurante: 669
+
+*** Reserva 17 ***
+ID Cliente: 207
+Fecha Llegada: 2024-04-25
+Fecha Salida: 2024-05-04
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 580
+ID Restaurante: 785
+
+*** Reserva 18 ***
+ID Cliente: 857
+Fecha Llegada: 2024-04-06
+Fecha Salida: 2024-04-09
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 724
+ID Restaurante: 187
+
+*** Reserva 19 ***
+ID Cliente: 822
+Fecha Llegada: 2024-02-27
+Fecha Salida: 2024-03-04
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 676
+ID Restaurante: 67
+
+*** Reserva 20 ***
+ID Cliente: 657
+Fecha Llegada: 2024-04-07
+Fecha Salida: 2024-04-15
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 365
+ID Restaurante: 881
+
+*** Reserva 21 ***
+ID Cliente: 109
+Fecha Llegada: 2024-04-01
+Fecha Salida: 2024-04-08
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 275
+ID Restaurante: 291
+
+*** Reserva 22 ***
+ID Cliente: 778
+Fecha Llegada: 2024-03-30
+Fecha Salida: 2024-04-02
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 982
+ID Restaurante: 174
+
+*** Reserva 23 ***
+ID Cliente: 440
+Fecha Llegada: 2024-04-16
+Fecha Salida: 2024-04-21
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 298
+ID Restaurante: 532
+
+*** Reserva 24 ***
+ID Cliente: 982
+Fecha Llegada: 2024-01-12
+Fecha Salida: 2024-01-19
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 884
+ID Restaurante: 10
+
+*** Reserva 25 ***
+ID Cliente: 60
+Fecha Llegada: 2024-03-10
+Fecha Salida: 2024-03-11
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 63
+ID Restaurante: 592
+
+*** Reserva 26 ***
+ID Cliente: 912
+Fecha Llegada: 2024-01-21
+Fecha Salida: 2024-01-30
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 820
+ID Restaurante: 376
+
+*** Reserva 27 ***
+ID Cliente: 86
+Fecha Llegada: 2024-02-04
+Fecha Salida: 2024-02-07
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 614
+ID Restaurante: 318
+
+*** Reserva 28 ***
+ID Cliente: 927
+Fecha Llegada: 2024-01-21
+Fecha Salida: 2024-01-23
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 491
+ID Restaurante: 338
+
+*** Reserva 29 ***
+ID Cliente: 901
+Fecha Llegada: 2024-03-20
+Fecha Salida: 2024-03-30
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 740
+ID Restaurante: 596
+
+*** Reserva 30 ***
+ID Cliente: 232
+Fecha Llegada: 2024-01-02
+Fecha Salida: 2024-01-06
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 490
+ID Restaurante: 888
+
+*** Reserva 31 ***
+ID Cliente: 818
+Fecha Llegada: 2024-03-09
+Fecha Salida: 2024-03-16
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 916
+ID Restaurante: 766
+
+*** Reserva 32 ***
+ID Cliente: 28
+Fecha Llegada: 2024-04-12
+Fecha Salida: 2024-04-18
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 396
+ID Restaurante: 271
+
+*** Reserva 33 ***
+ID Cliente: 742
+Fecha Llegada: 2024-03-08
+Fecha Salida: 2024-03-17
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 639
+ID Restaurante: 975
+
+*** Reserva 34 ***
+ID Cliente: 364
+Fecha Llegada: 2024-03-12
+Fecha Salida: 2024-03-14
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 481
+ID Restaurante: 390
+
+*** Reserva 35 ***
+ID Cliente: 149
+Fecha Llegada: 2024-02-03
+Fecha Salida: 2024-02-04
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 572
+ID Restaurante: 571
+
+*** Reserva 36 ***
+ID Cliente: 785
+Fecha Llegada: 2024-04-22
+Fecha Salida: 2024-04-26
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 58
+ID Restaurante: 938
+
+*** Reserva 37 ***
+ID Cliente: 183
+Fecha Llegada: 2024-04-17
+Fecha Salida: 2024-04-18
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 58
+ID Restaurante: 664
+
+*** Reserva 38 ***
+ID Cliente: 318
+Fecha Llegada: 2024-03-25
+Fecha Salida: 2024-03-26
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 57
+ID Restaurante: 718
+
+*** Reserva 39 ***
+ID Cliente: 595
+Fecha Llegada: 2024-02-10
+Fecha Salida: 2024-02-14
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 966
+ID Restaurante: 701
+
+*** Reserva 40 ***
+ID Cliente: 809
+Fecha Llegada: 2024-01-10
+Fecha Salida: 2024-01-15
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 423
+ID Restaurante: 160
+
+*** Reserva 41 ***
+ID Cliente: 174
+Fecha Llegada: 2024-04-22
+Fecha Salida: 2024-04-27
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 178
+ID Restaurante: 612
+
+*** Reserva 42 ***
+ID Cliente: 378
+Fecha Llegada: 2024-04-28
+Fecha Salida: 2024-05-07
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 755
+ID Restaurante: 391
+
+*** Reserva 43 ***
+ID Cliente: 884
+Fecha Llegada: 2024-04-23
+Fecha Salida: 2024-04-28
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 697
+ID Restaurante: 980
+
+*** Reserva 44 ***
+ID Cliente: 425
+Fecha Llegada: 2024-01-19
+Fecha Salida: 2024-01-24
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 181
+ID Restaurante: 647
+
+*** Reserva 45 ***
+ID Cliente: 600
+Fecha Llegada: 2024-01-09
+Fecha Salida: 2024-01-19
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 750
+ID Restaurante: 184
+
+*** Reserva 46 ***
+ID Cliente: 691
+Fecha Llegada: 2024-03-27
+Fecha Salida: 2024-03-30
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 322
+ID Restaurante: 108
+
+*** Reserva 47 ***
+ID Cliente: 194
+Fecha Llegada: 2024-03-09
+Fecha Salida: 2024-03-18
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 334
+ID Restaurante: 729
+
+*** Reserva 48 ***
+ID Cliente: 234
+Fecha Llegada: 2024-01-15
+Fecha Salida: 2024-01-19
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 410
+ID Restaurante: 702
+
+*** Reserva 49 ***
+ID Cliente: 23
+Fecha Llegada: 2024-01-29
+Fecha Salida: 2024-02-01
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 429
+ID Restaurante: 271
+
+*** Reserva 50 ***
+ID Cliente: 707
+Fecha Llegada: 2024-01-02
+Fecha Salida: 2024-01-09
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 645
+ID Restaurante: 578
+
+*** Reserva 51 ***
+ID Cliente: 563
+Fecha Llegada: 2024-04-23
+Fecha Salida: 2024-05-03
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 126
+ID Restaurante: 989
+
+*** Reserva 52 ***
+ID Cliente: 480
+Fecha Llegada: 2024-01-09
+Fecha Salida: 2024-01-17
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 537
+ID Restaurante: 301
+
+*** Reserva 53 ***
+ID Cliente: 855
+Fecha Llegada: 2024-03-26
+Fecha Salida: 2024-04-04
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 40
+ID Restaurante: 125
+
+*** Reserva 54 ***
+ID Cliente: 385
+Fecha Llegada: 2024-01-05
+Fecha Salida: 2024-01-12
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 487
+ID Restaurante: 522
+
+*** Reserva 55 ***
+ID Cliente: 81
+Fecha Llegada: 2024-04-18
+Fecha Salida: 2024-04-19
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 95
+ID Restaurante: 474
+
+*** Reserva 56 ***
+ID Cliente: 242
+Fecha Llegada: 2024-03-30
+Fecha Salida: 2024-04-04
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 275
+ID Restaurante: 822
+
+*** Reserva 57 ***
+ID Cliente: 302
+Fecha Llegada: 2024-04-30
+Fecha Salida: 2024-05-03
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 705
+ID Restaurante: 582
+
+*** Reserva 58 ***
+ID Cliente: 237
+Fecha Llegada: 2024-03-17
+Fecha Salida: 2024-03-22
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 570
+ID Restaurante: 793
+
+*** Reserva 59 ***
+ID Cliente: 57
+Fecha Llegada: 2024-02-17
+Fecha Salida: 2024-02-22
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 522
+ID Restaurante: 541
+
+*** Reserva 60 ***
+ID Cliente: 219
+Fecha Llegada: 2024-04-29
+Fecha Salida: 2024-05-02
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 587
+ID Restaurante: 770
+
+*** Reserva 61 ***
+ID Cliente: 849
+Fecha Llegada: 2024-02-18
+Fecha Salida: 2024-02-27
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 122
+ID Restaurante: 129
+
+*** Reserva 62 ***
+ID Cliente: 777
+Fecha Llegada: 2024-02-26
+Fecha Salida: 2024-03-05
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 161
+ID Restaurante: 715
+
+*** Reserva 63 ***
+ID Cliente: 957
+Fecha Llegada: 2024-02-20
+Fecha Salida: 2024-02-24
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 686
+ID Restaurante: 216
+
+*** Reserva 64 ***
+ID Cliente: 700
+Fecha Llegada: 2024-01-08
+Fecha Salida: 2024-01-18
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 427
+ID Restaurante: 946
+
+*** Reserva 65 ***
+ID Cliente: 638
+Fecha Llegada: 2024-03-21
+Fecha Salida: 2024-03-26
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 633
+ID Restaurante: 155
+
+*** Reserva 66 ***
+ID Cliente: 778
+Fecha Llegada: 2024-02-27
+Fecha Salida: 2024-03-06
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 873
+ID Restaurante: 732
+
+*** Reserva 67 ***
+ID Cliente: 903
+Fecha Llegada: 2024-04-04
+Fecha Salida: 2024-04-08
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 814
+ID Restaurante: 731
+
+*** Reserva 68 ***
+ID Cliente: 782
+Fecha Llegada: 2024-02-04
+Fecha Salida: 2024-02-06
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 404
+ID Restaurante: 519
+
+*** Reserva 69 ***
+ID Cliente: 780
+Fecha Llegada: 2024-04-08
+Fecha Salida: 2024-04-10
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 291
+ID Restaurante: 116
+
+*** Reserva 70 ***
+ID Cliente: 760
+Fecha Llegada: 2024-04-18
+Fecha Salida: 2024-04-23
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 343
+ID Restaurante: 784
+
+*** Reserva 71 ***
+ID Cliente: 249
+Fecha Llegada: 2024-02-08
+Fecha Salida: 2024-02-12
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 30
+ID Restaurante: 770
+
+*** Reserva 72 ***
+ID Cliente: 133
+Fecha Llegada: 2024-03-25
+Fecha Salida: 2024-03-27
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 940
+ID Restaurante: 972
+
+*** Reserva 73 ***
+ID Cliente: 898
+Fecha Llegada: 2024-01-11
+Fecha Salida: 2024-01-12
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 682
+ID Restaurante: 537
+
+*** Reserva 74 ***
+ID Cliente: 182
+Fecha Llegada: 2024-03-20
+Fecha Salida: 2024-03-30
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 937
+ID Restaurante: 826
+
+*** Reserva 75 ***
+ID Cliente: 864
+Fecha Llegada: 2024-02-29
+Fecha Salida: 2024-03-07
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 556
+ID Restaurante: 138
+
+*** Reserva 76 ***
+ID Cliente: 238
+Fecha Llegada: 2024-04-01
+Fecha Salida: 2024-04-11
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 677
+ID Restaurante: 971
+
+*** Reserva 77 ***
+ID Cliente: 453
+Fecha Llegada: 2024-01-14
+Fecha Salida: 2024-01-15
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 575
+ID Restaurante: 11
+
+*** Reserva 78 ***
+ID Cliente: 351
+Fecha Llegada: 2024-02-06
+Fecha Salida: 2024-02-14
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 64
+ID Restaurante: 303
+
+*** Reserva 79 ***
+ID Cliente: 159
+Fecha Llegada: 2024-03-26
+Fecha Salida: 2024-04-01
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 783
+ID Restaurante: 380
+
+*** Reserva 80 ***
+ID Cliente: 559
+Fecha Llegada: 2024-01-11
+Fecha Salida: 2024-01-13
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 198
+ID Restaurante: 503
+
+*** Reserva 81 ***
+ID Cliente: 546
+Fecha Llegada: 2024-04-06
+Fecha Salida: 2024-04-15
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 594
+ID Restaurante: 519
+
+*** Reserva 82 ***
+ID Cliente: 720
+Fecha Llegada: 2024-04-06
+Fecha Salida: 2024-04-13
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 216
+ID Restaurante: 700
+
+*** Reserva 83 ***
+ID Cliente: 653
+Fecha Llegada: 2024-04-10
+Fecha Salida: 2024-04-19
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 170
+ID Restaurante: 162
+
+*** Reserva 84 ***
+ID Cliente: 588
+Fecha Llegada: 2024-04-17
+Fecha Salida: 2024-04-22
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 897
+ID Restaurante: 395
+
+*** Reserva 85 ***
+ID Cliente: 446
+Fecha Llegada: 2024-04-14
+Fecha Salida: 2024-04-22
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 430
+ID Restaurante: 426
+
+*** Reserva 86 ***
+ID Cliente: 216
+Fecha Llegada: 2024-02-11
+Fecha Salida: 2024-02-17
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 967
+ID Restaurante: 399
+
+*** Reserva 87 ***
+ID Cliente: 829
+Fecha Llegada: 2024-01-24
+Fecha Salida: 2024-01-28
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 465
+ID Restaurante: 703
+
+*** Reserva 88 ***
+ID Cliente: 229
+Fecha Llegada: 2024-01-21
+Fecha Salida: 2024-01-24
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 659
+ID Restaurante: 227
+
+*** Reserva 89 ***
+ID Cliente: 196
+Fecha Llegada: 2024-02-26
+Fecha Salida: 2024-03-06
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 790
+ID Restaurante: 808
+
+*** Reserva 90 ***
+ID Cliente: 466
+Fecha Llegada: 2024-04-18
+Fecha Salida: 2024-04-28
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 775
+ID Restaurante: 93
+
+*** Reserva 91 ***
+ID Cliente: 336
+Fecha Llegada: 2024-02-03
+Fecha Salida: 2024-02-04
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 819
+ID Restaurante: 193
+
+*** Reserva 92 ***
+ID Cliente: 787
+Fecha Llegada: 2024-03-01
+Fecha Salida: 2024-03-03
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 191
+ID Restaurante: 957
+
+*** Reserva 93 ***
+ID Cliente: 666
+Fecha Llegada: 2024-03-07
+Fecha Salida: 2024-03-13
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 537
+ID Restaurante: 243
+
+*** Reserva 94 ***
+ID Cliente: 301
+Fecha Llegada: 2024-04-22
+Fecha Salida: 2024-04-24
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 752
+ID Restaurante: 93
+
+*** Reserva 95 ***
+ID Cliente: 495
+Fecha Llegada: 2024-02-06
+Fecha Salida: 2024-02-16
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 85
+ID Restaurante: 659
+
+*** Reserva 96 ***
+ID Cliente: 364
+Fecha Llegada: 2024-04-08
+Fecha Salida: 2024-04-15
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 504
+ID Restaurante: 343
+
+*** Reserva 97 ***
+ID Cliente: 75
+Fecha Llegada: 2024-02-29
+Fecha Salida: 2024-03-04
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 605
+ID Restaurante: 932
+
+*** Reserva 98 ***
+ID Cliente: 870
+Fecha Llegada: 2024-03-13
+Fecha Salida: 2024-03-14
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 764
+ID Restaurante: 39
+
+*** Reserva 99 ***
+ID Cliente: 450
+Fecha Llegada: 2024-04-19
+Fecha Salida: 2024-04-22
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 944
+ID Restaurante: 424
+
+*** Reserva 100 ***
+ID Cliente: 46
+Fecha Llegada: 2024-04-08
+Fecha Salida: 2024-04-13
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 484
+ID Restaurante: 387
+
+*** Reserva 101 ***
+ID Cliente: 998
+Fecha Llegada: 2024-02-28
+Fecha Salida: 2024-03-06
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 866
+ID Restaurante: 538
+
+*** Reserva 102 ***
+ID Cliente: 535
+Fecha Llegada: 2024-02-24
+Fecha Salida: 2024-03-04
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 922
+ID Restaurante: 582
+
+*** Reserva 103 ***
+ID Cliente: 429
+Fecha Llegada: 2024-01-04
+Fecha Salida: 2024-01-13
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 595
+ID Restaurante: 403
+
+*** Reserva 104 ***
+ID Cliente: 169
+Fecha Llegada: 2024-01-05
+Fecha Salida: 2024-01-08
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 921
+ID Restaurante: 695
+
+*** Reserva 105 ***
+ID Cliente: 163
+Fecha Llegada: 2024-03-07
+Fecha Salida: 2024-03-10
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 741
+ID Restaurante: 192
+
+*** Reserva 106 ***
+ID Cliente: 87
+Fecha Llegada: 2024-04-08
+Fecha Salida: 2024-04-18
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 420
+ID Restaurante: 780
+
+*** Reserva 107 ***
+ID Cliente: 536
+Fecha Llegada: 2024-04-19
+Fecha Salida: 2024-04-29
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 626
+ID Restaurante: 5
+
+*** Reserva 108 ***
+ID Cliente: 682
+Fecha Llegada: 2024-04-17
+Fecha Salida: 2024-04-25
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 373
+ID Restaurante: 824
+
+*** Reserva 109 ***
+ID Cliente: 34
+Fecha Llegada: 2024-01-12
+Fecha Salida: 2024-01-17
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 625
+ID Restaurante: 963
+
+*** Reserva 110 ***
+ID Cliente: 767
+Fecha Llegada: 2024-02-16
+Fecha Salida: 2024-02-25
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 78
+ID Restaurante: 716
+
+*** Reserva 111 ***
+ID Cliente: 25
+Fecha Llegada: 2024-02-20
+Fecha Salida: 2024-02-24
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 736
+ID Restaurante: 579
+
+*** Reserva 112 ***
+ID Cliente: 890
+Fecha Llegada: 2024-04-20
+Fecha Salida: 2024-04-24
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 622
+ID Restaurante: 426
+
+*** Reserva 113 ***
+ID Cliente: 954
+Fecha Llegada: 2024-03-27
+Fecha Salida: 2024-04-06
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 742
+ID Restaurante: 928
+
+*** Reserva 114 ***
+ID Cliente: 980
+Fecha Llegada: 2024-04-25
+Fecha Salida: 2024-05-02
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 113
+ID Restaurante: 631
+
+*** Reserva 115 ***
+ID Cliente: 657
+Fecha Llegada: 2024-03-28
+Fecha Salida: 2024-04-07
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 758
+ID Restaurante: 829
+
+*** Reserva 116 ***
+ID Cliente: 826
+Fecha Llegada: 2024-01-06
+Fecha Salida: 2024-01-12
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 883
+ID Restaurante: 961
+
+*** Reserva 117 ***
+ID Cliente: 987
+Fecha Llegada: 2024-01-14
+Fecha Salida: 2024-01-24
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 941
+ID Restaurante: 640
+
+*** Reserva 118 ***
+ID Cliente: 196
+Fecha Llegada: 2024-02-02
+Fecha Salida: 2024-02-09
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 234
+ID Restaurante: 390
+
+*** Reserva 119 ***
+ID Cliente: 580
+Fecha Llegada: 2024-03-24
+Fecha Salida: 2024-03-29
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 560
+ID Restaurante: 172
+
+*** Reserva 120 ***
+ID Cliente: 565
+Fecha Llegada: 2024-04-23
+Fecha Salida: 2024-04-28
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 581
+ID Restaurante: 585
+
+*** Reserva 121 ***
+ID Cliente: 287
+Fecha Llegada: 2024-01-18
+Fecha Salida: 2024-01-28
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 621
+ID Restaurante: 170
+
+*** Reserva 122 ***
+ID Cliente: 107
+Fecha Llegada: 2024-03-13
+Fecha Salida: 2024-03-15
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 315
+ID Restaurante: 884
+
+*** Reserva 123 ***
+ID Cliente: 785
+Fecha Llegada: 2024-04-27
+Fecha Salida: 2024-04-29
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 739
+ID Restaurante: 603
+
+*** Reserva 124 ***
+ID Cliente: 128
+Fecha Llegada: 2024-01-20
+Fecha Salida: 2024-01-22
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 337
+ID Restaurante: 231
+
+*** Reserva 125 ***
+ID Cliente: 214
+Fecha Llegada: 2024-01-01
+Fecha Salida: 2024-01-08
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 341
+ID Restaurante: 414
+
+*** Reserva 126 ***
+ID Cliente: 909
+Fecha Llegada: 2024-01-19
+Fecha Salida: 2024-01-22
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 507
+ID Restaurante: 538
+
+*** Reserva 127 ***
+ID Cliente: 272
+Fecha Llegada: 2024-02-07
+Fecha Salida: 2024-02-17
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 418
+ID Restaurante: 633
+
+*** Reserva 128 ***
+ID Cliente: 845
+Fecha Llegada: 2024-03-02
+Fecha Salida: 2024-03-03
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 738
+ID Restaurante: 669
+
+*** Reserva 129 ***
+ID Cliente: 792
+Fecha Llegada: 2024-03-01
+Fecha Salida: 2024-03-03
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 694
+ID Restaurante: 500
+
+*** Reserva 130 ***
+ID Cliente: 920
+Fecha Llegada: 2024-04-04
+Fecha Salida: 2024-04-14
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 175
+ID Restaurante: 948
+
+*** Reserva 131 ***
+ID Cliente: 111
+Fecha Llegada: 2024-03-18
+Fecha Salida: 2024-03-25
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 712
+ID Restaurante: 96
+
+*** Reserva 132 ***
+ID Cliente: 726
+Fecha Llegada: 2024-03-25
+Fecha Salida: 2024-03-28
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 659
+ID Restaurante: 387
+
+*** Reserva 133 ***
+ID Cliente: 198
+Fecha Llegada: 2024-04-13
+Fecha Salida: 2024-04-22
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 573
+ID Restaurante: 92
+
+*** Reserva 134 ***
+ID Cliente: 809
+Fecha Llegada: 2024-03-12
+Fecha Salida: 2024-03-13
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 203
+ID Restaurante: 534
+
+*** Reserva 135 ***
+ID Cliente: 699
+Fecha Llegada: 2024-03-21
+Fecha Salida: 2024-03-25
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 534
+ID Restaurante: 574
+
+*** Reserva 136 ***
+ID Cliente: 458
+Fecha Llegada: 2024-01-11
+Fecha Salida: 2024-01-18
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 682
+ID Restaurante: 208
+
+*** Reserva 137 ***
+ID Cliente: 988
+Fecha Llegada: 2024-01-28
+Fecha Salida: 2024-02-05
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 296
+ID Restaurante: 24
+
+*** Reserva 138 ***
+ID Cliente: 630
+Fecha Llegada: 2024-02-06
+Fecha Salida: 2024-02-16
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 815
+ID Restaurante: 43
+
+*** Reserva 139 ***
+ID Cliente: 551
+Fecha Llegada: 2024-04-15
+Fecha Salida: 2024-04-25
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 75
+ID Restaurante: 905
+
+*** Reserva 140 ***
+ID Cliente: 797
+Fecha Llegada: 2024-01-10
+Fecha Salida: 2024-01-15
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 187
+ID Restaurante: 336
+
+*** Reserva 141 ***
+ID Cliente: 924
+Fecha Llegada: 2024-02-11
+Fecha Salida: 2024-02-17
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 153
+ID Restaurante: 722
+
+*** Reserva 142 ***
+ID Cliente: 937
+Fecha Llegada: 2024-03-01
+Fecha Salida: 2024-03-07
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 808
+ID Restaurante: 378
+
+*** Reserva 143 ***
+ID Cliente: 596
+Fecha Llegada: 2024-04-01
+Fecha Salida: 2024-04-04
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 999
+ID Restaurante: 313
+
+*** Reserva 144 ***
+ID Cliente: 891
+Fecha Llegada: 2024-01-09
+Fecha Salida: 2024-01-19
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 441
+ID Restaurante: 635
+
+*** Reserva 145 ***
+ID Cliente: 696
+Fecha Llegada: 2024-01-25
+Fecha Salida: 2024-02-02
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 476
+ID Restaurante: 554
+
+*** Reserva 146 ***
+ID Cliente: 199
+Fecha Llegada: 2024-01-05
+Fecha Salida: 2024-01-07
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 360
+ID Restaurante: 896
+
+*** Reserva 147 ***
+ID Cliente: 87
+Fecha Llegada: 2024-02-23
+Fecha Salida: 2024-03-03
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 834
+ID Restaurante: 392
+
+*** Reserva 148 ***
+ID Cliente: 589
+Fecha Llegada: 2024-02-06
+Fecha Salida: 2024-02-10
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 781
+ID Restaurante: 678
+
+*** Reserva 149 ***
+ID Cliente: 108
+Fecha Llegada: 2024-04-07
+Fecha Salida: 2024-04-16
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 932
+ID Restaurante: 479
+
+*** Reserva 150 ***
+ID Cliente: 493
+Fecha Llegada: 2024-01-03
+Fecha Salida: 2024-01-13
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 108
+ID Restaurante: 58
+
+*** Reserva 151 ***
+ID Cliente: 777
+Fecha Llegada: 2024-04-03
+Fecha Salida: 2024-04-09
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 819
+ID Restaurante: 961
+
+*** Reserva 152 ***
+ID Cliente: 926
+Fecha Llegada: 2024-01-11
+Fecha Salida: 2024-01-20
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 310
+ID Restaurante: 513
+
+*** Reserva 153 ***
+ID Cliente: 486
+Fecha Llegada: 2024-02-09
+Fecha Salida: 2024-02-11
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 894
+ID Restaurante: 24
+
+*** Reserva 154 ***
+ID Cliente: 915
+Fecha Llegada: 2024-04-28
+Fecha Salida: 2024-05-06
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 347
+ID Restaurante: 448
+
+*** Reserva 155 ***
+ID Cliente: 363
+Fecha Llegada: 2024-03-05
+Fecha Salida: 2024-03-12
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 607
+ID Restaurante: 248
+
+*** Reserva 156 ***
+ID Cliente: 741
+Fecha Llegada: 2024-02-22
+Fecha Salida: 2024-03-01
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 586
+ID Restaurante: 525
+
+*** Reserva 157 ***
+ID Cliente: 519
+Fecha Llegada: 2024-03-29
+Fecha Salida: 2024-04-08
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 801
+ID Restaurante: 557
+
+*** Reserva 158 ***
+ID Cliente: 946
+Fecha Llegada: 2024-01-03
+Fecha Salida: 2024-01-11
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 67
+ID Restaurante: 391
+
+*** Reserva 159 ***
+ID Cliente: 756
+Fecha Llegada: 2024-03-04
+Fecha Salida: 2024-03-06
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 882
+ID Restaurante: 616
+
+*** Reserva 160 ***
+ID Cliente: 498
+Fecha Llegada: 2024-01-22
+Fecha Salida: 2024-01-26
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 15
+ID Restaurante: 185
+
+*** Reserva 161 ***
+ID Cliente: 916
+Fecha Llegada: 2024-04-07
+Fecha Salida: 2024-04-13
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 555
+ID Restaurante: 314
+
+*** Reserva 162 ***
+ID Cliente: 109
+Fecha Llegada: 2024-01-18
+Fecha Salida: 2024-01-23
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 636
+ID Restaurante: 990
+
+*** Reserva 163 ***
+ID Cliente: 577
+Fecha Llegada: 2024-04-10
+Fecha Salida: 2024-04-12
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 580
+ID Restaurante: 937
+
+*** Reserva 164 ***
+ID Cliente: 170
+Fecha Llegada: 2024-04-21
+Fecha Salida: 2024-05-01
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 349
+ID Restaurante: 788
+
+*** Reserva 165 ***
+ID Cliente: 301
+Fecha Llegada: 2024-01-07
+Fecha Salida: 2024-01-15
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 724
+ID Restaurante: 829
+
+*** Reserva 166 ***
+ID Cliente: 15
+Fecha Llegada: 2024-02-04
+Fecha Salida: 2024-02-12
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 636
+ID Restaurante: 685
+
+*** Reserva 167 ***
+ID Cliente: 717
+Fecha Llegada: 2024-02-27
+Fecha Salida: 2024-03-04
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 318
+ID Restaurante: 965
+
+*** Reserva 168 ***
+ID Cliente: 917
+Fecha Llegada: 2024-03-18
+Fecha Salida: 2024-03-20
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 369
+ID Restaurante: 807
+
+*** Reserva 169 ***
+ID Cliente: 717
+Fecha Llegada: 2024-02-21
+Fecha Salida: 2024-03-01
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 405
+ID Restaurante: 287
+
+*** Reserva 170 ***
+ID Cliente: 963
+Fecha Llegada: 2024-02-10
+Fecha Salida: 2024-02-13
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 680
+ID Restaurante: 86
+
+*** Reserva 171 ***
+ID Cliente: 345
+Fecha Llegada: 2024-04-11
+Fecha Salida: 2024-04-21
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 316
+ID Restaurante: 9
+
+*** Reserva 172 ***
+ID Cliente: 626
+Fecha Llegada: 2024-03-06
+Fecha Salida: 2024-03-13
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 983
+ID Restaurante: 227
+
+*** Reserva 173 ***
+ID Cliente: 628
+Fecha Llegada: 2024-03-14
+Fecha Salida: 2024-03-20
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 679
+ID Restaurante: 706
+
+*** Reserva 174 ***
+ID Cliente: 959
+Fecha Llegada: 2024-01-04
+Fecha Salida: 2024-01-13
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 55
+ID Restaurante: 388
+
+*** Reserva 175 ***
+ID Cliente: 394
+Fecha Llegada: 2024-03-05
+Fecha Salida: 2024-03-14
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 817
+ID Restaurante: 843
+
+*** Reserva 176 ***
+ID Cliente: 47
+Fecha Llegada: 2024-04-28
+Fecha Salida: 2024-05-04
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 872
+ID Restaurante: 345
+
+*** Reserva 177 ***
+ID Cliente: 476
+Fecha Llegada: 2024-03-15
+Fecha Salida: 2024-03-23
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 460
+ID Restaurante: 603
+
+*** Reserva 178 ***
+ID Cliente: 109
+Fecha Llegada: 2024-01-31
+Fecha Salida: 2024-02-10
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 822
+ID Restaurante: 905
+
+*** Reserva 179 ***
+ID Cliente: 836
+Fecha Llegada: 2024-01-30
+Fecha Salida: 2024-02-05
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 244
+ID Restaurante: 915
+
+*** Reserva 180 ***
+ID Cliente: 927
+Fecha Llegada: 2024-04-19
+Fecha Salida: 2024-04-26
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 581
+ID Restaurante: 780
+
+*** Reserva 181 ***
+ID Cliente: 657
+Fecha Llegada: 2024-03-25
+Fecha Salida: 2024-03-30
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 57
+ID Restaurante: 605
+
+*** Reserva 182 ***
+ID Cliente: 921
+Fecha Llegada: 2024-01-02
+Fecha Salida: 2024-01-08
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 315
+ID Restaurante: 637
+
+*** Reserva 183 ***
+ID Cliente: 561
+Fecha Llegada: 2024-02-20
+Fecha Salida: 2024-03-01
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 309
+ID Restaurante: 541
+
+*** Reserva 184 ***
+ID Cliente: 191
+Fecha Llegada: 2024-01-13
+Fecha Salida: 2024-01-18
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 532
+ID Restaurante: 666
+
+*** Reserva 185 ***
+ID Cliente: 410
+Fecha Llegada: 2024-04-11
+Fecha Salida: 2024-04-19
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 545
+ID Restaurante: 315
+
+*** Reserva 186 ***
+ID Cliente: 26
+Fecha Llegada: 2024-04-11
+Fecha Salida: 2024-04-19
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 264
+ID Restaurante: 504
+
+*** Reserva 187 ***
+ID Cliente: 60
+Fecha Llegada: 2024-01-13
+Fecha Salida: 2024-01-18
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 234
+ID Restaurante: 758
+
+*** Reserva 188 ***
+ID Cliente: 718
+Fecha Llegada: 2024-03-27
+Fecha Salida: 2024-03-28
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 824
+ID Restaurante: 581
+
+*** Reserva 189 ***
+ID Cliente: 124
+Fecha Llegada: 2024-01-06
+Fecha Salida: 2024-01-15
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 299
+ID Restaurante: 758
+
+*** Reserva 190 ***
+ID Cliente: 533
+Fecha Llegada: 2024-03-19
+Fecha Salida: 2024-03-29
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 177
+ID Restaurante: 167
+
+*** Reserva 191 ***
+ID Cliente: 40
+Fecha Llegada: 2024-01-09
+Fecha Salida: 2024-01-15
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 151
+ID Restaurante: 483
+
+*** Reserva 192 ***
+ID Cliente: 912
+Fecha Llegada: 2024-01-28
+Fecha Salida: 2024-01-31
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 484
+ID Restaurante: 101
+
+*** Reserva 193 ***
+ID Cliente: 725
+Fecha Llegada: 2024-04-21
+Fecha Salida: 2024-04-29
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 197
+ID Restaurante: 948
+
+*** Reserva 194 ***
+ID Cliente: 708
+Fecha Llegada: 2024-01-16
+Fecha Salida: 2024-01-21
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 950
+ID Restaurante: 498
+
+*** Reserva 195 ***
+ID Cliente: 212
+Fecha Llegada: 2024-03-27
+Fecha Salida: 2024-03-31
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 856
+ID Restaurante: 528
+
+*** Reserva 196 ***
+ID Cliente: 261
+Fecha Llegada: 2024-03-04
+Fecha Salida: 2024-03-05
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 965
+ID Restaurante: 310
+
+*** Reserva 197 ***
+ID Cliente: 150
+Fecha Llegada: 2024-03-29
+Fecha Salida: 2024-03-30
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 802
+ID Restaurante: 177
+
+*** Reserva 198 ***
+ID Cliente: 539
+Fecha Llegada: 2024-01-03
+Fecha Salida: 2024-01-05
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 267
+ID Restaurante: 500
+
+*** Reserva 199 ***
+ID Cliente: 769
+Fecha Llegada: 2024-02-09
+Fecha Salida: 2024-02-18
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 70
+ID Restaurante: 357
+
+*** Reserva 200 ***
+ID Cliente: 934
+Fecha Llegada: 2024-02-21
+Fecha Salida: 2024-02-22
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 713
+ID Restaurante: 439
+
+*** Reserva 201 ***
+ID Cliente: 325
+Fecha Llegada: 2024-01-31
+Fecha Salida: 2024-02-05
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 728
+ID Restaurante: 287
+
+*** Reserva 202 ***
+ID Cliente: 790
+Fecha Llegada: 2024-03-07
+Fecha Salida: 2024-03-08
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 168
+ID Restaurante: 275
+
+*** Reserva 203 ***
+ID Cliente: 834
+Fecha Llegada: 2024-04-15
+Fecha Salida: 2024-04-25
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 792
+ID Restaurante: 138
+
+*** Reserva 204 ***
+ID Cliente: 806
+Fecha Llegada: 2024-02-27
+Fecha Salida: 2024-03-05
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 979
+ID Restaurante: 81
+
+*** Reserva 205 ***
+ID Cliente: 852
+Fecha Llegada: 2024-02-18
+Fecha Salida: 2024-02-22
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 268
+ID Restaurante: 311
+
+*** Reserva 206 ***
+ID Cliente: 887
+Fecha Llegada: 2024-01-04
+Fecha Salida: 2024-01-05
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 420
+ID Restaurante: 927
+
+*** Reserva 207 ***
+ID Cliente: 331
+Fecha Llegada: 2024-03-30
+Fecha Salida: 2024-04-03
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 472
+ID Restaurante: 285
+
+*** Reserva 208 ***
+ID Cliente: 774
+Fecha Llegada: 2024-02-19
+Fecha Salida: 2024-02-29
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 585
+ID Restaurante: 336
+
+*** Reserva 209 ***
+ID Cliente: 507
+Fecha Llegada: 2024-04-06
+Fecha Salida: 2024-04-16
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 782
+ID Restaurante: 727
+
+*** Reserva 210 ***
+ID Cliente: 715
+Fecha Llegada: 2024-04-15
+Fecha Salida: 2024-04-21
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 875
+ID Restaurante: 428
+
+*** Reserva 211 ***
+ID Cliente: 248
+Fecha Llegada: 2024-02-02
+Fecha Salida: 2024-02-06
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 840
+ID Restaurante: 650
+
+*** Reserva 212 ***
+ID Cliente: 647
+Fecha Llegada: 2024-01-21
+Fecha Salida: 2024-01-26
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 11
+ID Restaurante: 505
+
+*** Reserva 213 ***
+ID Cliente: 43
+Fecha Llegada: 2024-03-17
+Fecha Salida: 2024-03-26
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 99
+ID Restaurante: 737
+
+*** Reserva 214 ***
+ID Cliente: 608
+Fecha Llegada: 2024-01-31
+Fecha Salida: 2024-02-01
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 973
+ID Restaurante: 429
+
+*** Reserva 215 ***
+ID Cliente: 125
+Fecha Llegada: 2024-01-25
+Fecha Salida: 2024-01-29
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 175
+ID Restaurante: 87
+
+*** Reserva 216 ***
+ID Cliente: 762
+Fecha Llegada: 2024-03-21
+Fecha Salida: 2024-03-26
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 843
+ID Restaurante: 550
+
+*** Reserva 217 ***
+ID Cliente: 480
+Fecha Llegada: 2024-03-15
+Fecha Salida: 2024-03-19
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 770
+ID Restaurante: 858
+
+*** Reserva 218 ***
+ID Cliente: 696
+Fecha Llegada: 2024-03-19
+Fecha Salida: 2024-03-21
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 519
+ID Restaurante: 950
+
+*** Reserva 219 ***
+ID Cliente: 35
+Fecha Llegada: 2024-01-27
+Fecha Salida: 2024-02-05
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 159
+ID Restaurante: 41
+
+*** Reserva 220 ***
+ID Cliente: 655
+Fecha Llegada: 2024-02-04
+Fecha Salida: 2024-02-13
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 942
+ID Restaurante: 763
+
+*** Reserva 221 ***
+ID Cliente: 92
+Fecha Llegada: 2024-03-15
+Fecha Salida: 2024-03-16
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 709
+ID Restaurante: 103
+
+*** Reserva 222 ***
+ID Cliente: 684
+Fecha Llegada: 2024-03-18
+Fecha Salida: 2024-03-27
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 802
+ID Restaurante: 615
+
+*** Reserva 223 ***
+ID Cliente: 133
+Fecha Llegada: 2024-04-20
+Fecha Salida: 2024-04-28
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 961
+ID Restaurante: 724
+
+*** Reserva 224 ***
+ID Cliente: 685
+Fecha Llegada: 2024-01-04
+Fecha Salida: 2024-01-14
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 218
+ID Restaurante: 188
+
+*** Reserva 225 ***
+ID Cliente: 996
+Fecha Llegada: 2024-04-13
+Fecha Salida: 2024-04-17
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 979
+ID Restaurante: 152
+
+*** Reserva 226 ***
+ID Cliente: 635
+Fecha Llegada: 2024-04-23
+Fecha Salida: 2024-04-29
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 396
+ID Restaurante: 857
+
+*** Reserva 227 ***
+ID Cliente: 84
+Fecha Llegada: 2024-02-16
+Fecha Salida: 2024-02-17
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 526
+ID Restaurante: 295
+
+*** Reserva 228 ***
+ID Cliente: 67
+Fecha Llegada: 2024-02-22
+Fecha Salida: 2024-03-03
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 850
+ID Restaurante: 661
+
+*** Reserva 229 ***
+ID Cliente: 222
+Fecha Llegada: 2024-01-25
+Fecha Salida: 2024-02-02
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 1000
+ID Restaurante: 362
+
+*** Reserva 230 ***
+ID Cliente: 68
+Fecha Llegada: 2024-04-07
+Fecha Salida: 2024-04-15
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 142
+ID Restaurante: 179
+
+*** Reserva 231 ***
+ID Cliente: 366
+Fecha Llegada: 2024-02-21
+Fecha Salida: 2024-02-25
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 468
+ID Restaurante: 832
+
+*** Reserva 232 ***
+ID Cliente: 681
+Fecha Llegada: 2024-02-05
+Fecha Salida: 2024-02-09
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 781
+ID Restaurante: 570
+
+*** Reserva 233 ***
+ID Cliente: 202
+Fecha Llegada: 2024-01-18
+Fecha Salida: 2024-01-26
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 445
+ID Restaurante: 341
+
+*** Reserva 234 ***
+ID Cliente: 81
+Fecha Llegada: 2024-02-23
+Fecha Salida: 2024-03-04
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 513
+ID Restaurante: 616
+
+*** Reserva 235 ***
+ID Cliente: 546
+Fecha Llegada: 2024-04-07
+Fecha Salida: 2024-04-09
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 798
+ID Restaurante: 518
+
+*** Reserva 236 ***
+ID Cliente: 915
+Fecha Llegada: 2024-04-10
+Fecha Salida: 2024-04-19
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 305
+ID Restaurante: 213
+
+*** Reserva 237 ***
+ID Cliente: 473
+Fecha Llegada: 2024-01-13
+Fecha Salida: 2024-01-22
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 667
+ID Restaurante: 853
+
+*** Reserva 238 ***
+ID Cliente: 398
+Fecha Llegada: 2024-03-26
+Fecha Salida: 2024-04-04
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 145
+ID Restaurante: 542
+
+*** Reserva 239 ***
+ID Cliente: 201
+Fecha Llegada: 2024-04-06
+Fecha Salida: 2024-04-11
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 503
+ID Restaurante: 46
+
+*** Reserva 240 ***
+ID Cliente: 355
+Fecha Llegada: 2024-02-23
+Fecha Salida: 2024-03-04
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 849
+ID Restaurante: 646
+
+*** Reserva 241 ***
+ID Cliente: 168
+Fecha Llegada: 2024-02-03
+Fecha Salida: 2024-02-05
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 248
+ID Restaurante: 251
+
+*** Reserva 242 ***
+ID Cliente: 599
+Fecha Llegada: 2024-02-15
+Fecha Salida: 2024-02-25
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 467
+ID Restaurante: 922
+
+*** Reserva 243 ***
+ID Cliente: 907
+Fecha Llegada: 2024-03-15
+Fecha Salida: 2024-03-19
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 583
+ID Restaurante: 259
+
+*** Reserva 244 ***
+ID Cliente: 996
+Fecha Llegada: 2024-04-06
+Fecha Salida: 2024-04-07
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 937
+ID Restaurante: 664
+
+*** Reserva 245 ***
+ID Cliente: 291
+Fecha Llegada: 2024-01-06
+Fecha Salida: 2024-01-15
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 563
+ID Restaurante: 640
+
+*** Reserva 246 ***
+ID Cliente: 148
+Fecha Llegada: 2024-02-14
+Fecha Salida: 2024-02-24
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 972
+ID Restaurante: 799
+
+*** Reserva 247 ***
+ID Cliente: 689
+Fecha Llegada: 2024-02-21
+Fecha Salida: 2024-02-25
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 337
+ID Restaurante: 467
+
+*** Reserva 248 ***
+ID Cliente: 719
+Fecha Llegada: 2024-03-13
+Fecha Salida: 2024-03-18
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 360
+ID Restaurante: 279
+
+*** Reserva 249 ***
+ID Cliente: 600
+Fecha Llegada: 2024-04-11
+Fecha Salida: 2024-04-21
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 243
+ID Restaurante: 523
+
+*** Reserva 250 ***
+ID Cliente: 654
+Fecha Llegada: 2024-03-12
+Fecha Salida: 2024-03-21
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 213
+ID Restaurante: 838
+
+*** Reserva 251 ***
+ID Cliente: 858
+Fecha Llegada: 2024-02-02
+Fecha Salida: 2024-02-07
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 289
+ID Restaurante: 609
+
+*** Reserva 252 ***
+ID Cliente: 772
+Fecha Llegada: 2024-04-12
+Fecha Salida: 2024-04-20
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 784
+ID Restaurante: 56
+
+*** Reserva 253 ***
+ID Cliente: 615
+Fecha Llegada: 2024-04-04
+Fecha Salida: 2024-04-13
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 390
+ID Restaurante: 140
+
+*** Reserva 254 ***
+ID Cliente: 769
+Fecha Llegada: 2024-04-24
+Fecha Salida: 2024-04-26
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 240
+ID Restaurante: 377
+
+*** Reserva 255 ***
+ID Cliente: 471
+Fecha Llegada: 2024-02-04
+Fecha Salida: 2024-02-12
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 365
+ID Restaurante: 411
+
+*** Reserva 256 ***
+ID Cliente: 405
+Fecha Llegada: 2024-02-28
+Fecha Salida: 2024-03-05
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 667
+ID Restaurante: 254
+
+*** Reserva 257 ***
+ID Cliente: 853
+Fecha Llegada: 2024-01-02
+Fecha Salida: 2024-01-06
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 824
+ID Restaurante: 870
+
+*** Reserva 258 ***
+ID Cliente: 329
+Fecha Llegada: 2024-03-14
+Fecha Salida: 2024-03-24
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 978
+ID Restaurante: 796
+
+*** Reserva 259 ***
+ID Cliente: 377
+Fecha Llegada: 2024-02-29
+Fecha Salida: 2024-03-02
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 410
+ID Restaurante: 912
+
+*** Reserva 260 ***
+ID Cliente: 982
+Fecha Llegada: 2024-02-14
+Fecha Salida: 2024-02-18
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 44
+ID Restaurante: 837
+
+*** Reserva 261 ***
+ID Cliente: 478
+Fecha Llegada: 2024-02-28
+Fecha Salida: 2024-03-09
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 504
+ID Restaurante: 280
+
+*** Reserva 262 ***
+ID Cliente: 820
+Fecha Llegada: 2024-04-13
+Fecha Salida: 2024-04-14
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 197
+ID Restaurante: 911
+
+*** Reserva 263 ***
+ID Cliente: 909
+Fecha Llegada: 2024-04-23
+Fecha Salida: 2024-04-30
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 48
+ID Restaurante: 647
+
+*** Reserva 264 ***
+ID Cliente: 834
+Fecha Llegada: 2024-03-08
+Fecha Salida: 2024-03-16
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 695
+ID Restaurante: 532
+
+*** Reserva 265 ***
+ID Cliente: 349
+Fecha Llegada: 2024-03-08
+Fecha Salida: 2024-03-13
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 228
+ID Restaurante: 795
+
+*** Reserva 266 ***
+ID Cliente: 816
+Fecha Llegada: 2024-02-02
+Fecha Salida: 2024-02-12
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 759
+ID Restaurante: 256
+
+*** Reserva 267 ***
+ID Cliente: 107
+Fecha Llegada: 2024-01-13
+Fecha Salida: 2024-01-14
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 280
+ID Restaurante: 579
+
+*** Reserva 268 ***
+ID Cliente: 878
+Fecha Llegada: 2024-03-11
+Fecha Salida: 2024-03-13
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 250
+ID Restaurante: 696
+
+*** Reserva 269 ***
+ID Cliente: 903
+Fecha Llegada: 2024-04-09
+Fecha Salida: 2024-04-19
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 778
+ID Restaurante: 901
+
+*** Reserva 270 ***
+ID Cliente: 270
+Fecha Llegada: 2024-01-14
+Fecha Salida: 2024-01-15
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 176
+ID Restaurante: 741
+
+*** Reserva 271 ***
+ID Cliente: 393
+Fecha Llegada: 2024-02-27
+Fecha Salida: 2024-03-01
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 395
+ID Restaurante: 308
+
+*** Reserva 272 ***
+ID Cliente: 487
+Fecha Llegada: 2024-01-28
+Fecha Salida: 2024-01-31
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 786
+ID Restaurante: 601
+
+*** Reserva 273 ***
+ID Cliente: 769
+Fecha Llegada: 2024-02-29
+Fecha Salida: 2024-03-10
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 50
+ID Restaurante: 268
+
+*** Reserva 274 ***
+ID Cliente: 450
+Fecha Llegada: 2024-03-11
+Fecha Salida: 2024-03-19
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 606
+ID Restaurante: 709
+
+*** Reserva 275 ***
+ID Cliente: 478
+Fecha Llegada: 2024-01-09
+Fecha Salida: 2024-01-11
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 390
+ID Restaurante: 49
+
+*** Reserva 276 ***
+ID Cliente: 734
+Fecha Llegada: 2024-01-24
+Fecha Salida: 2024-01-30
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 645
+ID Restaurante: 370
+
+*** Reserva 277 ***
+ID Cliente: 802
+Fecha Llegada: 2024-02-14
+Fecha Salida: 2024-02-15
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 53
+ID Restaurante: 19
+
+*** Reserva 278 ***
+ID Cliente: 265
+Fecha Llegada: 2024-01-04
+Fecha Salida: 2024-01-11
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 771
+ID Restaurante: 58
+
+*** Reserva 279 ***
+ID Cliente: 510
+Fecha Llegada: 2024-03-08
+Fecha Salida: 2024-03-12
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 769
+ID Restaurante: 435
+
+*** Reserva 280 ***
+ID Cliente: 225
+Fecha Llegada: 2024-01-29
+Fecha Salida: 2024-02-03
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 95
+ID Restaurante: 813
+
+*** Reserva 281 ***
+ID Cliente: 167
+Fecha Llegada: 2024-02-14
+Fecha Salida: 2024-02-22
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 585
+ID Restaurante: 407
+
+*** Reserva 282 ***
+ID Cliente: 969
+Fecha Llegada: 2024-02-04
+Fecha Salida: 2024-02-14
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 282
+ID Restaurante: 932
+
+*** Reserva 283 ***
+ID Cliente: 604
+Fecha Llegada: 2024-01-17
+Fecha Salida: 2024-01-23
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 734
+ID Restaurante: 9
+
+*** Reserva 284 ***
+ID Cliente: 89
+Fecha Llegada: 2024-02-19
+Fecha Salida: 2024-02-26
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 323
+ID Restaurante: 222
+
+*** Reserva 285 ***
+ID Cliente: 260
+Fecha Llegada: 2024-02-23
+Fecha Salida: 2024-02-25
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 79
+ID Restaurante: 610
+
+*** Reserva 286 ***
+ID Cliente: 19
+Fecha Llegada: 2024-03-07
+Fecha Salida: 2024-03-13
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 818
+ID Restaurante: 860
+
+*** Reserva 287 ***
+ID Cliente: 737
+Fecha Llegada: 2024-04-18
+Fecha Salida: 2024-04-21
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 781
+ID Restaurante: 75
+
+*** Reserva 288 ***
+ID Cliente: 111
+Fecha Llegada: 2024-01-21
+Fecha Salida: 2024-01-30
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 180
+ID Restaurante: 148
+
+*** Reserva 289 ***
+ID Cliente: 43
+Fecha Llegada: 2024-02-24
+Fecha Salida: 2024-03-01
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 760
+ID Restaurante: 101
+
+*** Reserva 290 ***
+ID Cliente: 250
+Fecha Llegada: 2024-04-11
+Fecha Salida: 2024-04-14
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 351
+ID Restaurante: 215
+
+*** Reserva 291 ***
+ID Cliente: 698
+Fecha Llegada: 2024-04-17
+Fecha Salida: 2024-04-25
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 126
+ID Restaurante: 115
+
+*** Reserva 292 ***
+ID Cliente: 75
+Fecha Llegada: 2024-04-24
+Fecha Salida: 2024-05-04
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 615
+ID Restaurante: 709
+
+*** Reserva 293 ***
+ID Cliente: 372
+Fecha Llegada: 2024-02-26
+Fecha Salida: 2024-03-06
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 252
+ID Restaurante: 757
+
+*** Reserva 294 ***
+ID Cliente: 589
+Fecha Llegada: 2024-04-20
+Fecha Salida: 2024-04-27
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 533
+ID Restaurante: 205
+
+*** Reserva 295 ***
+ID Cliente: 270
+Fecha Llegada: 2024-03-06
+Fecha Salida: 2024-03-16
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 149
+ID Restaurante: 403
+
+*** Reserva 296 ***
+ID Cliente: 603
+Fecha Llegada: 2024-03-22
+Fecha Salida: 2024-03-26
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 750
+ID Restaurante: 389
+
+*** Reserva 297 ***
+ID Cliente: 562
+Fecha Llegada: 2024-01-07
+Fecha Salida: 2024-01-08
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 798
+ID Restaurante: 803
+
+*** Reserva 298 ***
+ID Cliente: 996
+Fecha Llegada: 2024-04-12
+Fecha Salida: 2024-04-19
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 727
+ID Restaurante: 642
+
+*** Reserva 299 ***
+ID Cliente: 504
+Fecha Llegada: 2024-01-08
+Fecha Salida: 2024-01-14
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 772
+ID Restaurante: 818
+
+*** Reserva 300 ***
+ID Cliente: 966
+Fecha Llegada: 2024-03-21
+Fecha Salida: 2024-03-28
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 233
+ID Restaurante: 648
+
+*** Reserva 301 ***
+ID Cliente: 755
+Fecha Llegada: 2024-03-13
+Fecha Salida: 2024-03-21
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 798
+ID Restaurante: 719
+
+*** Reserva 302 ***
+ID Cliente: 392
+Fecha Llegada: 2024-01-26
+Fecha Salida: 2024-02-03
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 100
+ID Restaurante: 576
+
+*** Reserva 303 ***
+ID Cliente: 886
+Fecha Llegada: 2024-02-05
+Fecha Salida: 2024-02-10
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 626
+ID Restaurante: 436
+
+*** Reserva 304 ***
+ID Cliente: 783
+Fecha Llegada: 2024-02-07
+Fecha Salida: 2024-02-17
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 489
+ID Restaurante: 929
+
+*** Reserva 305 ***
+ID Cliente: 221
+Fecha Llegada: 2024-02-26
+Fecha Salida: 2024-03-02
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 443
+ID Restaurante: 676
+
+*** Reserva 306 ***
+ID Cliente: 153
+Fecha Llegada: 2024-01-26
+Fecha Salida: 2024-01-28
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 74
+ID Restaurante: 453
+
+*** Reserva 307 ***
+ID Cliente: 903
+Fecha Llegada: 2024-04-03
+Fecha Salida: 2024-04-06
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 157
+ID Restaurante: 144
+
+*** Reserva 308 ***
+ID Cliente: 216
+Fecha Llegada: 2024-03-07
+Fecha Salida: 2024-03-12
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 761
+ID Restaurante: 956
+
+*** Reserva 309 ***
+ID Cliente: 489
+Fecha Llegada: 2024-03-29
+Fecha Salida: 2024-04-01
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 561
+ID Restaurante: 331
+
+*** Reserva 310 ***
+ID Cliente: 70
+Fecha Llegada: 2024-04-21
+Fecha Salida: 2024-04-29
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 263
+ID Restaurante: 880
+
+*** Reserva 311 ***
+ID Cliente: 878
+Fecha Llegada: 2024-04-13
+Fecha Salida: 2024-04-17
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 282
+ID Restaurante: 333
+
+*** Reserva 312 ***
+ID Cliente: 98
+Fecha Llegada: 2024-01-26
+Fecha Salida: 2024-01-30
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 594
+ID Restaurante: 656
+
+*** Reserva 313 ***
+ID Cliente: 520
+Fecha Llegada: 2024-03-19
+Fecha Salida: 2024-03-21
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 36
+ID Restaurante: 358
+
+*** Reserva 314 ***
+ID Cliente: 686
+Fecha Llegada: 2024-03-11
+Fecha Salida: 2024-03-20
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 796
+ID Restaurante: 150
+
+*** Reserva 315 ***
+ID Cliente: 178
+Fecha Llegada: 2024-02-25
+Fecha Salida: 2024-03-06
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 534
+ID Restaurante: 98
+
+*** Reserva 316 ***
+ID Cliente: 429
+Fecha Llegada: 2024-02-22
+Fecha Salida: 2024-03-03
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 599
+ID Restaurante: 40
+
+*** Reserva 317 ***
+ID Cliente: 217
+Fecha Llegada: 2024-02-13
+Fecha Salida: 2024-02-19
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 241
+ID Restaurante: 507
+
+*** Reserva 318 ***
+ID Cliente: 573
+Fecha Llegada: 2024-04-30
+Fecha Salida: 2024-05-01
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 245
+ID Restaurante: 359
+
+*** Reserva 319 ***
+ID Cliente: 299
+Fecha Llegada: 2024-03-20
+Fecha Salida: 2024-03-24
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 446
+ID Restaurante: 687
+
+*** Reserva 320 ***
+ID Cliente: 894
+Fecha Llegada: 2024-02-04
+Fecha Salida: 2024-02-07
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 140
+ID Restaurante: 48
+
+*** Reserva 321 ***
+ID Cliente: 601
+Fecha Llegada: 2024-01-31
+Fecha Salida: 2024-02-09
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 27
+ID Restaurante: 344
+
+*** Reserva 322 ***
+ID Cliente: 563
+Fecha Llegada: 2024-02-20
+Fecha Salida: 2024-02-22
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 439
+ID Restaurante: 952
+
+*** Reserva 323 ***
+ID Cliente: 957
+Fecha Llegada: 2024-04-20
+Fecha Salida: 2024-04-30
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 858
+ID Restaurante: 220
+
+*** Reserva 324 ***
+ID Cliente: 642
+Fecha Llegada: 2024-01-31
+Fecha Salida: 2024-02-08
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 736
+ID Restaurante: 634
+
+*** Reserva 325 ***
+ID Cliente: 365
+Fecha Llegada: 2024-01-08
+Fecha Salida: 2024-01-17
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 682
+ID Restaurante: 52
+
+*** Reserva 326 ***
+ID Cliente: 564
+Fecha Llegada: 2024-03-26
+Fecha Salida: 2024-03-29
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 392
+ID Restaurante: 934
+
+*** Reserva 327 ***
+ID Cliente: 737
+Fecha Llegada: 2024-04-18
+Fecha Salida: 2024-04-21
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 740
+ID Restaurante: 151
+
+*** Reserva 328 ***
+ID Cliente: 164
+Fecha Llegada: 2024-03-06
+Fecha Salida: 2024-03-15
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 542
+ID Restaurante: 699
+
+*** Reserva 329 ***
+ID Cliente: 653
+Fecha Llegada: 2024-03-24
+Fecha Salida: 2024-03-29
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 522
+ID Restaurante: 348
+
+*** Reserva 330 ***
+ID Cliente: 271
+Fecha Llegada: 2024-03-29
+Fecha Salida: 2024-04-07
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 976
+ID Restaurante: 229
+
+*** Reserva 331 ***
+ID Cliente: 854
+Fecha Llegada: 2024-03-24
+Fecha Salida: 2024-03-29
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 689
+ID Restaurante: 161
+
+*** Reserva 332 ***
+ID Cliente: 76
+Fecha Llegada: 2024-01-05
+Fecha Salida: 2024-01-10
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 660
+ID Restaurante: 935
+
+*** Reserva 333 ***
+ID Cliente: 461
+Fecha Llegada: 2024-03-24
+Fecha Salida: 2024-04-01
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 801
+ID Restaurante: 11
+
+*** Reserva 334 ***
+ID Cliente: 922
+Fecha Llegada: 2024-02-08
+Fecha Salida: 2024-02-17
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 438
+ID Restaurante: 187
+
+*** Reserva 335 ***
+ID Cliente: 755
+Fecha Llegada: 2024-01-07
+Fecha Salida: 2024-01-12
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 922
+ID Restaurante: 171
+
+*** Reserva 336 ***
+ID Cliente: 899
+Fecha Llegada: 2024-03-17
+Fecha Salida: 2024-03-24
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 989
+ID Restaurante: 45
+
+*** Reserva 337 ***
+ID Cliente: 306
+Fecha Llegada: 2024-04-05
+Fecha Salida: 2024-04-08
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 278
+ID Restaurante: 401
+
+*** Reserva 338 ***
+ID Cliente: 763
+Fecha Llegada: 2024-04-04
+Fecha Salida: 2024-04-12
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 254
+ID Restaurante: 228
+
+*** Reserva 339 ***
+ID Cliente: 926
+Fecha Llegada: 2024-04-18
+Fecha Salida: 2024-04-19
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 548
+ID Restaurante: 343
+
+*** Reserva 340 ***
+ID Cliente: 220
+Fecha Llegada: 2024-04-18
+Fecha Salida: 2024-04-24
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 918
+ID Restaurante: 473
+
+*** Reserva 341 ***
+ID Cliente: 418
+Fecha Llegada: 2024-04-27
+Fecha Salida: 2024-05-05
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 250
+ID Restaurante: 359
+
+*** Reserva 342 ***
+ID Cliente: 2
+Fecha Llegada: 2024-02-14
+Fecha Salida: 2024-02-18
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 432
+ID Restaurante: 479
+
+*** Reserva 343 ***
+ID Cliente: 267
+Fecha Llegada: 2024-04-01
+Fecha Salida: 2024-04-02
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 995
+ID Restaurante: 447
+
+*** Reserva 344 ***
+ID Cliente: 498
+Fecha Llegada: 2024-02-16
+Fecha Salida: 2024-02-23
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 195
+ID Restaurante: 273
+
+*** Reserva 345 ***
+ID Cliente: 275
+Fecha Llegada: 2024-04-04
+Fecha Salida: 2024-04-11
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 680
+ID Restaurante: 871
+
+*** Reserva 346 ***
+ID Cliente: 614
+Fecha Llegada: 2024-01-15
+Fecha Salida: 2024-01-21
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 973
+ID Restaurante: 677
+
+*** Reserva 347 ***
+ID Cliente: 924
+Fecha Llegada: 2024-02-03
+Fecha Salida: 2024-02-12
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 647
+ID Restaurante: 605
+
+*** Reserva 348 ***
+ID Cliente: 131
+Fecha Llegada: 2024-04-16
+Fecha Salida: 2024-04-18
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 431
+ID Restaurante: 423
+
+*** Reserva 349 ***
+ID Cliente: 422
+Fecha Llegada: 2024-04-22
+Fecha Salida: 2024-05-01
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 357
+ID Restaurante: 169
+
+*** Reserva 350 ***
+ID Cliente: 486
+Fecha Llegada: 2024-03-08
+Fecha Salida: 2024-03-18
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 910
+ID Restaurante: 680
+
+*** Reserva 351 ***
+ID Cliente: 459
+Fecha Llegada: 2024-04-22
+Fecha Salida: 2024-04-30
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 228
+ID Restaurante: 71
+
+*** Reserva 352 ***
+ID Cliente: 343
+Fecha Llegada: 2024-03-02
+Fecha Salida: 2024-03-12
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 461
+ID Restaurante: 917
+
+*** Reserva 353 ***
+ID Cliente: 940
+Fecha Llegada: 2024-03-04
+Fecha Salida: 2024-03-06
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 461
+ID Restaurante: 994
+
+*** Reserva 354 ***
+ID Cliente: 503
+Fecha Llegada: 2024-03-07
+Fecha Salida: 2024-03-08
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 968
+ID Restaurante: 221
+
+*** Reserva 355 ***
+ID Cliente: 496
+Fecha Llegada: 2024-04-23
+Fecha Salida: 2024-05-03
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 997
+ID Restaurante: 833
+
+*** Reserva 356 ***
+ID Cliente: 358
+Fecha Llegada: 2024-02-23
+Fecha Salida: 2024-03-02
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 866
+ID Restaurante: 53
+
+*** Reserva 357 ***
+ID Cliente: 703
+Fecha Llegada: 2024-04-12
+Fecha Salida: 2024-04-16
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 511
+ID Restaurante: 959
+
+*** Reserva 358 ***
+ID Cliente: 862
+Fecha Llegada: 2024-01-18
+Fecha Salida: 2024-01-21
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 376
+ID Restaurante: 173
+
+*** Reserva 359 ***
+ID Cliente: 237
+Fecha Llegada: 2024-03-09
+Fecha Salida: 2024-03-19
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 413
+ID Restaurante: 939
+
+*** Reserva 360 ***
+ID Cliente: 239
+Fecha Llegada: 2024-02-05
+Fecha Salida: 2024-02-13
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 545
+ID Restaurante: 815
+
+*** Reserva 361 ***
+ID Cliente: 752
+Fecha Llegada: 2024-01-22
+Fecha Salida: 2024-02-01
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 798
+ID Restaurante: 637
+
+*** Reserva 362 ***
+ID Cliente: 156
+Fecha Llegada: 2024-02-04
+Fecha Salida: 2024-02-13
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 732
+ID Restaurante: 676
+
+*** Reserva 363 ***
+ID Cliente: 238
+Fecha Llegada: 2024-01-07
+Fecha Salida: 2024-01-13
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 739
+ID Restaurante: 734
+
+*** Reserva 364 ***
+ID Cliente: 210
+Fecha Llegada: 2024-03-10
+Fecha Salida: 2024-03-14
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 273
+ID Restaurante: 199
+
+*** Reserva 365 ***
+ID Cliente: 919
+Fecha Llegada: 2024-02-05
+Fecha Salida: 2024-02-12
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 25
+ID Restaurante: 832
+
+*** Reserva 366 ***
+ID Cliente: 606
+Fecha Llegada: 2024-03-20
+Fecha Salida: 2024-03-24
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 736
+ID Restaurante: 69
+
+*** Reserva 367 ***
+ID Cliente: 606
+Fecha Llegada: 2024-03-22
+Fecha Salida: 2024-03-24
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 803
+ID Restaurante: 46
+
+*** Reserva 368 ***
+ID Cliente: 511
+Fecha Llegada: 2024-02-20
+Fecha Salida: 2024-02-27
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 883
+ID Restaurante: 73
+
+*** Reserva 369 ***
+ID Cliente: 113
+Fecha Llegada: 2024-02-06
+Fecha Salida: 2024-02-11
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 744
+ID Restaurante: 464
+
+*** Reserva 370 ***
+ID Cliente: 325
+Fecha Llegada: 2024-02-14
+Fecha Salida: 2024-02-16
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 385
+ID Restaurante: 169
+
+*** Reserva 371 ***
+ID Cliente: 25
+Fecha Llegada: 2024-01-09
+Fecha Salida: 2024-01-19
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 179
+ID Restaurante: 398
+
+*** Reserva 372 ***
+ID Cliente: 511
+Fecha Llegada: 2024-04-20
+Fecha Salida: 2024-04-26
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 141
+ID Restaurante: 624
+
+*** Reserva 373 ***
+ID Cliente: 585
+Fecha Llegada: 2024-03-13
+Fecha Salida: 2024-03-14
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 86
+ID Restaurante: 769
+
+*** Reserva 374 ***
+ID Cliente: 392
+Fecha Llegada: 2024-02-02
+Fecha Salida: 2024-02-08
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 811
+ID Restaurante: 578
+
+*** Reserva 375 ***
+ID Cliente: 189
+Fecha Llegada: 2024-02-12
+Fecha Salida: 2024-02-22
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 240
+ID Restaurante: 633
+
+*** Reserva 376 ***
+ID Cliente: 53
+Fecha Llegada: 2024-02-10
+Fecha Salida: 2024-02-15
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 962
+ID Restaurante: 943
+
+*** Reserva 377 ***
+ID Cliente: 317
+Fecha Llegada: 2024-01-15
+Fecha Salida: 2024-01-16
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 274
+ID Restaurante: 910
+
+*** Reserva 378 ***
+ID Cliente: 9
+Fecha Llegada: 2024-02-24
+Fecha Salida: 2024-03-05
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 686
+ID Restaurante: 993
+
+*** Reserva 379 ***
+ID Cliente: 174
+Fecha Llegada: 2024-01-27
+Fecha Salida: 2024-02-03
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 232
+ID Restaurante: 867
+
+*** Reserva 380 ***
+ID Cliente: 150
+Fecha Llegada: 2024-01-04
+Fecha Salida: 2024-01-14
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 156
+ID Restaurante: 360
+
+*** Reserva 381 ***
+ID Cliente: 540
+Fecha Llegada: 2024-04-02
+Fecha Salida: 2024-04-10
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 563
+ID Restaurante: 59
+
+*** Reserva 382 ***
+ID Cliente: 753
+Fecha Llegada: 2024-02-27
+Fecha Salida: 2024-02-28
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 148
+ID Restaurante: 454
+
+*** Reserva 383 ***
+ID Cliente: 755
+Fecha Llegada: 2024-02-01
+Fecha Salida: 2024-02-05
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 927
+ID Restaurante: 10
+
+*** Reserva 384 ***
+ID Cliente: 436
+Fecha Llegada: 2024-04-30
+Fecha Salida: 2024-05-10
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 191
+ID Restaurante: 669
+
+*** Reserva 385 ***
+ID Cliente: 258
+Fecha Llegada: 2024-02-04
+Fecha Salida: 2024-02-14
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 757
+ID Restaurante: 663
+
+*** Reserva 386 ***
+ID Cliente: 762
+Fecha Llegada: 2024-01-02
+Fecha Salida: 2024-01-09
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 793
+ID Restaurante: 572
+
+*** Reserva 387 ***
+ID Cliente: 661
+Fecha Llegada: 2024-04-21
+Fecha Salida: 2024-04-25
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 509
+ID Restaurante: 742
+
+*** Reserva 388 ***
+ID Cliente: 791
+Fecha Llegada: 2024-02-03
+Fecha Salida: 2024-02-09
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 341
+ID Restaurante: 84
+
+*** Reserva 389 ***
+ID Cliente: 932
+Fecha Llegada: 2024-01-26
+Fecha Salida: 2024-02-01
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 650
+ID Restaurante: 638
+
+*** Reserva 390 ***
+ID Cliente: 969
+Fecha Llegada: 2024-04-21
+Fecha Salida: 2024-04-27
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 754
+ID Restaurante: 500
+
+*** Reserva 391 ***
+ID Cliente: 82
+Fecha Llegada: 2024-01-13
+Fecha Salida: 2024-01-23
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 931
+ID Restaurante: 807
+
+*** Reserva 392 ***
+ID Cliente: 557
+Fecha Llegada: 2024-01-30
+Fecha Salida: 2024-02-04
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 308
+ID Restaurante: 732
+
+*** Reserva 393 ***
+ID Cliente: 709
+Fecha Llegada: 2024-03-11
+Fecha Salida: 2024-03-12
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 419
+ID Restaurante: 75
+
+*** Reserva 394 ***
+ID Cliente: 321
+Fecha Llegada: 2024-03-17
+Fecha Salida: 2024-03-22
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 933
+ID Restaurante: 32
+
+*** Reserva 395 ***
+ID Cliente: 739
+Fecha Llegada: 2024-03-04
+Fecha Salida: 2024-03-05
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 723
+ID Restaurante: 66
+
+*** Reserva 396 ***
+ID Cliente: 875
+Fecha Llegada: 2024-01-31
+Fecha Salida: 2024-02-09
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 505
+ID Restaurante: 221
+
+*** Reserva 397 ***
+ID Cliente: 798
+Fecha Llegada: 2024-03-23
+Fecha Salida: 2024-04-02
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 427
+ID Restaurante: 445
+
+*** Reserva 398 ***
+ID Cliente: 66
+Fecha Llegada: 2024-02-05
+Fecha Salida: 2024-02-11
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 512
+ID Restaurante: 778
+
+*** Reserva 399 ***
+ID Cliente: 538
+Fecha Llegada: 2024-02-04
+Fecha Salida: 2024-02-05
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 640
+ID Restaurante: 875
+
+*** Reserva 400 ***
+ID Cliente: 632
+Fecha Llegada: 2024-01-26
+Fecha Salida: 2024-02-04
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 822
+ID Restaurante: 568
+
+*** Reserva 401 ***
+ID Cliente: 694
+Fecha Llegada: 2024-02-21
+Fecha Salida: 2024-02-25
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 696
+ID Restaurante: 401
+
+*** Reserva 402 ***
+ID Cliente: 301
+Fecha Llegada: 2024-04-11
+Fecha Salida: 2024-04-13
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 560
+ID Restaurante: 736
+
+*** Reserva 403 ***
+ID Cliente: 620
+Fecha Llegada: 2024-02-16
+Fecha Salida: 2024-02-23
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 772
+ID Restaurante: 124
+
+*** Reserva 404 ***
+ID Cliente: 175
+Fecha Llegada: 2024-02-18
+Fecha Salida: 2024-02-28
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 267
+ID Restaurante: 801
+
+*** Reserva 405 ***
+ID Cliente: 654
+Fecha Llegada: 2024-04-13
+Fecha Salida: 2024-04-22
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 813
+ID Restaurante: 966
+
+*** Reserva 406 ***
+ID Cliente: 71
+Fecha Llegada: 2024-04-28
+Fecha Salida: 2024-04-29
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 336
+ID Restaurante: 114
+
+*** Reserva 407 ***
+ID Cliente: 738
+Fecha Llegada: 2024-02-18
+Fecha Salida: 2024-02-28
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 734
+ID Restaurante: 871
+
+*** Reserva 408 ***
+ID Cliente: 549
+Fecha Llegada: 2024-01-26
+Fecha Salida: 2024-01-27
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 40
+ID Restaurante: 410
+
+*** Reserva 409 ***
+ID Cliente: 412
+Fecha Llegada: 2024-02-21
+Fecha Salida: 2024-03-01
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 94
+ID Restaurante: 452
+
+*** Reserva 410 ***
+ID Cliente: 804
+Fecha Llegada: 2024-04-01
+Fecha Salida: 2024-04-03
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 368
+ID Restaurante: 331
+
+*** Reserva 411 ***
+ID Cliente: 211
+Fecha Llegada: 2024-04-11
+Fecha Salida: 2024-04-21
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 42
+ID Restaurante: 735
+
+*** Reserva 412 ***
+ID Cliente: 71
+Fecha Llegada: 2024-02-19
+Fecha Salida: 2024-02-29
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 237
+ID Restaurante: 881
+
+*** Reserva 413 ***
+ID Cliente: 619
+Fecha Llegada: 2024-01-13
+Fecha Salida: 2024-01-21
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 245
+ID Restaurante: 454
+
+*** Reserva 414 ***
+ID Cliente: 398
+Fecha Llegada: 2024-01-28
+Fecha Salida: 2024-02-02
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 756
+ID Restaurante: 625
+
+*** Reserva 415 ***
+ID Cliente: 586
+Fecha Llegada: 2024-04-11
+Fecha Salida: 2024-04-18
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 876
+ID Restaurante: 727
+
+*** Reserva 416 ***
+ID Cliente: 379
+Fecha Llegada: 2024-01-22
+Fecha Salida: 2024-01-29
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 61
+ID Restaurante: 936
+
+*** Reserva 417 ***
+ID Cliente: 36
+Fecha Llegada: 2024-01-04
+Fecha Salida: 2024-01-09
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 453
+ID Restaurante: 792
+
+*** Reserva 418 ***
+ID Cliente: 169
+Fecha Llegada: 2024-04-21
+Fecha Salida: 2024-04-30
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 281
+ID Restaurante: 665
+
+*** Reserva 419 ***
+ID Cliente: 279
+Fecha Llegada: 2024-01-14
+Fecha Salida: 2024-01-23
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 595
+ID Restaurante: 817
+
+*** Reserva 420 ***
+ID Cliente: 976
+Fecha Llegada: 2024-01-03
+Fecha Salida: 2024-01-05
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 240
+ID Restaurante: 844
+
+*** Reserva 421 ***
+ID Cliente: 500
+Fecha Llegada: 2024-04-21
+Fecha Salida: 2024-04-26
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 986
+ID Restaurante: 353
+
+*** Reserva 422 ***
+ID Cliente: 655
+Fecha Llegada: 2024-01-29
+Fecha Salida: 2024-02-07
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 499
+ID Restaurante: 762
+
+*** Reserva 423 ***
+ID Cliente: 418
+Fecha Llegada: 2024-01-16
+Fecha Salida: 2024-01-20
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 185
+ID Restaurante: 149
+
+*** Reserva 424 ***
+ID Cliente: 123
+Fecha Llegada: 2024-02-17
+Fecha Salida: 2024-02-25
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 865
+ID Restaurante: 222
+
+*** Reserva 425 ***
+ID Cliente: 707
+Fecha Llegada: 2024-04-08
+Fecha Salida: 2024-04-18
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 743
+ID Restaurante: 608
+
+*** Reserva 426 ***
+ID Cliente: 535
+Fecha Llegada: 2024-03-12
+Fecha Salida: 2024-03-22
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 883
+ID Restaurante: 104
+
+*** Reserva 427 ***
+ID Cliente: 901
+Fecha Llegada: 2024-02-11
+Fecha Salida: 2024-02-20
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 149
+ID Restaurante: 187
+
+*** Reserva 428 ***
+ID Cliente: 50
+Fecha Llegada: 2024-03-07
+Fecha Salida: 2024-03-14
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 479
+ID Restaurante: 609
+
+*** Reserva 429 ***
+ID Cliente: 421
+Fecha Llegada: 2024-02-15
+Fecha Salida: 2024-02-16
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 900
+ID Restaurante: 354
+
+*** Reserva 430 ***
+ID Cliente: 519
+Fecha Llegada: 2024-04-22
+Fecha Salida: 2024-05-02
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 279
+ID Restaurante: 376
+
+*** Reserva 431 ***
+ID Cliente: 866
+Fecha Llegada: 2024-02-07
+Fecha Salida: 2024-02-14
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 906
+ID Restaurante: 415
+
+*** Reserva 432 ***
+ID Cliente: 518
+Fecha Llegada: 2024-01-24
+Fecha Salida: 2024-01-25
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 770
+ID Restaurante: 327
+
+*** Reserva 433 ***
+ID Cliente: 794
+Fecha Llegada: 2024-02-15
+Fecha Salida: 2024-02-23
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 145
+ID Restaurante: 299
+
+*** Reserva 434 ***
+ID Cliente: 513
+Fecha Llegada: 2024-03-18
+Fecha Salida: 2024-03-22
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 524
+ID Restaurante: 486
+
+*** Reserva 435 ***
+ID Cliente: 228
+Fecha Llegada: 2024-02-01
+Fecha Salida: 2024-02-03
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 540
+ID Restaurante: 219
+
+*** Reserva 436 ***
+ID Cliente: 448
+Fecha Llegada: 2024-04-07
+Fecha Salida: 2024-04-14
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 178
+ID Restaurante: 982
+
+*** Reserva 437 ***
+ID Cliente: 432
+Fecha Llegada: 2024-01-24
+Fecha Salida: 2024-01-28
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 85
+ID Restaurante: 579
+
+*** Reserva 438 ***
+ID Cliente: 381
+Fecha Llegada: 2024-04-11
+Fecha Salida: 2024-04-18
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 661
+ID Restaurante: 19
+
+*** Reserva 439 ***
+ID Cliente: 905
+Fecha Llegada: 2024-04-18
+Fecha Salida: 2024-04-22
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 183
+ID Restaurante: 688
+
+*** Reserva 440 ***
+ID Cliente: 257
+Fecha Llegada: 2024-03-04
+Fecha Salida: 2024-03-14
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 223
+ID Restaurante: 125
+
+*** Reserva 441 ***
+ID Cliente: 422
+Fecha Llegada: 2024-03-05
+Fecha Salida: 2024-03-10
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 220
+ID Restaurante: 287
+
+*** Reserva 442 ***
+ID Cliente: 605
+Fecha Llegada: 2024-01-06
+Fecha Salida: 2024-01-11
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 78
+ID Restaurante: 879
+
+*** Reserva 443 ***
+ID Cliente: 629
+Fecha Llegada: 2024-03-18
+Fecha Salida: 2024-03-20
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 288
+ID Restaurante: 880
+
+*** Reserva 444 ***
+ID Cliente: 870
+Fecha Llegada: 2024-03-21
+Fecha Salida: 2024-03-22
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 173
+ID Restaurante: 321
+
+*** Reserva 445 ***
+ID Cliente: 413
+Fecha Llegada: 2024-01-26
+Fecha Salida: 2024-01-30
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 25
+ID Restaurante: 994
+
+*** Reserva 446 ***
+ID Cliente: 270
+Fecha Llegada: 2024-03-20
+Fecha Salida: 2024-03-29
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 892
+ID Restaurante: 582
+
+*** Reserva 447 ***
+ID Cliente: 178
+Fecha Llegada: 2024-03-04
+Fecha Salida: 2024-03-05
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 357
+ID Restaurante: 21
+
+*** Reserva 448 ***
+ID Cliente: 697
+Fecha Llegada: 2024-01-21
+Fecha Salida: 2024-01-24
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 93
+ID Restaurante: 360
+
+*** Reserva 449 ***
+ID Cliente: 235
+Fecha Llegada: 2024-04-15
+Fecha Salida: 2024-04-21
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 176
+ID Restaurante: 886
+
+*** Reserva 450 ***
+ID Cliente: 863
+Fecha Llegada: 2024-02-23
+Fecha Salida: 2024-02-25
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 656
+ID Restaurante: 281
+
+*** Reserva 451 ***
+ID Cliente: 813
+Fecha Llegada: 2024-04-17
+Fecha Salida: 2024-04-23
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 368
+ID Restaurante: 338
+
+*** Reserva 452 ***
+ID Cliente: 946
+Fecha Llegada: 2024-04-23
+Fecha Salida: 2024-04-29
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 106
+ID Restaurante: 61
+
+*** Reserva 453 ***
+ID Cliente: 331
+Fecha Llegada: 2024-04-30
+Fecha Salida: 2024-05-04
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 168
+ID Restaurante: 347
+
+*** Reserva 454 ***
+ID Cliente: 903
+Fecha Llegada: 2024-03-25
+Fecha Salida: 2024-03-27
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 9
+ID Restaurante: 632
+
+*** Reserva 455 ***
+ID Cliente: 486
+Fecha Llegada: 2024-04-11
+Fecha Salida: 2024-04-14
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 114
+ID Restaurante: 465
+
+*** Reserva 456 ***
+ID Cliente: 616
+Fecha Llegada: 2024-01-11
+Fecha Salida: 2024-01-15
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 386
+ID Restaurante: 426
+
+*** Reserva 457 ***
+ID Cliente: 35
+Fecha Llegada: 2024-02-06
+Fecha Salida: 2024-02-14
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 220
+ID Restaurante: 444
+
+*** Reserva 458 ***
+ID Cliente: 259
+Fecha Llegada: 2024-02-19
+Fecha Salida: 2024-02-26
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 517
+ID Restaurante: 184
+
+*** Reserva 459 ***
+ID Cliente: 404
+Fecha Llegada: 2024-04-27
+Fecha Salida: 2024-05-05
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 865
+ID Restaurante: 66
+
+*** Reserva 460 ***
+ID Cliente: 333
+Fecha Llegada: 2024-03-31
+Fecha Salida: 2024-04-03
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 149
+ID Restaurante: 774
+
+*** Reserva 461 ***
+ID Cliente: 1
+Fecha Llegada: 2024-03-29
+Fecha Salida: 2024-04-01
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 95
+ID Restaurante: 290
+
+*** Reserva 462 ***
+ID Cliente: 648
+Fecha Llegada: 2024-02-29
+Fecha Salida: 2024-03-03
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 483
+ID Restaurante: 134
+
+*** Reserva 463 ***
+ID Cliente: 747
+Fecha Llegada: 2024-02-20
+Fecha Salida: 2024-02-27
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 986
+ID Restaurante: 376
+
+*** Reserva 464 ***
+ID Cliente: 588
+Fecha Llegada: 2024-04-22
+Fecha Salida: 2024-05-02
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 684
+ID Restaurante: 515
+
+*** Reserva 465 ***
+ID Cliente: 928
+Fecha Llegada: 2024-03-03
+Fecha Salida: 2024-03-09
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 508
+ID Restaurante: 582
+
+*** Reserva 466 ***
+ID Cliente: 111
+Fecha Llegada: 2024-02-24
+Fecha Salida: 2024-03-04
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 115
+ID Restaurante: 789
+
+*** Reserva 467 ***
+ID Cliente: 566
+Fecha Llegada: 2024-01-13
+Fecha Salida: 2024-01-17
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 334
+ID Restaurante: 906
+
+*** Reserva 468 ***
+ID Cliente: 215
+Fecha Llegada: 2024-04-02
+Fecha Salida: 2024-04-04
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 792
+ID Restaurante: 645
+
+*** Reserva 469 ***
+ID Cliente: 536
+Fecha Llegada: 2024-03-29
+Fecha Salida: 2024-04-07
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 129
+ID Restaurante: 522
+
+*** Reserva 470 ***
+ID Cliente: 946
+Fecha Llegada: 2024-02-27
+Fecha Salida: 2024-03-07
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 427
+ID Restaurante: 706
+
+*** Reserva 471 ***
+ID Cliente: 165
+Fecha Llegada: 2024-02-18
+Fecha Salida: 2024-02-27
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 779
+ID Restaurante: 523
+
+*** Reserva 472 ***
+ID Cliente: 675
+Fecha Llegada: 2024-02-28
+Fecha Salida: 2024-03-04
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 543
+ID Restaurante: 595
+
+*** Reserva 473 ***
+ID Cliente: 728
+Fecha Llegada: 2024-01-28
+Fecha Salida: 2024-02-02
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 734
+ID Restaurante: 884
+
+*** Reserva 474 ***
+ID Cliente: 480
+Fecha Llegada: 2024-01-13
+Fecha Salida: 2024-01-20
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 610
+ID Restaurante: 153
+
+*** Reserva 475 ***
+ID Cliente: 338
+Fecha Llegada: 2024-01-03
+Fecha Salida: 2024-01-11
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 479
+ID Restaurante: 869
+
+*** Reserva 476 ***
+ID Cliente: 117
+Fecha Llegada: 2024-03-12
+Fecha Salida: 2024-03-16
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 567
+ID Restaurante: 720
+
+*** Reserva 477 ***
+ID Cliente: 190
+Fecha Llegada: 2024-01-02
+Fecha Salida: 2024-01-12
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 7
+ID Restaurante: 745
+
+*** Reserva 478 ***
+ID Cliente: 294
+Fecha Llegada: 2024-01-16
+Fecha Salida: 2024-01-20
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 536
+ID Restaurante: 451
+
+*** Reserva 479 ***
+ID Cliente: 652
+Fecha Llegada: 2024-01-22
+Fecha Salida: 2024-01-23
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 296
+ID Restaurante: 110
+
+*** Reserva 480 ***
+ID Cliente: 944
+Fecha Llegada: 2024-01-22
+Fecha Salida: 2024-01-30
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 30
+ID Restaurante: 580
+
+*** Reserva 481 ***
+ID Cliente: 65
+Fecha Llegada: 2024-04-02
+Fecha Salida: 2024-04-10
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 421
+ID Restaurante: 596
+
+*** Reserva 482 ***
+ID Cliente: 514
+Fecha Llegada: 2024-03-09
+Fecha Salida: 2024-03-10
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 544
+ID Restaurante: 154
+
+*** Reserva 483 ***
+ID Cliente: 136
+Fecha Llegada: 2024-01-05
+Fecha Salida: 2024-01-15
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 481
+ID Restaurante: 441
+
+*** Reserva 484 ***
+ID Cliente: 808
+Fecha Llegada: 2024-02-05
+Fecha Salida: 2024-02-13
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 337
+ID Restaurante: 515
+
+*** Reserva 485 ***
+ID Cliente: 143
+Fecha Llegada: 2024-01-21
+Fecha Salida: 2024-01-26
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 34
+ID Restaurante: 916
+
+*** Reserva 486 ***
+ID Cliente: 447
+Fecha Llegada: 2024-03-06
+Fecha Salida: 2024-03-15
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 450
+ID Restaurante: 366
+
+*** Reserva 487 ***
+ID Cliente: 82
+Fecha Llegada: 2024-04-06
+Fecha Salida: 2024-04-16
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 907
+ID Restaurante: 155
+
+*** Reserva 488 ***
+ID Cliente: 969
+Fecha Llegada: 2024-01-06
+Fecha Salida: 2024-01-07
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 416
+ID Restaurante: 456
+
+*** Reserva 489 ***
+ID Cliente: 334
+Fecha Llegada: 2024-04-22
+Fecha Salida: 2024-04-27
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 524
+ID Restaurante: 85
+
+*** Reserva 490 ***
+ID Cliente: 139
+Fecha Llegada: 2024-02-28
+Fecha Salida: 2024-03-09
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 859
+ID Restaurante: 398
+
+*** Reserva 491 ***
+ID Cliente: 652
+Fecha Llegada: 2024-01-19
+Fecha Salida: 2024-01-20
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 735
+ID Restaurante: 517
+
+*** Reserva 492 ***
+ID Cliente: 316
+Fecha Llegada: 2024-03-10
+Fecha Salida: 2024-03-20
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 130
+ID Restaurante: 48
+
+*** Reserva 493 ***
+ID Cliente: 28
+Fecha Llegada: 2024-01-15
+Fecha Salida: 2024-01-20
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 143
+ID Restaurante: 856
+
+*** Reserva 494 ***
+ID Cliente: 367
+Fecha Llegada: 2024-02-11
+Fecha Salida: 2024-02-18
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 426
+ID Restaurante: 662
+
+*** Reserva 495 ***
+ID Cliente: 716
+Fecha Llegada: 2024-04-29
+Fecha Salida: 2024-05-09
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 983
+ID Restaurante: 87
+
+*** Reserva 496 ***
+ID Cliente: 838
+Fecha Llegada: 2024-03-27
+Fecha Salida: 2024-04-02
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 943
+ID Restaurante: 369
+
+*** Reserva 497 ***
+ID Cliente: 851
+Fecha Llegada: 2024-01-14
+Fecha Salida: 2024-01-23
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 600
+ID Restaurante: 721
+
+*** Reserva 498 ***
+ID Cliente: 2
+Fecha Llegada: 2024-04-23
+Fecha Salida: 2024-04-30
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 206
+ID Restaurante: 175
+
+*** Reserva 499 ***
+ID Cliente: 883
+Fecha Llegada: 2024-04-21
+Fecha Salida: 2024-04-27
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 148
+ID Restaurante: 737
+
+*** Reserva 500 ***
+ID Cliente: 131
+Fecha Llegada: 2024-02-29
+Fecha Salida: 2024-03-04
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 605
+ID Restaurante: 485
+
+*** Reserva 501 ***
+ID Cliente: 858
+Fecha Llegada: 2024-01-16
+Fecha Salida: 2024-01-18
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 688
+ID Restaurante: 886
+
+*** Reserva 502 ***
+ID Cliente: 822
+Fecha Llegada: 2024-01-30
+Fecha Salida: 2024-02-06
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 683
+ID Restaurante: 280
+
+*** Reserva 503 ***
+ID Cliente: 284
+Fecha Llegada: 2024-01-02
+Fecha Salida: 2024-01-09
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 399
+ID Restaurante: 907
+
+*** Reserva 504 ***
+ID Cliente: 82
+Fecha Llegada: 2024-01-04
+Fecha Salida: 2024-01-06
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 290
+ID Restaurante: 864
+
+*** Reserva 505 ***
+ID Cliente: 177
+Fecha Llegada: 2024-03-21
+Fecha Salida: 2024-03-24
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 644
+ID Restaurante: 328
+
+*** Reserva 506 ***
+ID Cliente: 834
+Fecha Llegada: 2024-03-13
+Fecha Salida: 2024-03-21
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 630
+ID Restaurante: 580
+
+*** Reserva 507 ***
+ID Cliente: 370
+Fecha Llegada: 2024-04-10
+Fecha Salida: 2024-04-15
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 809
+ID Restaurante: 518
+
+*** Reserva 508 ***
+ID Cliente: 694
+Fecha Llegada: 2024-03-15
+Fecha Salida: 2024-03-25
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 830
+ID Restaurante: 384
+
+*** Reserva 509 ***
+ID Cliente: 909
+Fecha Llegada: 2024-03-27
+Fecha Salida: 2024-04-06
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 405
+ID Restaurante: 262
+
+*** Reserva 510 ***
+ID Cliente: 442
+Fecha Llegada: 2024-02-20
+Fecha Salida: 2024-02-22
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 214
+ID Restaurante: 75
+
+*** Reserva 511 ***
+ID Cliente: 753
+Fecha Llegada: 2024-04-03
+Fecha Salida: 2024-04-05
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 826
+ID Restaurante: 23
+
+*** Reserva 512 ***
+ID Cliente: 250
+Fecha Llegada: 2024-01-01
+Fecha Salida: 2024-01-03
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 706
+ID Restaurante: 848
+
+*** Reserva 513 ***
+ID Cliente: 217
+Fecha Llegada: 2024-01-26
+Fecha Salida: 2024-01-31
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 840
+ID Restaurante: 473
+
+*** Reserva 514 ***
+ID Cliente: 130
+Fecha Llegada: 2024-02-10
+Fecha Salida: 2024-02-19
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 490
+ID Restaurante: 970
+
+*** Reserva 515 ***
+ID Cliente: 680
+Fecha Llegada: 2024-02-05
+Fecha Salida: 2024-02-15
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 604
+ID Restaurante: 168
+
+*** Reserva 516 ***
+ID Cliente: 218
+Fecha Llegada: 2024-02-07
+Fecha Salida: 2024-02-09
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 301
+ID Restaurante: 424
+
+*** Reserva 517 ***
+ID Cliente: 568
+Fecha Llegada: 2024-01-09
+Fecha Salida: 2024-01-15
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 158
+ID Restaurante: 978
+
+*** Reserva 518 ***
+ID Cliente: 680
+Fecha Llegada: 2024-04-12
+Fecha Salida: 2024-04-15
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 465
+ID Restaurante: 664
+
+*** Reserva 519 ***
+ID Cliente: 62
+Fecha Llegada: 2024-04-14
+Fecha Salida: 2024-04-21
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 252
+ID Restaurante: 532
+
+*** Reserva 520 ***
+ID Cliente: 694
+Fecha Llegada: 2024-04-30
+Fecha Salida: 2024-05-07
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 845
+ID Restaurante: 465
+
+*** Reserva 521 ***
+ID Cliente: 793
+Fecha Llegada: 2024-02-28
+Fecha Salida: 2024-03-01
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 766
+ID Restaurante: 526
+
+*** Reserva 522 ***
+ID Cliente: 856
+Fecha Llegada: 2024-04-29
+Fecha Salida: 2024-05-07
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 668
+ID Restaurante: 899
+
+*** Reserva 523 ***
+ID Cliente: 460
+Fecha Llegada: 2024-01-04
+Fecha Salida: 2024-01-07
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 324
+ID Restaurante: 120
+
+*** Reserva 524 ***
+ID Cliente: 912
+Fecha Llegada: 2024-01-04
+Fecha Salida: 2024-01-12
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 987
+ID Restaurante: 841
+
+*** Reserva 525 ***
+ID Cliente: 285
+Fecha Llegada: 2024-01-26
+Fecha Salida: 2024-02-02
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 133
+ID Restaurante: 684
+
+*** Reserva 526 ***
+ID Cliente: 878
+Fecha Llegada: 2024-04-03
+Fecha Salida: 2024-04-13
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 390
+ID Restaurante: 28
+
+*** Reserva 527 ***
+ID Cliente: 892
+Fecha Llegada: 2024-04-19
+Fecha Salida: 2024-04-24
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 703
+ID Restaurante: 908
+
+*** Reserva 528 ***
+ID Cliente: 971
+Fecha Llegada: 2024-01-11
+Fecha Salida: 2024-01-13
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 756
+ID Restaurante: 165
+
+*** Reserva 529 ***
+ID Cliente: 510
+Fecha Llegada: 2024-04-26
+Fecha Salida: 2024-04-28
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 26
+ID Restaurante: 438
+
+*** Reserva 530 ***
+ID Cliente: 520
+Fecha Llegada: 2024-02-10
+Fecha Salida: 2024-02-15
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 659
+ID Restaurante: 398
+
+*** Reserva 531 ***
+ID Cliente: 675
+Fecha Llegada: 2024-04-07
+Fecha Salida: 2024-04-08
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 479
+ID Restaurante: 775
+
+*** Reserva 532 ***
+ID Cliente: 645
+Fecha Llegada: 2024-04-25
+Fecha Salida: 2024-04-26
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 302
+ID Restaurante: 895
+
+*** Reserva 533 ***
+ID Cliente: 26
+Fecha Llegada: 2024-03-06
+Fecha Salida: 2024-03-16
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 769
+ID Restaurante: 924
+
+*** Reserva 534 ***
+ID Cliente: 32
+Fecha Llegada: 2024-03-23
+Fecha Salida: 2024-03-29
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 886
+ID Restaurante: 811
+
+*** Reserva 535 ***
+ID Cliente: 485
+Fecha Llegada: 2024-03-30
+Fecha Salida: 2024-04-03
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 284
+ID Restaurante: 501
+
+*** Reserva 536 ***
+ID Cliente: 35
+Fecha Llegada: 2024-04-18
+Fecha Salida: 2024-04-28
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 553
+ID Restaurante: 459
+
+*** Reserva 537 ***
+ID Cliente: 370
+Fecha Llegada: 2024-01-19
+Fecha Salida: 2024-01-29
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 773
+ID Restaurante: 828
+
+*** Reserva 538 ***
+ID Cliente: 209
+Fecha Llegada: 2024-03-13
+Fecha Salida: 2024-03-19
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 975
+ID Restaurante: 551
+
+*** Reserva 539 ***
+ID Cliente: 413
+Fecha Llegada: 2024-03-02
+Fecha Salida: 2024-03-08
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 503
+ID Restaurante: 345
+
+*** Reserva 540 ***
+ID Cliente: 825
+Fecha Llegada: 2024-03-17
+Fecha Salida: 2024-03-18
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 596
+ID Restaurante: 405
+
+*** Reserva 541 ***
+ID Cliente: 214
+Fecha Llegada: 2024-01-28
+Fecha Salida: 2024-02-06
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 840
+ID Restaurante: 861
+
+*** Reserva 542 ***
+ID Cliente: 15
+Fecha Llegada: 2024-01-23
+Fecha Salida: 2024-01-25
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 897
+ID Restaurante: 928
+
+*** Reserva 543 ***
+ID Cliente: 313
+Fecha Llegada: 2024-01-14
+Fecha Salida: 2024-01-24
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 638
+ID Restaurante: 440
+
+*** Reserva 544 ***
+ID Cliente: 862
+Fecha Llegada: 2024-04-08
+Fecha Salida: 2024-04-11
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 159
+ID Restaurante: 419
+
+*** Reserva 545 ***
+ID Cliente: 953
+Fecha Llegada: 2024-02-24
+Fecha Salida: 2024-02-29
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 735
+ID Restaurante: 190
+
+*** Reserva 546 ***
+ID Cliente: 859
+Fecha Llegada: 2024-01-28
+Fecha Salida: 2024-02-07
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 798
+ID Restaurante: 746
+
+*** Reserva 547 ***
+ID Cliente: 362
+Fecha Llegada: 2024-04-12
+Fecha Salida: 2024-04-15
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 482
+ID Restaurante: 470
+
+*** Reserva 548 ***
+ID Cliente: 26
+Fecha Llegada: 2024-01-03
+Fecha Salida: 2024-01-13
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 477
+ID Restaurante: 70
+
+*** Reserva 549 ***
+ID Cliente: 370
+Fecha Llegada: 2024-02-12
+Fecha Salida: 2024-02-22
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 598
+ID Restaurante: 124
+
+*** Reserva 550 ***
+ID Cliente: 38
+Fecha Llegada: 2024-01-10
+Fecha Salida: 2024-01-16
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 67
+ID Restaurante: 251
+
+*** Reserva 551 ***
+ID Cliente: 346
+Fecha Llegada: 2024-02-15
+Fecha Salida: 2024-02-23
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 474
+ID Restaurante: 705
+
+*** Reserva 552 ***
+ID Cliente: 941
+Fecha Llegada: 2024-01-19
+Fecha Salida: 2024-01-23
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 131
+ID Restaurante: 978
+
+*** Reserva 553 ***
+ID Cliente: 642
+Fecha Llegada: 2024-02-11
+Fecha Salida: 2024-02-12
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 384
+ID Restaurante: 383
+
+*** Reserva 554 ***
+ID Cliente: 370
+Fecha Llegada: 2024-02-05
+Fecha Salida: 2024-02-13
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 923
+ID Restaurante: 528
+
+*** Reserva 555 ***
+ID Cliente: 623
+Fecha Llegada: 2024-04-10
+Fecha Salida: 2024-04-20
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 405
+ID Restaurante: 529
+
+*** Reserva 556 ***
+ID Cliente: 982
+Fecha Llegada: 2024-04-11
+Fecha Salida: 2024-04-15
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 789
+ID Restaurante: 104
+
+*** Reserva 557 ***
+ID Cliente: 282
+Fecha Llegada: 2024-03-14
+Fecha Salida: 2024-03-17
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 979
+ID Restaurante: 548
+
+*** Reserva 558 ***
+ID Cliente: 239
+Fecha Llegada: 2024-04-03
+Fecha Salida: 2024-04-11
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 57
+ID Restaurante: 300
+
+*** Reserva 559 ***
+ID Cliente: 106
+Fecha Llegada: 2024-03-15
+Fecha Salida: 2024-03-16
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 857
+ID Restaurante: 594
+
+*** Reserva 560 ***
+ID Cliente: 834
+Fecha Llegada: 2024-02-04
+Fecha Salida: 2024-02-05
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 957
+ID Restaurante: 213
+
+*** Reserva 561 ***
+ID Cliente: 347
+Fecha Llegada: 2024-04-17
+Fecha Salida: 2024-04-22
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 591
+ID Restaurante: 101
+
+*** Reserva 562 ***
+ID Cliente: 384
+Fecha Llegada: 2024-03-09
+Fecha Salida: 2024-03-15
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 905
+ID Restaurante: 960
+
+*** Reserva 563 ***
+ID Cliente: 498
+Fecha Llegada: 2024-04-04
+Fecha Salida: 2024-04-12
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 235
+ID Restaurante: 402
+
+*** Reserva 564 ***
+ID Cliente: 981
+Fecha Llegada: 2024-03-27
+Fecha Salida: 2024-04-03
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 283
+ID Restaurante: 415
+
+*** Reserva 565 ***
+ID Cliente: 25
+Fecha Llegada: 2024-02-23
+Fecha Salida: 2024-03-03
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 547
+ID Restaurante: 515
+
+*** Reserva 566 ***
+ID Cliente: 308
+Fecha Llegada: 2024-04-10
+Fecha Salida: 2024-04-14
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 558
+ID Restaurante: 198
+
+*** Reserva 567 ***
+ID Cliente: 898
+Fecha Llegada: 2024-02-11
+Fecha Salida: 2024-02-21
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 997
+ID Restaurante: 502
+
+*** Reserva 568 ***
+ID Cliente: 524
+Fecha Llegada: 2024-02-01
+Fecha Salida: 2024-02-10
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 954
+ID Restaurante: 710
+
+*** Reserva 569 ***
+ID Cliente: 688
+Fecha Llegada: 2024-04-04
+Fecha Salida: 2024-04-14
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 303
+ID Restaurante: 276
+
+*** Reserva 570 ***
+ID Cliente: 376
+Fecha Llegada: 2024-01-30
+Fecha Salida: 2024-02-05
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 290
+ID Restaurante: 178
+
+*** Reserva 571 ***
+ID Cliente: 372
+Fecha Llegada: 2024-02-07
+Fecha Salida: 2024-02-09
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 621
+ID Restaurante: 732
+
+*** Reserva 572 ***
+ID Cliente: 788
+Fecha Llegada: 2024-02-24
+Fecha Salida: 2024-03-02
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 884
+ID Restaurante: 209
+
+*** Reserva 573 ***
+ID Cliente: 704
+Fecha Llegada: 2024-02-14
+Fecha Salida: 2024-02-16
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 261
+ID Restaurante: 873
+
+*** Reserva 574 ***
+ID Cliente: 277
+Fecha Llegada: 2024-04-18
+Fecha Salida: 2024-04-19
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 547
+ID Restaurante: 651
+
+*** Reserva 575 ***
+ID Cliente: 152
+Fecha Llegada: 2024-02-25
+Fecha Salida: 2024-02-29
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 425
+ID Restaurante: 303
+
+*** Reserva 576 ***
+ID Cliente: 204
+Fecha Llegada: 2024-01-13
+Fecha Salida: 2024-01-20
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 709
+ID Restaurante: 982
+
+*** Reserva 577 ***
+ID Cliente: 96
+Fecha Llegada: 2024-03-16
+Fecha Salida: 2024-03-18
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 898
+ID Restaurante: 152
+
+*** Reserva 578 ***
+ID Cliente: 269
+Fecha Llegada: 2024-04-01
+Fecha Salida: 2024-04-06
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 141
+ID Restaurante: 625
+
+*** Reserva 579 ***
+ID Cliente: 381
+Fecha Llegada: 2024-02-26
+Fecha Salida: 2024-03-03
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 425
+ID Restaurante: 763
+
+*** Reserva 580 ***
+ID Cliente: 620
+Fecha Llegada: 2024-01-23
+Fecha Salida: 2024-01-28
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 757
+ID Restaurante: 945
+
+*** Reserva 581 ***
+ID Cliente: 849
+Fecha Llegada: 2024-02-08
+Fecha Salida: 2024-02-13
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 521
+ID Restaurante: 770
+
+*** Reserva 582 ***
+ID Cliente: 468
+Fecha Llegada: 2024-03-01
+Fecha Salida: 2024-03-02
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 495
+ID Restaurante: 534
+
+*** Reserva 583 ***
+ID Cliente: 484
+Fecha Llegada: 2024-01-27
+Fecha Salida: 2024-02-05
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 470
+ID Restaurante: 752
+
+*** Reserva 584 ***
+ID Cliente: 379
+Fecha Llegada: 2024-02-24
+Fecha Salida: 2024-02-27
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 269
+ID Restaurante: 760
+
+*** Reserva 585 ***
+ID Cliente: 952
+Fecha Llegada: 2024-04-21
+Fecha Salida: 2024-04-27
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 234
+ID Restaurante: 10
+
+*** Reserva 586 ***
+ID Cliente: 317
+Fecha Llegada: 2024-01-24
+Fecha Salida: 2024-01-25
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 948
+ID Restaurante: 78
+
+*** Reserva 587 ***
+ID Cliente: 101
+Fecha Llegada: 2024-02-22
+Fecha Salida: 2024-02-28
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 936
+ID Restaurante: 486
+
+*** Reserva 588 ***
+ID Cliente: 758
+Fecha Llegada: 2024-02-04
+Fecha Salida: 2024-02-08
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 988
+ID Restaurante: 402
+
+*** Reserva 589 ***
+ID Cliente: 1
+Fecha Llegada: 2024-03-31
+Fecha Salida: 2024-04-04
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 901
+ID Restaurante: 235
+
+*** Reserva 590 ***
+ID Cliente: 194
+Fecha Llegada: 2024-01-31
+Fecha Salida: 2024-02-03
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 108
+ID Restaurante: 987
+
+*** Reserva 591 ***
+ID Cliente: 270
+Fecha Llegada: 2024-04-05
+Fecha Salida: 2024-04-13
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 843
+ID Restaurante: 494
+
+*** Reserva 592 ***
+ID Cliente: 438
+Fecha Llegada: 2024-04-17
+Fecha Salida: 2024-04-20
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 267
+ID Restaurante: 984
+
+*** Reserva 593 ***
+ID Cliente: 39
+Fecha Llegada: 2024-03-20
+Fecha Salida: 2024-03-25
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 520
+ID Restaurante: 703
+
+*** Reserva 594 ***
+ID Cliente: 316
+Fecha Llegada: 2024-02-21
+Fecha Salida: 2024-02-25
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 966
+ID Restaurante: 183
+
+*** Reserva 595 ***
+ID Cliente: 505
+Fecha Llegada: 2024-02-23
+Fecha Salida: 2024-03-02
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 365
+ID Restaurante: 813
+
+*** Reserva 596 ***
+ID Cliente: 791
+Fecha Llegada: 2024-04-07
+Fecha Salida: 2024-04-08
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 27
+ID Restaurante: 1
+
+*** Reserva 597 ***
+ID Cliente: 501
+Fecha Llegada: 2024-03-26
+Fecha Salida: 2024-04-05
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 32
+ID Restaurante: 549
+
+*** Reserva 598 ***
+ID Cliente: 622
+Fecha Llegada: 2024-03-04
+Fecha Salida: 2024-03-08
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 388
+ID Restaurante: 68
+
+*** Reserva 599 ***
+ID Cliente: 35
+Fecha Llegada: 2024-03-21
+Fecha Salida: 2024-03-28
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 787
+ID Restaurante: 624
+
+*** Reserva 600 ***
+ID Cliente: 807
+Fecha Llegada: 2024-01-07
+Fecha Salida: 2024-01-16
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 564
+ID Restaurante: 506
+
+*** Reserva 601 ***
+ID Cliente: 331
+Fecha Llegada: 2024-02-12
+Fecha Salida: 2024-02-15
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 386
+ID Restaurante: 208
+
+*** Reserva 602 ***
+ID Cliente: 165
+Fecha Llegada: 2024-02-15
+Fecha Salida: 2024-02-16
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 786
+ID Restaurante: 641
+
+*** Reserva 603 ***
+ID Cliente: 932
+Fecha Llegada: 2024-01-27
+Fecha Salida: 2024-02-02
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 335
+ID Restaurante: 415
+
+*** Reserva 604 ***
+ID Cliente: 874
+Fecha Llegada: 2024-01-01
+Fecha Salida: 2024-01-08
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 658
+ID Restaurante: 745
+
+*** Reserva 605 ***
+ID Cliente: 861
+Fecha Llegada: 2024-02-17
+Fecha Salida: 2024-02-19
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 317
+ID Restaurante: 780
+
+*** Reserva 606 ***
+ID Cliente: 99
+Fecha Llegada: 2024-02-03
+Fecha Salida: 2024-02-04
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 46
+ID Restaurante: 583
+
+*** Reserva 607 ***
+ID Cliente: 74
+Fecha Llegada: 2024-04-03
+Fecha Salida: 2024-04-07
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 682
+ID Restaurante: 269
+
+*** Reserva 608 ***
+ID Cliente: 734
+Fecha Llegada: 2024-03-21
+Fecha Salida: 2024-03-27
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 381
+ID Restaurante: 375
+
+*** Reserva 609 ***
+ID Cliente: 290
+Fecha Llegada: 2024-02-04
+Fecha Salida: 2024-02-06
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 787
+ID Restaurante: 857
+
+*** Reserva 610 ***
+ID Cliente: 344
+Fecha Llegada: 2024-03-03
+Fecha Salida: 2024-03-10
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 568
+ID Restaurante: 730
+
+*** Reserva 611 ***
+ID Cliente: 134
+Fecha Llegada: 2024-01-06
+Fecha Salida: 2024-01-16
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 55
+ID Restaurante: 575
+
+*** Reserva 612 ***
+ID Cliente: 992
+Fecha Llegada: 2024-03-20
+Fecha Salida: 2024-03-27
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 867
+ID Restaurante: 590
+
+*** Reserva 613 ***
+ID Cliente: 55
+Fecha Llegada: 2024-04-14
+Fecha Salida: 2024-04-19
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 704
+ID Restaurante: 206
+
+*** Reserva 614 ***
+ID Cliente: 255
+Fecha Llegada: 2024-04-30
+Fecha Salida: 2024-05-07
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 379
+ID Restaurante: 841
+
+*** Reserva 615 ***
+ID Cliente: 648
+Fecha Llegada: 2024-04-17
+Fecha Salida: 2024-04-26
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 917
+ID Restaurante: 829
+
+*** Reserva 616 ***
+ID Cliente: 470
+Fecha Llegada: 2024-02-10
+Fecha Salida: 2024-02-18
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 142
+ID Restaurante: 805
+
+*** Reserva 617 ***
+ID Cliente: 127
+Fecha Llegada: 2024-02-09
+Fecha Salida: 2024-02-12
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 289
+ID Restaurante: 536
+
+*** Reserva 618 ***
+ID Cliente: 754
+Fecha Llegada: 2024-02-18
+Fecha Salida: 2024-02-26
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 37
+ID Restaurante: 114
+
+*** Reserva 619 ***
+ID Cliente: 49
+Fecha Llegada: 2024-01-28
+Fecha Salida: 2024-01-30
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 228
+ID Restaurante: 173
+
+*** Reserva 620 ***
+ID Cliente: 724
+Fecha Llegada: 2024-03-20
+Fecha Salida: 2024-03-29
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 195
+ID Restaurante: 773
+
+*** Reserva 621 ***
+ID Cliente: 777
+Fecha Llegada: 2024-04-10
+Fecha Salida: 2024-04-12
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 674
+ID Restaurante: 540
+
+*** Reserva 622 ***
+ID Cliente: 530
+Fecha Llegada: 2024-03-23
+Fecha Salida: 2024-03-31
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 712
+ID Restaurante: 600
+
+*** Reserva 623 ***
+ID Cliente: 380
+Fecha Llegada: 2024-03-11
+Fecha Salida: 2024-03-16
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 1
+ID Restaurante: 52
+
+*** Reserva 624 ***
+ID Cliente: 81
+Fecha Llegada: 2024-02-09
+Fecha Salida: 2024-02-14
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 313
+ID Restaurante: 306
+
+*** Reserva 625 ***
+ID Cliente: 54
+Fecha Llegada: 2024-01-29
+Fecha Salida: 2024-02-05
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 242
+ID Restaurante: 604
+
+*** Reserva 626 ***
+ID Cliente: 101
+Fecha Llegada: 2024-02-04
+Fecha Salida: 2024-02-06
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 408
+ID Restaurante: 814
+
+*** Reserva 627 ***
+ID Cliente: 490
+Fecha Llegada: 2024-04-21
+Fecha Salida: 2024-04-27
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 877
+ID Restaurante: 12
+
+*** Reserva 628 ***
+ID Cliente: 277
+Fecha Llegada: 2024-03-28
+Fecha Salida: 2024-04-01
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 7
+ID Restaurante: 246
+
+*** Reserva 629 ***
+ID Cliente: 983
+Fecha Llegada: 2024-04-29
+Fecha Salida: 2024-05-01
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 191
+ID Restaurante: 214
+
+*** Reserva 630 ***
+ID Cliente: 126
+Fecha Llegada: 2024-04-18
+Fecha Salida: 2024-04-21
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 106
+ID Restaurante: 178
+
+*** Reserva 631 ***
+ID Cliente: 110
+Fecha Llegada: 2024-03-28
+Fecha Salida: 2024-04-06
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 878
+ID Restaurante: 384
+
+*** Reserva 632 ***
+ID Cliente: 273
+Fecha Llegada: 2024-02-05
+Fecha Salida: 2024-02-15
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 194
+ID Restaurante: 458
+
+*** Reserva 633 ***
+ID Cliente: 981
+Fecha Llegada: 2024-01-25
+Fecha Salida: 2024-02-04
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 448
+ID Restaurante: 566
+
+*** Reserva 634 ***
+ID Cliente: 935
+Fecha Llegada: 2024-04-27
+Fecha Salida: 2024-04-28
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 82
+ID Restaurante: 778
+
+*** Reserva 635 ***
+ID Cliente: 223
+Fecha Llegada: 2024-03-06
+Fecha Salida: 2024-03-16
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 822
+ID Restaurante: 434
+
+*** Reserva 636 ***
+ID Cliente: 290
+Fecha Llegada: 2024-04-03
+Fecha Salida: 2024-04-08
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 349
+ID Restaurante: 790
+
+*** Reserva 637 ***
+ID Cliente: 553
+Fecha Llegada: 2024-02-27
+Fecha Salida: 2024-03-03
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 369
+ID Restaurante: 647
+
+*** Reserva 638 ***
+ID Cliente: 513
+Fecha Llegada: 2024-01-02
+Fecha Salida: 2024-01-10
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 264
+ID Restaurante: 909
+
+*** Reserva 639 ***
+ID Cliente: 304
+Fecha Llegada: 2024-02-19
+Fecha Salida: 2024-02-24
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 326
+ID Restaurante: 301
+
+*** Reserva 640 ***
+ID Cliente: 820
+Fecha Llegada: 2024-02-01
+Fecha Salida: 2024-02-06
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 628
+ID Restaurante: 915
+
+*** Reserva 641 ***
+ID Cliente: 240
+Fecha Llegada: 2024-03-01
+Fecha Salida: 2024-03-03
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 281
+ID Restaurante: 542
+
+*** Reserva 642 ***
+ID Cliente: 334
+Fecha Llegada: 2024-01-14
+Fecha Salida: 2024-01-20
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 476
+ID Restaurante: 465
+
+*** Reserva 643 ***
+ID Cliente: 903
+Fecha Llegada: 2024-02-07
+Fecha Salida: 2024-02-16
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 564
+ID Restaurante: 724
+
+*** Reserva 644 ***
+ID Cliente: 975
+Fecha Llegada: 2024-04-18
+Fecha Salida: 2024-04-25
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 409
+ID Restaurante: 446
+
+*** Reserva 645 ***
+ID Cliente: 541
+Fecha Llegada: 2024-01-28
+Fecha Salida: 2024-02-03
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 500
+ID Restaurante: 993
+
+*** Reserva 646 ***
+ID Cliente: 615
+Fecha Llegada: 2024-04-27
+Fecha Salida: 2024-05-07
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 754
+ID Restaurante: 189
+
+*** Reserva 647 ***
+ID Cliente: 748
+Fecha Llegada: 2024-02-27
+Fecha Salida: 2024-03-05
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 476
+ID Restaurante: 315
+
+*** Reserva 648 ***
+ID Cliente: 687
+Fecha Llegada: 2024-04-26
+Fecha Salida: 2024-05-01
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 345
+ID Restaurante: 450
+
+*** Reserva 649 ***
+ID Cliente: 730
+Fecha Llegada: 2024-02-06
+Fecha Salida: 2024-02-12
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 252
+ID Restaurante: 768
+
+*** Reserva 650 ***
+ID Cliente: 275
+Fecha Llegada: 2024-02-15
+Fecha Salida: 2024-02-24
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 45
+ID Restaurante: 57
+
+*** Reserva 651 ***
+ID Cliente: 588
+Fecha Llegada: 2024-03-28
+Fecha Salida: 2024-03-30
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 944
+ID Restaurante: 979
+
+*** Reserva 652 ***
+ID Cliente: 170
+Fecha Llegada: 2024-03-09
+Fecha Salida: 2024-03-16
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 691
+ID Restaurante: 776
+
+*** Reserva 653 ***
+ID Cliente: 561
+Fecha Llegada: 2024-02-06
+Fecha Salida: 2024-02-16
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 967
+ID Restaurante: 701
+
+*** Reserva 654 ***
+ID Cliente: 827
+Fecha Llegada: 2024-04-02
+Fecha Salida: 2024-04-10
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 956
+ID Restaurante: 466
+
+*** Reserva 655 ***
+ID Cliente: 526
+Fecha Llegada: 2024-02-10
+Fecha Salida: 2024-02-20
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 709
+ID Restaurante: 545
+
+*** Reserva 656 ***
+ID Cliente: 168
+Fecha Llegada: 2024-01-28
+Fecha Salida: 2024-02-07
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 970
+ID Restaurante: 710
+
+*** Reserva 657 ***
+ID Cliente: 34
+Fecha Llegada: 2024-01-08
+Fecha Salida: 2024-01-18
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 1
+ID Restaurante: 471
+
+*** Reserva 658 ***
+ID Cliente: 890
+Fecha Llegada: 2024-02-15
+Fecha Salida: 2024-02-16
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 665
+ID Restaurante: 876
+
+*** Reserva 659 ***
+ID Cliente: 681
+Fecha Llegada: 2024-04-26
+Fecha Salida: 2024-05-05
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 235
+ID Restaurante: 444
+
+*** Reserva 660 ***
+ID Cliente: 826
+Fecha Llegada: 2024-02-12
+Fecha Salida: 2024-02-14
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 227
+ID Restaurante: 396
+
+*** Reserva 661 ***
+ID Cliente: 371
+Fecha Llegada: 2024-02-14
+Fecha Salida: 2024-02-19
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 74
+ID Restaurante: 553
+
+*** Reserva 662 ***
+ID Cliente: 465
+Fecha Llegada: 2024-04-25
+Fecha Salida: 2024-05-03
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 650
+ID Restaurante: 372
+
+*** Reserva 663 ***
+ID Cliente: 90
+Fecha Llegada: 2024-03-07
+Fecha Salida: 2024-03-09
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 626
+ID Restaurante: 845
+
+*** Reserva 664 ***
+ID Cliente: 4
+Fecha Llegada: 2024-04-30
+Fecha Salida: 2024-05-06
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 239
+ID Restaurante: 204
+
+*** Reserva 665 ***
+ID Cliente: 265
+Fecha Llegada: 2024-01-09
+Fecha Salida: 2024-01-18
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 645
+ID Restaurante: 770
+
+*** Reserva 666 ***
+ID Cliente: 233
+Fecha Llegada: 2024-04-23
+Fecha Salida: 2024-05-02
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 680
+ID Restaurante: 865
+
+*** Reserva 667 ***
+ID Cliente: 724
+Fecha Llegada: 2024-04-18
+Fecha Salida: 2024-04-27
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 739
+ID Restaurante: 873
+
+*** Reserva 668 ***
+ID Cliente: 121
+Fecha Llegada: 2024-03-16
+Fecha Salida: 2024-03-20
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 783
+ID Restaurante: 501
+
+*** Reserva 669 ***
+ID Cliente: 10
+Fecha Llegada: 2024-04-25
+Fecha Salida: 2024-05-04
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 288
+ID Restaurante: 567
+
+*** Reserva 670 ***
+ID Cliente: 231
+Fecha Llegada: 2024-01-24
+Fecha Salida: 2024-01-30
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 66
+ID Restaurante: 548
+
+*** Reserva 671 ***
+ID Cliente: 18
+Fecha Llegada: 2024-01-25
+Fecha Salida: 2024-01-28
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 931
+ID Restaurante: 725
+
+*** Reserva 672 ***
+ID Cliente: 386
+Fecha Llegada: 2024-04-30
+Fecha Salida: 2024-05-06
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 395
+ID Restaurante: 350
+
+*** Reserva 673 ***
+ID Cliente: 301
+Fecha Llegada: 2024-02-29
+Fecha Salida: 2024-03-08
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 930
+ID Restaurante: 238
+
+*** Reserva 674 ***
+ID Cliente: 204
+Fecha Llegada: 2024-03-21
+Fecha Salida: 2024-03-31
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 698
+ID Restaurante: 963
+
+*** Reserva 675 ***
+ID Cliente: 899
+Fecha Llegada: 2024-03-28
+Fecha Salida: 2024-04-02
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 636
+ID Restaurante: 301
+
+*** Reserva 676 ***
+ID Cliente: 911
+Fecha Llegada: 2024-04-12
+Fecha Salida: 2024-04-15
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 977
+ID Restaurante: 160
+
+*** Reserva 677 ***
+ID Cliente: 159
+Fecha Llegada: 2024-02-01
+Fecha Salida: 2024-02-10
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 517
+ID Restaurante: 253
+
+*** Reserva 678 ***
+ID Cliente: 989
+Fecha Llegada: 2024-02-04
+Fecha Salida: 2024-02-05
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 896
+ID Restaurante: 122
+
+*** Reserva 679 ***
+ID Cliente: 648
+Fecha Llegada: 2024-01-15
+Fecha Salida: 2024-01-16
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 898
+ID Restaurante: 278
+
+*** Reserva 680 ***
+ID Cliente: 122
+Fecha Llegada: 2024-01-23
+Fecha Salida: 2024-01-26
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 381
+ID Restaurante: 333
+
+*** Reserva 681 ***
+ID Cliente: 261
+Fecha Llegada: 2024-03-08
+Fecha Salida: 2024-03-11
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 499
+ID Restaurante: 810
+
+*** Reserva 682 ***
+ID Cliente: 675
+Fecha Llegada: 2024-04-08
+Fecha Salida: 2024-04-18
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 889
+ID Restaurante: 461
+
+*** Reserva 683 ***
+ID Cliente: 418
+Fecha Llegada: 2024-04-30
+Fecha Salida: 2024-05-05
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 957
+ID Restaurante: 650
+
+*** Reserva 684 ***
+ID Cliente: 72
+Fecha Llegada: 2024-04-08
+Fecha Salida: 2024-04-09
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 825
+ID Restaurante: 875
+
+*** Reserva 685 ***
+ID Cliente: 114
+Fecha Llegada: 2024-04-25
+Fecha Salida: 2024-04-29
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 823
+ID Restaurante: 490
+
+*** Reserva 686 ***
+ID Cliente: 974
+Fecha Llegada: 2024-03-30
+Fecha Salida: 2024-04-09
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 763
+ID Restaurante: 510
+
+*** Reserva 687 ***
+ID Cliente: 965
+Fecha Llegada: 2024-04-30
+Fecha Salida: 2024-05-05
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 88
+ID Restaurante: 305
+
+*** Reserva 688 ***
+ID Cliente: 933
+Fecha Llegada: 2024-04-08
+Fecha Salida: 2024-04-09
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 268
+ID Restaurante: 567
+
+*** Reserva 689 ***
+ID Cliente: 407
+Fecha Llegada: 2024-03-13
+Fecha Salida: 2024-03-15
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 555
+ID Restaurante: 698
+
+*** Reserva 690 ***
+ID Cliente: 955
+Fecha Llegada: 2024-01-07
+Fecha Salida: 2024-01-16
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 252
+ID Restaurante: 757
+
+*** Reserva 691 ***
+ID Cliente: 732
+Fecha Llegada: 2024-04-29
+Fecha Salida: 2024-05-08
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 986
+ID Restaurante: 678
+
+*** Reserva 692 ***
+ID Cliente: 631
+Fecha Llegada: 2024-02-13
+Fecha Salida: 2024-02-17
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 141
+ID Restaurante: 373
+
+*** Reserva 693 ***
+ID Cliente: 286
+Fecha Llegada: 2024-03-27
+Fecha Salida: 2024-04-02
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 804
+ID Restaurante: 948
+
+*** Reserva 694 ***
+ID Cliente: 891
+Fecha Llegada: 2024-03-17
+Fecha Salida: 2024-03-21
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 792
+ID Restaurante: 865
+
+*** Reserva 695 ***
+ID Cliente: 485
+Fecha Llegada: 2024-02-07
+Fecha Salida: 2024-02-13
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 827
+ID Restaurante: 261
+
+*** Reserva 696 ***
+ID Cliente: 688
+Fecha Llegada: 2024-04-13
+Fecha Salida: 2024-04-16
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 462
+ID Restaurante: 144
+
+*** Reserva 697 ***
+ID Cliente: 776
+Fecha Llegada: 2024-01-20
+Fecha Salida: 2024-01-23
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 128
+ID Restaurante: 577
+
+*** Reserva 698 ***
+ID Cliente: 813
+Fecha Llegada: 2024-02-03
+Fecha Salida: 2024-02-10
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 270
+ID Restaurante: 622
+
+*** Reserva 699 ***
+ID Cliente: 171
+Fecha Llegada: 2024-04-12
+Fecha Salida: 2024-04-19
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 858
+ID Restaurante: 846
+
+*** Reserva 700 ***
+ID Cliente: 308
+Fecha Llegada: 2024-04-22
+Fecha Salida: 2024-04-28
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 46
+ID Restaurante: 358
+
+*** Reserva 701 ***
+ID Cliente: 990
+Fecha Llegada: 2024-04-18
+Fecha Salida: 2024-04-20
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 754
+ID Restaurante: 849
+
+*** Reserva 702 ***
+ID Cliente: 745
+Fecha Llegada: 2024-02-21
+Fecha Salida: 2024-02-22
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 222
+ID Restaurante: 134
+
+*** Reserva 703 ***
+ID Cliente: 135
+Fecha Llegada: 2024-02-01
+Fecha Salida: 2024-02-10
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 342
+ID Restaurante: 190
+
+*** Reserva 704 ***
+ID Cliente: 214
+Fecha Llegada: 2024-04-24
+Fecha Salida: 2024-04-29
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 531
+ID Restaurante: 118
+
+*** Reserva 705 ***
+ID Cliente: 9
+Fecha Llegada: 2024-02-05
+Fecha Salida: 2024-02-14
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 568
+ID Restaurante: 413
+
+*** Reserva 706 ***
+ID Cliente: 264
+Fecha Llegada: 2024-04-29
+Fecha Salida: 2024-05-02
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 502
+ID Restaurante: 927
+
+*** Reserva 707 ***
+ID Cliente: 552
+Fecha Llegada: 2024-04-22
+Fecha Salida: 2024-04-24
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 441
+ID Restaurante: 667
+
+*** Reserva 708 ***
+ID Cliente: 187
+Fecha Llegada: 2024-04-26
+Fecha Salida: 2024-04-30
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 263
+ID Restaurante: 440
+
+*** Reserva 709 ***
+ID Cliente: 941
+Fecha Llegada: 2024-03-16
+Fecha Salida: 2024-03-26
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 528
+ID Restaurante: 439
+
+*** Reserva 710 ***
+ID Cliente: 179
+Fecha Llegada: 2024-01-20
+Fecha Salida: 2024-01-25
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 695
+ID Restaurante: 804
+
+*** Reserva 711 ***
+ID Cliente: 154
+Fecha Llegada: 2024-02-10
+Fecha Salida: 2024-02-12
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 775
+ID Restaurante: 499
+
+*** Reserva 712 ***
+ID Cliente: 484
+Fecha Llegada: 2024-04-13
+Fecha Salida: 2024-04-22
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 574
+ID Restaurante: 269
+
+*** Reserva 713 ***
+ID Cliente: 803
+Fecha Llegada: 2024-03-30
+Fecha Salida: 2024-04-05
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 458
+ID Restaurante: 863
+
+*** Reserva 714 ***
+ID Cliente: 105
+Fecha Llegada: 2024-01-13
+Fecha Salida: 2024-01-17
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 511
+ID Restaurante: 574
+
+*** Reserva 715 ***
+ID Cliente: 821
+Fecha Llegada: 2024-02-08
+Fecha Salida: 2024-02-17
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 905
+ID Restaurante: 873
+
+*** Reserva 716 ***
+ID Cliente: 702
+Fecha Llegada: 2024-02-21
+Fecha Salida: 2024-02-28
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 752
+ID Restaurante: 829
+
+*** Reserva 717 ***
+ID Cliente: 53
+Fecha Llegada: 2024-02-07
+Fecha Salida: 2024-02-12
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 973
+ID Restaurante: 646
+
+*** Reserva 718 ***
+ID Cliente: 274
+Fecha Llegada: 2024-01-22
+Fecha Salida: 2024-02-01
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 689
+ID Restaurante: 328
+
+*** Reserva 719 ***
+ID Cliente: 572
+Fecha Llegada: 2024-03-17
+Fecha Salida: 2024-03-24
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 303
+ID Restaurante: 922
+
+*** Reserva 720 ***
+ID Cliente: 252
+Fecha Llegada: 2024-04-20
+Fecha Salida: 2024-04-27
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 40
+ID Restaurante: 449
+
+*** Reserva 721 ***
+ID Cliente: 400
+Fecha Llegada: 2024-03-27
+Fecha Salida: 2024-03-28
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 649
+ID Restaurante: 889
+
+*** Reserva 722 ***
+ID Cliente: 677
+Fecha Llegada: 2024-03-31
+Fecha Salida: 2024-04-03
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 757
+ID Restaurante: 591
+
+*** Reserva 723 ***
+ID Cliente: 476
+Fecha Llegada: 2024-01-21
+Fecha Salida: 2024-01-22
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 243
+ID Restaurante: 825
+
+*** Reserva 724 ***
+ID Cliente: 525
+Fecha Llegada: 2024-04-09
+Fecha Salida: 2024-04-10
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 151
+ID Restaurante: 500
+
+*** Reserva 725 ***
+ID Cliente: 589
+Fecha Llegada: 2024-04-16
+Fecha Salida: 2024-04-21
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 324
+ID Restaurante: 656
+
+*** Reserva 726 ***
+ID Cliente: 383
+Fecha Llegada: 2024-04-30
+Fecha Salida: 2024-05-08
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 458
+ID Restaurante: 706
+
+*** Reserva 727 ***
+ID Cliente: 104
+Fecha Llegada: 2024-03-25
+Fecha Salida: 2024-03-26
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 190
+ID Restaurante: 639
+
+*** Reserva 728 ***
+ID Cliente: 31
+Fecha Llegada: 2024-02-18
+Fecha Salida: 2024-02-22
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 530
+ID Restaurante: 639
+
+*** Reserva 729 ***
+ID Cliente: 444
+Fecha Llegada: 2024-04-07
+Fecha Salida: 2024-04-09
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 783
+ID Restaurante: 231
+
+*** Reserva 730 ***
+ID Cliente: 166
+Fecha Llegada: 2024-01-20
+Fecha Salida: 2024-01-28
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 868
+ID Restaurante: 834
+
+*** Reserva 731 ***
+ID Cliente: 412
+Fecha Llegada: 2024-02-03
+Fecha Salida: 2024-02-11
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 147
+ID Restaurante: 853
+
+*** Reserva 732 ***
+ID Cliente: 819
+Fecha Llegada: 2024-02-23
+Fecha Salida: 2024-03-03
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 889
+ID Restaurante: 906
+
+*** Reserva 733 ***
+ID Cliente: 832
+Fecha Llegada: 2024-02-09
+Fecha Salida: 2024-02-14
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 461
+ID Restaurante: 875
+
+*** Reserva 734 ***
+ID Cliente: 612
+Fecha Llegada: 2024-02-28
+Fecha Salida: 2024-03-03
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 847
+ID Restaurante: 834
+
+*** Reserva 735 ***
+ID Cliente: 112
+Fecha Llegada: 2024-03-21
+Fecha Salida: 2024-03-28
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 574
+ID Restaurante: 333
+
+*** Reserva 736 ***
+ID Cliente: 737
+Fecha Llegada: 2024-04-07
+Fecha Salida: 2024-04-11
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 299
+ID Restaurante: 757
+
+*** Reserva 737 ***
+ID Cliente: 403
+Fecha Llegada: 2024-04-25
+Fecha Salida: 2024-05-05
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 476
+ID Restaurante: 230
+
+*** Reserva 738 ***
+ID Cliente: 798
+Fecha Llegada: 2024-04-06
+Fecha Salida: 2024-04-16
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 370
+ID Restaurante: 891
+
+*** Reserva 739 ***
+ID Cliente: 514
+Fecha Llegada: 2024-04-15
+Fecha Salida: 2024-04-25
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 886
+ID Restaurante: 32
+
+*** Reserva 740 ***
+ID Cliente: 944
+Fecha Llegada: 2024-04-27
+Fecha Salida: 2024-04-29
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 781
+ID Restaurante: 753
+
+*** Reserva 741 ***
+ID Cliente: 873
+Fecha Llegada: 2024-01-01
+Fecha Salida: 2024-01-03
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 280
+ID Restaurante: 616
+
+*** Reserva 742 ***
+ID Cliente: 516
+Fecha Llegada: 2024-02-09
+Fecha Salida: 2024-02-12
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 636
+ID Restaurante: 907
+
+*** Reserva 743 ***
+ID Cliente: 185
+Fecha Llegada: 2024-04-29
+Fecha Salida: 2024-05-07
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 691
+ID Restaurante: 403
+
+*** Reserva 744 ***
+ID Cliente: 94
+Fecha Llegada: 2024-02-27
+Fecha Salida: 2024-03-05
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 513
+ID Restaurante: 327
+
+*** Reserva 745 ***
+ID Cliente: 385
+Fecha Llegada: 2024-01-19
+Fecha Salida: 2024-01-25
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 571
+ID Restaurante: 14
+
+*** Reserva 746 ***
+ID Cliente: 368
+Fecha Llegada: 2024-04-26
+Fecha Salida: 2024-05-04
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 785
+ID Restaurante: 50
+
+*** Reserva 747 ***
+ID Cliente: 689
+Fecha Llegada: 2024-03-22
+Fecha Salida: 2024-03-23
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 734
+ID Restaurante: 857
+
+*** Reserva 748 ***
+ID Cliente: 310
+Fecha Llegada: 2024-03-20
+Fecha Salida: 2024-03-29
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 220
+ID Restaurante: 923
+
+*** Reserva 749 ***
+ID Cliente: 84
+Fecha Llegada: 2024-04-28
+Fecha Salida: 2024-05-08
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 197
+ID Restaurante: 220
+
+*** Reserva 750 ***
+ID Cliente: 128
+Fecha Llegada: 2024-04-20
+Fecha Salida: 2024-04-29
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 732
+ID Restaurante: 882
+
+*** Reserva 751 ***
+ID Cliente: 304
+Fecha Llegada: 2024-04-10
+Fecha Salida: 2024-04-19
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 450
+ID Restaurante: 241
+
+*** Reserva 752 ***
+ID Cliente: 35
+Fecha Llegada: 2024-03-21
+Fecha Salida: 2024-03-27
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 517
+ID Restaurante: 885
+
+*** Reserva 753 ***
+ID Cliente: 313
+Fecha Llegada: 2024-03-22
+Fecha Salida: 2024-04-01
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 169
+ID Restaurante: 150
+
+*** Reserva 754 ***
+ID Cliente: 330
+Fecha Llegada: 2024-03-25
+Fecha Salida: 2024-03-28
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 797
+ID Restaurante: 819
+
+*** Reserva 755 ***
+ID Cliente: 239
+Fecha Llegada: 2024-02-08
+Fecha Salida: 2024-02-15
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 960
+ID Restaurante: 941
+
+*** Reserva 756 ***
+ID Cliente: 684
+Fecha Llegada: 2024-02-23
+Fecha Salida: 2024-02-28
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 441
+ID Restaurante: 130
+
+*** Reserva 757 ***
+ID Cliente: 490
+Fecha Llegada: 2024-02-02
+Fecha Salida: 2024-02-06
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 969
+ID Restaurante: 68
+
+*** Reserva 758 ***
+ID Cliente: 95
+Fecha Llegada: 2024-04-10
+Fecha Salida: 2024-04-13
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 555
+ID Restaurante: 813
+
+*** Reserva 759 ***
+ID Cliente: 173
+Fecha Llegada: 2024-03-13
+Fecha Salida: 2024-03-15
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 308
+ID Restaurante: 123
+
+*** Reserva 760 ***
+ID Cliente: 660
+Fecha Llegada: 2024-02-25
+Fecha Salida: 2024-02-28
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 842
+ID Restaurante: 15
+
+*** Reserva 761 ***
+ID Cliente: 329
+Fecha Llegada: 2024-02-19
+Fecha Salida: 2024-02-23
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 561
+ID Restaurante: 593
+
+*** Reserva 762 ***
+ID Cliente: 203
+Fecha Llegada: 2024-01-01
+Fecha Salida: 2024-01-03
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 801
+ID Restaurante: 745
+
+*** Reserva 763 ***
+ID Cliente: 16
+Fecha Llegada: 2024-03-20
+Fecha Salida: 2024-03-30
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 327
+ID Restaurante: 961
+
+*** Reserva 764 ***
+ID Cliente: 908
+Fecha Llegada: 2024-02-22
+Fecha Salida: 2024-03-03
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 958
+ID Restaurante: 736
+
+*** Reserva 765 ***
+ID Cliente: 882
+Fecha Llegada: 2024-03-04
+Fecha Salida: 2024-03-13
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 643
+ID Restaurante: 170
+
+*** Reserva 766 ***
+ID Cliente: 871
+Fecha Llegada: 2024-03-29
+Fecha Salida: 2024-04-06
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 766
+ID Restaurante: 572
+
+*** Reserva 767 ***
+ID Cliente: 228
+Fecha Llegada: 2024-03-15
+Fecha Salida: 2024-03-23
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 880
+ID Restaurante: 18
+
+*** Reserva 768 ***
+ID Cliente: 222
+Fecha Llegada: 2024-01-03
+Fecha Salida: 2024-01-09
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 688
+ID Restaurante: 208
+
+*** Reserva 769 ***
+ID Cliente: 486
+Fecha Llegada: 2024-02-11
+Fecha Salida: 2024-02-15
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 373
+ID Restaurante: 571
+
+*** Reserva 770 ***
+ID Cliente: 873
+Fecha Llegada: 2024-04-14
+Fecha Salida: 2024-04-21
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 717
+ID Restaurante: 779
+
+*** Reserva 771 ***
+ID Cliente: 787
+Fecha Llegada: 2024-03-22
+Fecha Salida: 2024-03-23
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 611
+ID Restaurante: 381
+
+*** Reserva 772 ***
+ID Cliente: 704
+Fecha Llegada: 2024-01-25
+Fecha Salida: 2024-01-26
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 192
+ID Restaurante: 724
+
+*** Reserva 773 ***
+ID Cliente: 260
+Fecha Llegada: 2024-03-30
+Fecha Salida: 2024-04-08
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 871
+ID Restaurante: 308
+
+*** Reserva 774 ***
+ID Cliente: 951
+Fecha Llegada: 2024-03-15
+Fecha Salida: 2024-03-20
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 948
+ID Restaurante: 928
+
+*** Reserva 775 ***
+ID Cliente: 6
+Fecha Llegada: 2024-01-15
+Fecha Salida: 2024-01-19
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 562
+ID Restaurante: 375
+
+*** Reserva 776 ***
+ID Cliente: 859
+Fecha Llegada: 2024-03-03
+Fecha Salida: 2024-03-07
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 93
+ID Restaurante: 378
+
+*** Reserva 777 ***
+ID Cliente: 884
+Fecha Llegada: 2024-01-18
+Fecha Salida: 2024-01-20
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 411
+ID Restaurante: 873
+
+*** Reserva 778 ***
+ID Cliente: 248
+Fecha Llegada: 2024-02-11
+Fecha Salida: 2024-02-19
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 692
+ID Restaurante: 739
+
+*** Reserva 779 ***
+ID Cliente: 518
+Fecha Llegada: 2024-04-25
+Fecha Salida: 2024-05-05
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 920
+ID Restaurante: 524
+
+*** Reserva 780 ***
+ID Cliente: 790
+Fecha Llegada: 2024-01-20
+Fecha Salida: 2024-01-21
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 684
+ID Restaurante: 769
+
+*** Reserva 781 ***
+ID Cliente: 257
+Fecha Llegada: 2024-02-17
+Fecha Salida: 2024-02-18
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 292
+ID Restaurante: 825
+
+*** Reserva 782 ***
+ID Cliente: 908
+Fecha Llegada: 2024-01-28
+Fecha Salida: 2024-02-03
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 522
+ID Restaurante: 217
+
+*** Reserva 783 ***
+ID Cliente: 732
+Fecha Llegada: 2024-01-09
+Fecha Salida: 2024-01-19
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 437
+ID Restaurante: 270
+
+*** Reserva 784 ***
+ID Cliente: 552
+Fecha Llegada: 2024-03-24
+Fecha Salida: 2024-03-27
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 899
+ID Restaurante: 665
+
+*** Reserva 785 ***
+ID Cliente: 941
+Fecha Llegada: 2024-01-18
+Fecha Salida: 2024-01-19
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 685
+ID Restaurante: 430
+
+*** Reserva 786 ***
+ID Cliente: 785
+Fecha Llegada: 2024-04-25
+Fecha Salida: 2024-04-30
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 564
+ID Restaurante: 230
+
+*** Reserva 787 ***
+ID Cliente: 805
+Fecha Llegada: 2024-02-27
+Fecha Salida: 2024-03-06
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 952
+ID Restaurante: 716
+
+*** Reserva 788 ***
+ID Cliente: 425
+Fecha Llegada: 2024-04-05
+Fecha Salida: 2024-04-14
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 718
+ID Restaurante: 877
+
+*** Reserva 789 ***
+ID Cliente: 658
+Fecha Llegada: 2024-01-28
+Fecha Salida: 2024-01-31
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 893
+ID Restaurante: 53
+
+*** Reserva 790 ***
+ID Cliente: 975
+Fecha Llegada: 2024-01-29
+Fecha Salida: 2024-02-04
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 973
+ID Restaurante: 661
+
+*** Reserva 791 ***
+ID Cliente: 220
+Fecha Llegada: 2024-03-11
+Fecha Salida: 2024-03-18
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 942
+ID Restaurante: 475
+
+*** Reserva 792 ***
+ID Cliente: 455
+Fecha Llegada: 2024-01-15
+Fecha Salida: 2024-01-23
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 644
+ID Restaurante: 701
+
+*** Reserva 793 ***
+ID Cliente: 947
+Fecha Llegada: 2024-01-05
+Fecha Salida: 2024-01-06
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 472
+ID Restaurante: 916
+
+*** Reserva 794 ***
+ID Cliente: 281
+Fecha Llegada: 2024-02-05
+Fecha Salida: 2024-02-15
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 377
+ID Restaurante: 69
+
+*** Reserva 795 ***
+ID Cliente: 604
+Fecha Llegada: 2024-04-19
+Fecha Salida: 2024-04-25
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 111
+ID Restaurante: 91
+
+*** Reserva 796 ***
+ID Cliente: 384
+Fecha Llegada: 2024-03-11
+Fecha Salida: 2024-03-14
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 830
+ID Restaurante: 676
+
+*** Reserva 797 ***
+ID Cliente: 602
+Fecha Llegada: 2024-02-14
+Fecha Salida: 2024-02-23
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 76
+ID Restaurante: 522
+
+*** Reserva 798 ***
+ID Cliente: 125
+Fecha Llegada: 2024-03-07
+Fecha Salida: 2024-03-10
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 740
+ID Restaurante: 688
+
+*** Reserva 799 ***
+ID Cliente: 295
+Fecha Llegada: 2024-02-07
+Fecha Salida: 2024-02-13
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 642
+ID Restaurante: 502
+
+*** Reserva 800 ***
+ID Cliente: 157
+Fecha Llegada: 2024-01-02
+Fecha Salida: 2024-01-10
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 1
+ID Restaurante: 685
+
+*** Reserva 801 ***
+ID Cliente: 569
+Fecha Llegada: 2024-02-15
+Fecha Salida: 2024-02-17
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 668
+ID Restaurante: 644
+
+*** Reserva 802 ***
+ID Cliente: 238
+Fecha Llegada: 2024-02-29
+Fecha Salida: 2024-03-08
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 636
+ID Restaurante: 248
+
+*** Reserva 803 ***
+ID Cliente: 387
+Fecha Llegada: 2024-01-08
+Fecha Salida: 2024-01-10
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 401
+ID Restaurante: 485
+
+*** Reserva 804 ***
+ID Cliente: 709
+Fecha Llegada: 2024-03-09
+Fecha Salida: 2024-03-10
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 295
+ID Restaurante: 84
+
+*** Reserva 805 ***
+ID Cliente: 715
+Fecha Llegada: 2024-03-16
+Fecha Salida: 2024-03-25
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 757
+ID Restaurante: 515
+
+*** Reserva 806 ***
+ID Cliente: 506
+Fecha Llegada: 2024-01-29
+Fecha Salida: 2024-01-30
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 780
+ID Restaurante: 847
+
+*** Reserva 807 ***
+ID Cliente: 238
+Fecha Llegada: 2024-01-24
+Fecha Salida: 2024-01-30
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 384
+ID Restaurante: 448
+
+*** Reserva 808 ***
+ID Cliente: 909
+Fecha Llegada: 2024-03-09
+Fecha Salida: 2024-03-12
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 61
+ID Restaurante: 309
+
+*** Reserva 809 ***
+ID Cliente: 808
+Fecha Llegada: 2024-02-27
+Fecha Salida: 2024-03-04
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 7
+ID Restaurante: 387
+
+*** Reserva 810 ***
+ID Cliente: 578
+Fecha Llegada: 2024-02-24
+Fecha Salida: 2024-02-28
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 245
+ID Restaurante: 785
+
+*** Reserva 811 ***
+ID Cliente: 346
+Fecha Llegada: 2024-03-26
+Fecha Salida: 2024-03-29
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 808
+ID Restaurante: 666
+
+*** Reserva 812 ***
+ID Cliente: 975
+Fecha Llegada: 2024-03-31
+Fecha Salida: 2024-04-09
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 969
+ID Restaurante: 820
+
+*** Reserva 813 ***
+ID Cliente: 931
+Fecha Llegada: 2024-03-08
+Fecha Salida: 2024-03-12
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 176
+ID Restaurante: 260
+
+*** Reserva 814 ***
+ID Cliente: 102
+Fecha Llegada: 2024-03-29
+Fecha Salida: 2024-04-06
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 461
+ID Restaurante: 232
+
+*** Reserva 815 ***
+ID Cliente: 332
+Fecha Llegada: 2024-03-20
+Fecha Salida: 2024-03-24
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 295
+ID Restaurante: 738
+
+*** Reserva 816 ***
+ID Cliente: 683
+Fecha Llegada: 2024-04-09
+Fecha Salida: 2024-04-17
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 128
+ID Restaurante: 419
+
+*** Reserva 817 ***
+ID Cliente: 921
+Fecha Llegada: 2024-04-13
+Fecha Salida: 2024-04-14
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 873
+ID Restaurante: 797
+
+*** Reserva 818 ***
+ID Cliente: 75
+Fecha Llegada: 2024-03-09
+Fecha Salida: 2024-03-18
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 464
+ID Restaurante: 404
+
+*** Reserva 819 ***
+ID Cliente: 295
+Fecha Llegada: 2024-01-20
+Fecha Salida: 2024-01-27
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 10
+ID Restaurante: 947
+
+*** Reserva 820 ***
+ID Cliente: 420
+Fecha Llegada: 2024-04-29
+Fecha Salida: 2024-04-30
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 594
+ID Restaurante: 258
+
+*** Reserva 821 ***
+ID Cliente: 71
+Fecha Llegada: 2024-04-25
+Fecha Salida: 2024-05-04
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 874
+ID Restaurante: 857
+
+*** Reserva 822 ***
+ID Cliente: 704
+Fecha Llegada: 2024-02-29
+Fecha Salida: 2024-03-05
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 988
+ID Restaurante: 695
+
+*** Reserva 823 ***
+ID Cliente: 989
+Fecha Llegada: 2024-01-19
+Fecha Salida: 2024-01-29
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 62
+ID Restaurante: 315
+
+*** Reserva 824 ***
+ID Cliente: 98
+Fecha Llegada: 2024-02-02
+Fecha Salida: 2024-02-05
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 147
+ID Restaurante: 515
+
+*** Reserva 825 ***
+ID Cliente: 738
+Fecha Llegada: 2024-02-19
+Fecha Salida: 2024-02-29
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 695
+ID Restaurante: 287
+
+*** Reserva 826 ***
+ID Cliente: 210
+Fecha Llegada: 2024-02-22
+Fecha Salida: 2024-03-01
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 140
+ID Restaurante: 100
+
+*** Reserva 827 ***
+ID Cliente: 79
+Fecha Llegada: 2024-04-15
+Fecha Salida: 2024-04-20
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 215
+ID Restaurante: 144
+
+*** Reserva 828 ***
+ID Cliente: 882
+Fecha Llegada: 2024-01-25
+Fecha Salida: 2024-02-04
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 3
+ID Restaurante: 452
+
+*** Reserva 829 ***
+ID Cliente: 961
+Fecha Llegada: 2024-04-18
+Fecha Salida: 2024-04-27
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 416
+ID Restaurante: 126
+
+*** Reserva 830 ***
+ID Cliente: 68
+Fecha Llegada: 2024-01-29
+Fecha Salida: 2024-02-06
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 49
+ID Restaurante: 34
+
+*** Reserva 831 ***
+ID Cliente: 965
+Fecha Llegada: 2024-02-18
+Fecha Salida: 2024-02-27
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 367
+ID Restaurante: 72
+
+*** Reserva 832 ***
+ID Cliente: 179
+Fecha Llegada: 2024-04-14
+Fecha Salida: 2024-04-16
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 922
+ID Restaurante: 829
+
+*** Reserva 833 ***
+ID Cliente: 518
+Fecha Llegada: 2024-02-19
+Fecha Salida: 2024-02-27
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 759
+ID Restaurante: 660
+
+*** Reserva 834 ***
+ID Cliente: 442
+Fecha Llegada: 2024-01-16
+Fecha Salida: 2024-01-23
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 302
+ID Restaurante: 1000
+
+*** Reserva 835 ***
+ID Cliente: 932
+Fecha Llegada: 2024-01-04
+Fecha Salida: 2024-01-08
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 885
+ID Restaurante: 41
+
+*** Reserva 836 ***
+ID Cliente: 337
+Fecha Llegada: 2024-02-06
+Fecha Salida: 2024-02-12
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 121
+ID Restaurante: 594
+
+*** Reserva 837 ***
+ID Cliente: 517
+Fecha Llegada: 2024-03-10
+Fecha Salida: 2024-03-11
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 581
+ID Restaurante: 310
+
+*** Reserva 838 ***
+ID Cliente: 717
+Fecha Llegada: 2024-04-16
+Fecha Salida: 2024-04-24
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 746
+ID Restaurante: 357
+
+*** Reserva 839 ***
+ID Cliente: 876
+Fecha Llegada: 2024-04-01
+Fecha Salida: 2024-04-02
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 956
+ID Restaurante: 145
+
+*** Reserva 840 ***
+ID Cliente: 723
+Fecha Llegada: 2024-01-13
+Fecha Salida: 2024-01-15
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 869
+ID Restaurante: 798
+
+*** Reserva 841 ***
+ID Cliente: 808
+Fecha Llegada: 2024-04-07
+Fecha Salida: 2024-04-14
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 290
+ID Restaurante: 67
+
+*** Reserva 842 ***
+ID Cliente: 72
+Fecha Llegada: 2024-03-18
+Fecha Salida: 2024-03-21
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 754
+ID Restaurante: 412
+
+*** Reserva 843 ***
+ID Cliente: 471
+Fecha Llegada: 2024-04-22
+Fecha Salida: 2024-04-26
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 309
+ID Restaurante: 396
+
+*** Reserva 844 ***
+ID Cliente: 256
+Fecha Llegada: 2024-04-17
+Fecha Salida: 2024-04-19
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 123
+ID Restaurante: 515
+
+*** Reserva 845 ***
+ID Cliente: 738
+Fecha Llegada: 2024-01-12
+Fecha Salida: 2024-01-22
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 859
+ID Restaurante: 824
+
+*** Reserva 846 ***
+ID Cliente: 322
+Fecha Llegada: 2024-03-20
+Fecha Salida: 2024-03-25
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 578
+ID Restaurante: 921
+
+*** Reserva 847 ***
+ID Cliente: 973
+Fecha Llegada: 2024-02-08
+Fecha Salida: 2024-02-10
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 985
+ID Restaurante: 262
+
+*** Reserva 848 ***
+ID Cliente: 325
+Fecha Llegada: 2024-04-07
+Fecha Salida: 2024-04-10
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 372
+ID Restaurante: 443
+
+*** Reserva 849 ***
+ID Cliente: 729
+Fecha Llegada: 2024-01-14
+Fecha Salida: 2024-01-18
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 587
+ID Restaurante: 267
+
+*** Reserva 850 ***
+ID Cliente: 845
+Fecha Llegada: 2024-04-27
+Fecha Salida: 2024-04-28
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 867
+ID Restaurante: 824
+
+*** Reserva 851 ***
+ID Cliente: 272
+Fecha Llegada: 2024-04-03
+Fecha Salida: 2024-04-05
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 31
+ID Restaurante: 761
+
+*** Reserva 852 ***
+ID Cliente: 323
+Fecha Llegada: 2024-01-19
+Fecha Salida: 2024-01-20
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 935
+ID Restaurante: 788
+
+*** Reserva 853 ***
+ID Cliente: 65
+Fecha Llegada: 2024-02-07
+Fecha Salida: 2024-02-10
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 482
+ID Restaurante: 374
+
+*** Reserva 854 ***
+ID Cliente: 661
+Fecha Llegada: 2024-03-06
+Fecha Salida: 2024-03-10
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 390
+ID Restaurante: 690
+
+*** Reserva 855 ***
+ID Cliente: 682
+Fecha Llegada: 2024-01-18
+Fecha Salida: 2024-01-23
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 589
+ID Restaurante: 637
+
+*** Reserva 856 ***
+ID Cliente: 373
+Fecha Llegada: 2024-03-07
+Fecha Salida: 2024-03-11
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 81
+ID Restaurante: 733
+
+*** Reserva 857 ***
+ID Cliente: 913
+Fecha Llegada: 2024-03-22
+Fecha Salida: 2024-03-26
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 945
+ID Restaurante: 596
+
+*** Reserva 858 ***
+ID Cliente: 690
+Fecha Llegada: 2024-03-02
+Fecha Salida: 2024-03-09
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 631
+ID Restaurante: 316
+
+*** Reserva 859 ***
+ID Cliente: 88
+Fecha Llegada: 2024-02-24
+Fecha Salida: 2024-02-29
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 360
+ID Restaurante: 720
+
+*** Reserva 860 ***
+ID Cliente: 56
+Fecha Llegada: 2024-03-25
+Fecha Salida: 2024-03-29
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 191
+ID Restaurante: 829
+
+*** Reserva 861 ***
+ID Cliente: 159
+Fecha Llegada: 2024-02-18
+Fecha Salida: 2024-02-22
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 933
+ID Restaurante: 393
+
+*** Reserva 862 ***
+ID Cliente: 382
+Fecha Llegada: 2024-02-07
+Fecha Salida: 2024-02-14
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 592
+ID Restaurante: 941
+
+*** Reserva 863 ***
+ID Cliente: 207
+Fecha Llegada: 2024-02-10
+Fecha Salida: 2024-02-19
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 361
+ID Restaurante: 865
+
+*** Reserva 864 ***
+ID Cliente: 569
+Fecha Llegada: 2024-04-11
+Fecha Salida: 2024-04-21
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 738
+ID Restaurante: 321
+
+*** Reserva 865 ***
+ID Cliente: 965
+Fecha Llegada: 2024-02-18
+Fecha Salida: 2024-02-28
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 734
+ID Restaurante: 483
+
+*** Reserva 866 ***
+ID Cliente: 308
+Fecha Llegada: 2024-04-05
+Fecha Salida: 2024-04-14
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 415
+ID Restaurante: 416
+
+*** Reserva 867 ***
+ID Cliente: 488
+Fecha Llegada: 2024-03-15
+Fecha Salida: 2024-03-18
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 381
+ID Restaurante: 65
+
+*** Reserva 868 ***
+ID Cliente: 717
+Fecha Llegada: 2024-02-02
+Fecha Salida: 2024-02-05
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 728
+ID Restaurante: 396
+
+*** Reserva 869 ***
+ID Cliente: 717
+Fecha Llegada: 2024-02-06
+Fecha Salida: 2024-02-09
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 942
+ID Restaurante: 732
+
+*** Reserva 870 ***
+ID Cliente: 384
+Fecha Llegada: 2024-02-01
+Fecha Salida: 2024-02-06
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 732
+ID Restaurante: 932
+
+*** Reserva 871 ***
+ID Cliente: 295
+Fecha Llegada: 2024-04-17
+Fecha Salida: 2024-04-26
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 56
+ID Restaurante: 646
+
+*** Reserva 872 ***
+ID Cliente: 11
+Fecha Llegada: 2024-03-17
+Fecha Salida: 2024-03-21
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 362
+ID Restaurante: 388
+
+*** Reserva 873 ***
+ID Cliente: 327
+Fecha Llegada: 2024-04-09
+Fecha Salida: 2024-04-18
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 640
+ID Restaurante: 370
+
+*** Reserva 874 ***
+ID Cliente: 685
+Fecha Llegada: 2024-01-14
+Fecha Salida: 2024-01-21
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 360
+ID Restaurante: 740
+
+*** Reserva 875 ***
+ID Cliente: 909
+Fecha Llegada: 2024-02-17
+Fecha Salida: 2024-02-19
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 994
+ID Restaurante: 704
+
+*** Reserva 876 ***
+ID Cliente: 402
+Fecha Llegada: 2024-04-11
+Fecha Salida: 2024-04-15
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 289
+ID Restaurante: 643
+
+*** Reserva 877 ***
+ID Cliente: 450
+Fecha Llegada: 2024-01-16
+Fecha Salida: 2024-01-22
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 487
+ID Restaurante: 960
+
+*** Reserva 878 ***
+ID Cliente: 870
+Fecha Llegada: 2024-01-24
+Fecha Salida: 2024-01-29
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 128
+ID Restaurante: 669
+
+*** Reserva 879 ***
+ID Cliente: 375
+Fecha Llegada: 2024-04-08
+Fecha Salida: 2024-04-09
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 662
+ID Restaurante: 640
+
+*** Reserva 880 ***
+ID Cliente: 413
+Fecha Llegada: 2024-04-12
+Fecha Salida: 2024-04-18
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 955
+ID Restaurante: 298
+
+*** Reserva 881 ***
+ID Cliente: 370
+Fecha Llegada: 2024-02-22
+Fecha Salida: 2024-02-23
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 220
+ID Restaurante: 802
+
+*** Reserva 882 ***
+ID Cliente: 938
+Fecha Llegada: 2024-02-04
+Fecha Salida: 2024-02-11
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 943
+ID Restaurante: 843
+
+*** Reserva 883 ***
+ID Cliente: 913
+Fecha Llegada: 2024-02-26
+Fecha Salida: 2024-02-28
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 779
+ID Restaurante: 38
+
+*** Reserva 884 ***
+ID Cliente: 263
+Fecha Llegada: 2024-03-27
+Fecha Salida: 2024-03-31
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 996
+ID Restaurante: 136
+
+*** Reserva 885 ***
+ID Cliente: 15
+Fecha Llegada: 2024-01-11
+Fecha Salida: 2024-01-21
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 146
+ID Restaurante: 267
+
+*** Reserva 886 ***
+ID Cliente: 22
+Fecha Llegada: 2024-03-29
+Fecha Salida: 2024-04-01
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 155
+ID Restaurante: 117
+
+*** Reserva 887 ***
+ID Cliente: 434
+Fecha Llegada: 2024-04-08
+Fecha Salida: 2024-04-12
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 83
+ID Restaurante: 298
+
+*** Reserva 888 ***
+ID Cliente: 262
+Fecha Llegada: 2024-03-06
+Fecha Salida: 2024-03-09
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 552
+ID Restaurante: 761
+
+*** Reserva 889 ***
+ID Cliente: 425
+Fecha Llegada: 2024-04-21
+Fecha Salida: 2024-04-23
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 452
+ID Restaurante: 832
+
+*** Reserva 890 ***
+ID Cliente: 645
+Fecha Llegada: 2024-03-09
+Fecha Salida: 2024-03-15
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 900
+ID Restaurante: 789
+
+*** Reserva 891 ***
+ID Cliente: 20
+Fecha Llegada: 2024-01-27
+Fecha Salida: 2024-02-04
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 338
+ID Restaurante: 873
+
+*** Reserva 892 ***
+ID Cliente: 586
+Fecha Llegada: 2024-01-09
+Fecha Salida: 2024-01-16
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 195
+ID Restaurante: 511
+
+*** Reserva 893 ***
+ID Cliente: 657
+Fecha Llegada: 2024-02-21
+Fecha Salida: 2024-02-27
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 162
+ID Restaurante: 208
+
+*** Reserva 894 ***
+ID Cliente: 346
+Fecha Llegada: 2024-01-08
+Fecha Salida: 2024-01-14
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 707
+ID Restaurante: 35
+
+*** Reserva 895 ***
+ID Cliente: 57
+Fecha Llegada: 2024-03-24
+Fecha Salida: 2024-03-25
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 388
+ID Restaurante: 754
+
+*** Reserva 896 ***
+ID Cliente: 891
+Fecha Llegada: 2024-03-03
+Fecha Salida: 2024-03-13
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 593
+ID Restaurante: 523
+
+*** Reserva 897 ***
+ID Cliente: 358
+Fecha Llegada: 2024-01-31
+Fecha Salida: 2024-02-05
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 211
+ID Restaurante: 684
+
+*** Reserva 898 ***
+ID Cliente: 36
+Fecha Llegada: 2024-02-15
+Fecha Salida: 2024-02-25
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 941
+ID Restaurante: 993
+
+*** Reserva 899 ***
+ID Cliente: 349
+Fecha Llegada: 2024-04-12
+Fecha Salida: 2024-04-22
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 793
+ID Restaurante: 761
+
+*** Reserva 900 ***
+ID Cliente: 230
+Fecha Llegada: 2024-04-15
+Fecha Salida: 2024-04-25
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 457
+ID Restaurante: 316
+
+*** Reserva 901 ***
+ID Cliente: 969
+Fecha Llegada: 2024-01-15
+Fecha Salida: 2024-01-22
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 765
+ID Restaurante: 613
+
+*** Reserva 902 ***
+ID Cliente: 362
+Fecha Llegada: 2024-04-27
+Fecha Salida: 2024-04-28
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 186
+ID Restaurante: 608
+
+*** Reserva 903 ***
+ID Cliente: 554
+Fecha Llegada: 2024-01-02
+Fecha Salida: 2024-01-08
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 6
+ID Restaurante: 736
+
+*** Reserva 904 ***
+ID Cliente: 487
+Fecha Llegada: 2024-03-28
+Fecha Salida: 2024-04-05
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 523
+ID Restaurante: 440
+
+*** Reserva 905 ***
+ID Cliente: 273
+Fecha Llegada: 2024-02-24
+Fecha Salida: 2024-02-26
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 435
+ID Restaurante: 652
+
+*** Reserva 906 ***
+ID Cliente: 605
+Fecha Llegada: 2024-01-27
+Fecha Salida: 2024-02-05
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 916
+ID Restaurante: 235
+
+*** Reserva 907 ***
+ID Cliente: 208
+Fecha Llegada: 2024-04-25
+Fecha Salida: 2024-05-05
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 134
+ID Restaurante: 605
+
+*** Reserva 908 ***
+ID Cliente: 500
+Fecha Llegada: 2024-04-29
+Fecha Salida: 2024-05-06
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 799
+ID Restaurante: 399
+
+*** Reserva 909 ***
+ID Cliente: 417
+Fecha Llegada: 2024-02-06
+Fecha Salida: 2024-02-07
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 925
+ID Restaurante: 336
+
+*** Reserva 910 ***
+ID Cliente: 194
+Fecha Llegada: 2024-02-12
+Fecha Salida: 2024-02-16
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 921
+ID Restaurante: 321
+
+*** Reserva 911 ***
+ID Cliente: 821
+Fecha Llegada: 2024-04-08
+Fecha Salida: 2024-04-18
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 814
+ID Restaurante: 124
+
+*** Reserva 912 ***
+ID Cliente: 211
+Fecha Llegada: 2024-02-28
+Fecha Salida: 2024-03-01
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 292
+ID Restaurante: 169
+
+*** Reserva 913 ***
+ID Cliente: 157
+Fecha Llegada: 2024-02-09
+Fecha Salida: 2024-02-17
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 853
+ID Restaurante: 193
+
+*** Reserva 914 ***
+ID Cliente: 202
+Fecha Llegada: 2024-02-15
+Fecha Salida: 2024-02-20
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 28
+ID Restaurante: 438
+
+*** Reserva 915 ***
+ID Cliente: 760
+Fecha Llegada: 2024-04-07
+Fecha Salida: 2024-04-16
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 768
+ID Restaurante: 152
+
+*** Reserva 916 ***
+ID Cliente: 227
+Fecha Llegada: 2024-02-26
+Fecha Salida: 2024-03-04
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 926
+ID Restaurante: 559
+
+*** Reserva 917 ***
+ID Cliente: 610
+Fecha Llegada: 2024-03-14
+Fecha Salida: 2024-03-18
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 1
+ID Restaurante: 32
+
+*** Reserva 918 ***
+ID Cliente: 947
+Fecha Llegada: 2024-04-29
+Fecha Salida: 2024-05-03
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 651
+ID Restaurante: 811
+
+*** Reserva 919 ***
+ID Cliente: 48
+Fecha Llegada: 2024-04-18
+Fecha Salida: 2024-04-19
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 482
+ID Restaurante: 812
+
+*** Reserva 920 ***
+ID Cliente: 109
+Fecha Llegada: 2024-03-12
+Fecha Salida: 2024-03-18
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 469
+ID Restaurante: 867
+
+*** Reserva 921 ***
+ID Cliente: 981
+Fecha Llegada: 2024-01-26
+Fecha Salida: 2024-02-04
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 240
+ID Restaurante: 623
+
+*** Reserva 922 ***
+ID Cliente: 220
+Fecha Llegada: 2024-03-16
+Fecha Salida: 2024-03-21
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 235
+ID Restaurante: 167
+
+*** Reserva 923 ***
+ID Cliente: 209
+Fecha Llegada: 2024-02-07
+Fecha Salida: 2024-02-10
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 648
+ID Restaurante: 754
+
+*** Reserva 924 ***
+ID Cliente: 694
+Fecha Llegada: 2024-04-01
+Fecha Salida: 2024-04-05
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 954
+ID Restaurante: 927
+
+*** Reserva 925 ***
+ID Cliente: 331
+Fecha Llegada: 2024-02-07
+Fecha Salida: 2024-02-15
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 43
+ID Restaurante: 88
+
+*** Reserva 926 ***
+ID Cliente: 630
+Fecha Llegada: 2024-03-07
+Fecha Salida: 2024-03-14
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 345
+ID Restaurante: 258
+
+*** Reserva 927 ***
+ID Cliente: 268
+Fecha Llegada: 2024-03-18
+Fecha Salida: 2024-03-22
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 960
+ID Restaurante: 998
+
+*** Reserva 928 ***
+ID Cliente: 534
+Fecha Llegada: 2024-01-21
+Fecha Salida: 2024-01-26
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 997
+ID Restaurante: 851
+
+*** Reserva 929 ***
+ID Cliente: 918
+Fecha Llegada: 2024-02-08
+Fecha Salida: 2024-02-11
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 570
+ID Restaurante: 949
+
+*** Reserva 930 ***
+ID Cliente: 681
+Fecha Llegada: 2024-04-25
+Fecha Salida: 2024-04-26
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 446
+ID Restaurante: 565
+
+*** Reserva 931 ***
+ID Cliente: 293
+Fecha Llegada: 2024-02-29
+Fecha Salida: 2024-03-10
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 179
+ID Restaurante: 673
+
+*** Reserva 932 ***
+ID Cliente: 719
+Fecha Llegada: 2024-04-24
+Fecha Salida: 2024-05-04
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 755
+ID Restaurante: 975
+
+*** Reserva 933 ***
+ID Cliente: 904
+Fecha Llegada: 2024-04-07
+Fecha Salida: 2024-04-17
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 310
+ID Restaurante: 408
+
+*** Reserva 934 ***
+ID Cliente: 542
+Fecha Llegada: 2024-02-27
+Fecha Salida: 2024-02-28
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 283
+ID Restaurante: 87
+
+*** Reserva 935 ***
+ID Cliente: 824
+Fecha Llegada: 2024-02-15
+Fecha Salida: 2024-02-16
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 600
+ID Restaurante: 551
+
+*** Reserva 936 ***
+ID Cliente: 435
+Fecha Llegada: 2024-02-18
+Fecha Salida: 2024-02-22
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 258
+ID Restaurante: 214
+
+*** Reserva 937 ***
+ID Cliente: 961
+Fecha Llegada: 2024-04-19
+Fecha Salida: 2024-04-22
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 671
+ID Restaurante: 625
+
+*** Reserva 938 ***
+ID Cliente: 544
+Fecha Llegada: 2024-02-21
+Fecha Salida: 2024-03-01
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 429
+ID Restaurante: 690
+
+*** Reserva 939 ***
+ID Cliente: 404
+Fecha Llegada: 2024-02-11
+Fecha Salida: 2024-02-18
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 111
+ID Restaurante: 471
+
+*** Reserva 940 ***
+ID Cliente: 204
+Fecha Llegada: 2024-03-22
+Fecha Salida: 2024-03-25
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 201
+ID Restaurante: 900
+
+*** Reserva 941 ***
+ID Cliente: 942
+Fecha Llegada: 2024-04-17
+Fecha Salida: 2024-04-23
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 81
+ID Restaurante: 356
+
+*** Reserva 942 ***
+ID Cliente: 268
+Fecha Llegada: 2024-01-02
+Fecha Salida: 2024-01-04
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 857
+ID Restaurante: 78
+
+*** Reserva 943 ***
+ID Cliente: 772
+Fecha Llegada: 2024-01-02
+Fecha Salida: 2024-01-06
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 547
+ID Restaurante: 573
+
+*** Reserva 944 ***
+ID Cliente: 646
+Fecha Llegada: 2024-02-20
+Fecha Salida: 2024-02-25
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 874
+ID Restaurante: 902
+
+*** Reserva 945 ***
+ID Cliente: 521
+Fecha Llegada: 2024-02-03
+Fecha Salida: 2024-02-07
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 216
+ID Restaurante: 809
+
+*** Reserva 946 ***
+ID Cliente: 681
+Fecha Llegada: 2024-01-22
+Fecha Salida: 2024-01-25
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 651
+ID Restaurante: 327
+
+*** Reserva 947 ***
+ID Cliente: 120
+Fecha Llegada: 2024-02-18
+Fecha Salida: 2024-02-21
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 674
+ID Restaurante: 591
+
+*** Reserva 948 ***
+ID Cliente: 706
+Fecha Llegada: 2024-01-24
+Fecha Salida: 2024-01-29
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 459
+ID Restaurante: 967
+
+*** Reserva 949 ***
+ID Cliente: 305
+Fecha Llegada: 2024-03-26
+Fecha Salida: 2024-04-03
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 348
+ID Restaurante: 316
+
+*** Reserva 950 ***
+ID Cliente: 911
+Fecha Llegada: 2024-01-06
+Fecha Salida: 2024-01-11
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 73
+ID Restaurante: 159
+
+*** Reserva 951 ***
+ID Cliente: 377
+Fecha Llegada: 2024-04-29
+Fecha Salida: 2024-05-03
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 186
+ID Restaurante: 686
+
+*** Reserva 952 ***
+ID Cliente: 337
+Fecha Llegada: 2024-04-22
+Fecha Salida: 2024-05-02
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 413
+ID Restaurante: 331
+
+*** Reserva 953 ***
+ID Cliente: 14
+Fecha Llegada: 2024-02-12
+Fecha Salida: 2024-02-13
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 600
+ID Restaurante: 739
+
+*** Reserva 954 ***
+ID Cliente: 309
+Fecha Llegada: 2024-04-14
+Fecha Salida: 2024-04-23
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 393
+ID Restaurante: 251
+
+*** Reserva 955 ***
+ID Cliente: 823
+Fecha Llegada: 2024-01-27
+Fecha Salida: 2024-01-29
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 773
+ID Restaurante: 976
+
+*** Reserva 956 ***
+ID Cliente: 361
+Fecha Llegada: 2024-04-16
+Fecha Salida: 2024-04-18
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 249
+ID Restaurante: 927
+
+*** Reserva 957 ***
+ID Cliente: 87
+Fecha Llegada: 2024-02-12
+Fecha Salida: 2024-02-17
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 921
+ID Restaurante: 203
+
+*** Reserva 958 ***
+ID Cliente: 244
+Fecha Llegada: 2024-04-02
+Fecha Salida: 2024-04-08
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 399
+ID Restaurante: 183
+
+*** Reserva 959 ***
+ID Cliente: 564
+Fecha Llegada: 2024-04-14
+Fecha Salida: 2024-04-24
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 89
+ID Restaurante: 125
+
+*** Reserva 960 ***
+ID Cliente: 446
+Fecha Llegada: 2024-01-12
+Fecha Salida: 2024-01-15
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 240
+ID Restaurante: 160
+
+*** Reserva 961 ***
+ID Cliente: 377
+Fecha Llegada: 2024-02-25
+Fecha Salida: 2024-02-29
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 652
+ID Restaurante: 498
+
+*** Reserva 962 ***
+ID Cliente: 203
+Fecha Llegada: 2024-02-27
+Fecha Salida: 2024-03-03
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 732
+ID Restaurante: 592
+
+*** Reserva 963 ***
+ID Cliente: 85
+Fecha Llegada: 2024-01-23
+Fecha Salida: 2024-01-28
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 167
+ID Restaurante: 153
+
+*** Reserva 964 ***
+ID Cliente: 387
+Fecha Llegada: 2024-03-16
+Fecha Salida: 2024-03-22
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 434
+ID Restaurante: 958
+
+*** Reserva 965 ***
+ID Cliente: 325
+Fecha Llegada: 2024-03-09
+Fecha Salida: 2024-03-16
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 715
+ID Restaurante: 9
+
+*** Reserva 966 ***
+ID Cliente: 366
+Fecha Llegada: 2024-02-18
+Fecha Salida: 2024-02-20
+Tipo Habitacion: Suite
+Preferencias Comida: Vegetariano
+Id Habitacion: 446
+ID Restaurante: 544
+
+*** Reserva 967 ***
+ID Cliente: 206
+Fecha Llegada: 2024-01-20
+Fecha Salida: 2024-01-23
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 121
+ID Restaurante: 172
+
+*** Reserva 968 ***
+ID Cliente: 219
+Fecha Llegada: 2024-02-05
+Fecha Salida: 2024-02-06
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 649
+ID Restaurante: 820
+
+*** Reserva 969 ***
+ID Cliente: 96
+Fecha Llegada: 2024-04-22
+Fecha Salida: 2024-04-27
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 125
+ID Restaurante: 195
+
+*** Reserva 970 ***
+ID Cliente: 118
+Fecha Llegada: 2024-04-03
+Fecha Salida: 2024-04-04
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 577
+ID Restaurante: 564
+
+*** Reserva 971 ***
+ID Cliente: 2
+Fecha Llegada: 2024-01-01
+Fecha Salida: 2024-01-11
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 223
+ID Restaurante: 938
+
+*** Reserva 972 ***
+ID Cliente: 619
+Fecha Llegada: 2024-01-19
+Fecha Salida: 2024-01-28
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 811
+ID Restaurante: 401
+
+*** Reserva 973 ***
+ID Cliente: 610
+Fecha Llegada: 2024-01-12
+Fecha Salida: 2024-01-19
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 774
+ID Restaurante: 33
+
+*** Reserva 974 ***
+ID Cliente: 788
+Fecha Llegada: 2024-02-20
+Fecha Salida: 2024-02-21
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 618
+ID Restaurante: 790
+
+*** Reserva 975 ***
+ID Cliente: 50
+Fecha Llegada: 2024-03-23
+Fecha Salida: 2024-03-25
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 194
+ID Restaurante: 154
+
+*** Reserva 976 ***
+ID Cliente: 482
+Fecha Llegada: 2024-03-24
+Fecha Salida: 2024-03-30
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 709
+ID Restaurante: 502
+
+*** Reserva 977 ***
+ID Cliente: 41
+Fecha Llegada: 2024-02-10
+Fecha Salida: 2024-02-11
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 133
+ID Restaurante: 587
+
+*** Reserva 978 ***
+ID Cliente: 660
+Fecha Llegada: 2024-04-07
+Fecha Salida: 2024-04-13
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 362
+ID Restaurante: 307
+
+*** Reserva 979 ***
+ID Cliente: 984
+Fecha Llegada: 2024-04-09
+Fecha Salida: 2024-04-13
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 631
+ID Restaurante: 280
+
+*** Reserva 980 ***
+ID Cliente: 401
+Fecha Llegada: 2024-04-04
+Fecha Salida: 2024-04-14
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 947
+ID Restaurante: 167
+
+*** Reserva 981 ***
+ID Cliente: 517
+Fecha Llegada: 2024-01-15
+Fecha Salida: 2024-01-17
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 424
+ID Restaurante: 136
+
+*** Reserva 982 ***
+ID Cliente: 249
+Fecha Llegada: 2024-02-07
+Fecha Salida: 2024-02-12
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 106
+ID Restaurante: 788
+
+*** Reserva 983 ***
+ID Cliente: 511
+Fecha Llegada: 2024-01-11
+Fecha Salida: 2024-01-20
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 260
+ID Restaurante: 164
+
+*** Reserva 984 ***
+ID Cliente: 838
+Fecha Llegada: 2024-02-29
+Fecha Salida: 2024-03-09
+Tipo Habitacion: Suite
+Preferencias Comida: Sin gluten
+Id Habitacion: 222
+ID Restaurante: 791
+
+*** Reserva 985 ***
+ID Cliente: 751
+Fecha Llegada: 2024-02-24
+Fecha Salida: 2024-02-28
+Tipo Habitacion: Individual
+Preferencias Comida: Vegetariano
+Id Habitacion: 413
+ID Restaurante: 130
+
+*** Reserva 986 ***
+ID Cliente: 753
+Fecha Llegada: 2024-04-22
+Fecha Salida: 2024-05-02
+Tipo Habitacion: Suite
+Preferencias Comida: Normal
+Id Habitacion: 476
+ID Restaurante: 523
+
+*** Reserva 987 ***
+ID Cliente: 952
+Fecha Llegada: 2024-04-10
+Fecha Salida: 2024-04-16
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 523
+ID Restaurante: 140
+
+*** Reserva 988 ***
+ID Cliente: 59
+Fecha Llegada: 2024-03-24
+Fecha Salida: 2024-03-31
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 116
+ID Restaurante: 59
+
+*** Reserva 989 ***
+ID Cliente: 135
+Fecha Llegada: 2024-01-28
+Fecha Salida: 2024-01-29
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 533
+ID Restaurante: 138
+
+*** Reserva 990 ***
+ID Cliente: 805
+Fecha Llegada: 2024-04-25
+Fecha Salida: 2024-05-03
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 370
+ID Restaurante: 430
+
+*** Reserva 991 ***
+ID Cliente: 967
+Fecha Llegada: 2024-03-09
+Fecha Salida: 2024-03-13
+Tipo Habitacion: Individual
+Preferencias Comida: Vegano
+Id Habitacion: 578
+ID Restaurante: 344
+
+*** Reserva 992 ***
+ID Cliente: 65
+Fecha Llegada: 2024-03-22
+Fecha Salida: 2024-03-24
+Tipo Habitacion: Doble
+Preferencias Comida: Sin gluten
+Id Habitacion: 555
+ID Restaurante: 755
+
+*** Reserva 993 ***
+ID Cliente: 113
+Fecha Llegada: 2024-04-26
+Fecha Salida: 2024-04-27
+Tipo Habitacion: Doble
+Preferencias Comida: Vegetariano
+Id Habitacion: 370
+ID Restaurante: 584
+
+*** Reserva 994 ***
+ID Cliente: 307
+Fecha Llegada: 2024-04-24
+Fecha Salida: 2024-04-26
+Tipo Habitacion: Doble
+Preferencias Comida: Normal
+Id Habitacion: 898
+ID Restaurante: 972
+
+*** Reserva 995 ***
+ID Cliente: 404
+Fecha Llegada: 2024-03-07
+Fecha Salida: 2024-03-13
+Tipo Habitacion: Suite
+Preferencias Comida: Vegano
+Id Habitacion: 245
+ID Restaurante: 49
+
+*** Reserva 996 ***
+ID Cliente: 808
+Fecha Llegada: 2024-02-14
+Fecha Salida: 2024-02-20
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 479
+ID Restaurante: 38
+
+*** Reserva 997 ***
+ID Cliente: 754
+Fecha Llegada: 2024-04-28
+Fecha Salida: 2024-04-29
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 718
+ID Restaurante: 530
+
+*** Reserva 998 ***
+ID Cliente: 347
+Fecha Llegada: 2024-04-13
+Fecha Salida: 2024-04-19
+Tipo Habitacion: Individual
+Preferencias Comida: Normal
+Id Habitacion: 134
+ID Restaurante: 296
+
+*** Reserva 999 ***
+ID Cliente: 392
+Fecha Llegada: 2024-02-23
+Fecha Salida: 2024-03-02
+Tipo Habitacion: Individual
+Preferencias Comida: Sin gluten
+Id Habitacion: 751
+ID Restaurante: 998
+
+*** Reserva 1000 ***
+ID Cliente: 663
+Fecha Llegada: 2024-01-19
+Fecha Salida: 2024-01-26
+Tipo Habitacion: Doble
+Preferencias Comida: Vegano
+Id Habitacion: 212
+ID Restaurante: 616
+

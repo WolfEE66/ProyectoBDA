@@ -1,0 +1,602 @@
+[
+    {
+        "id_cliente": 1,
+        "nombre": "Brian Khan",
+        "direccion": "Unit 1612 Box 0956\nDPO AA 15045",
+        "preferencias_alimenticias": "Vegano"
+    },
+    {
+        "id_cliente": 2,
+        "nombre": "Mr. Joshua Benitez MD",
+        "direccion": "543 Travis Views Suite 105\nKristaside, CA 15724",
+        "preferencias_alimenticias": "Vegetariano"
+    },
+    {
+        "id_cliente": 3,
+        "nombre": "John Cooke PhD",
+        "direccion": "14701 Marvin Place\nPatriciastad, CO 08653",
+        "preferencias_alimenticias": "Vegano"
+    },
+    {
+        "id_cliente": 4,
+        "nombre": "Vanessa Logan",
+        "direccion": "USNS Davis\nFPO AE 97854",
+        "preferencias_alimenticias": "Vegetariano"
+    },
+    {
+        "id_cliente": 5,
+        "nombre": "Brett Schmidt",
+        "direccion": "019 Matthew Row Apt. 757\nEast Tammy, OR 35269",
+        "preferencias_alimenticias": "Normal"
+    },
+    {
+        "id_cliente": 6,
+        "nombre": "Kathleen Campbell",
+        "direccion": "29559 Sweeney Ranch Apt. 846\nWrighttown, MO 29468",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 7,
+        "nombre": "Rhonda Jones",
+        "direccion": "46405 Espinoza Hollow Apt. 985\nSouth Jeffreytown, NC 82069",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 8,
+        "nombre": "Eric Jones",
+        "direccion": "8086 Woodard Manors Apt. 749\nWest Williamshire, MS 53607",
+        "preferencias_alimenticias": "Normal"
+    },
+    {
+        "id_cliente": 9,
+        "nombre": "Stephanie Allen",
+        "direccion": "Unit 8440 Box 3421\nDPO AA 75519",
+        "preferencias_alimenticias": "Vegetariano"
+    },
+    {
+        "id_cliente": 10,
+        "nombre": "Ryan Williams",
+        "direccion": "4762 Gerald Keys Suite 373\nNorth Ashley, FM 60072",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 11,
+        "nombre": "Patricia Lewis",
+        "direccion": "14289 Brandon Route Apt. 579\nSouth Janeport, ND 29107",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 12,
+        "nombre": "Marcus Perry",
+        "direccion": "715 Alexander Alley Suite 338\nEast Scotttown, MP 55518",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 13,
+        "nombre": "Kayla Smith DVM",
+        "direccion": "16335 April Square\nMariastad, DC 90471",
+        "preferencias_alimenticias": "Normal"
+    },
+    {
+        "id_cliente": 14,
+        "nombre": "Paige Perkins",
+        "direccion": "76149 Nicole Station Suite 318\nKyleside, KS 65150",
+        "preferencias_alimenticias": "Normal"
+    },
+    {
+        "id_cliente": 15,
+        "nombre": "Lauren Smith",
+        "direccion": "3276 Sanchez Radial\nEast Benjaminfurt, MO 55304",
+        "preferencias_alimenticias": "Vegano"
+    },
+    {
+        "id_cliente": 16,
+        "nombre": "Stephanie Schroeder",
+        "direccion": "48224 Christopher Meadows Suite 793\nBerryhaven, AZ 56748",
+        "preferencias_alimenticias": "Vegano"
+    },
+    {
+        "id_cliente": 17,
+        "nombre": "Eduardo Miller",
+        "direccion": "80227 Smith Tunnel\nLongmouth, IA 51618",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 18,
+        "nombre": "David Wallace",
+        "direccion": "5521 Marshall Union\nThompsonburgh, DC 45270",
+        "preferencias_alimenticias": "Vegetariano"
+    },
+    {
+        "id_cliente": 19,
+        "nombre": "Beth Thompson",
+        "direccion": "941 Jose Pike\nWest Andre, CA 63783",
+        "preferencias_alimenticias": "Vegano"
+    },
+    {
+        "id_cliente": 20,
+        "nombre": "Alec Mills",
+        "direccion": "Unit 6139 Box 0263\nDPO AE 52336",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 21,
+        "nombre": "Victor Collins",
+        "direccion": "81799 Robertson Knoll Apt. 903\nSouth Todd, AZ 36208",
+        "preferencias_alimenticias": "Vegano"
+    },
+    {
+        "id_cliente": 22,
+        "nombre": "Kelly Davis",
+        "direccion": "189 Samuel Parkways Apt. 629\nPort Victoria, IA 55406",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 23,
+        "nombre": "Katie Scott",
+        "direccion": "50667 David Ridge\nLake Samantha, MA 05701",
+        "preferencias_alimenticias": "Vegano"
+    },
+    {
+        "id_cliente": 24,
+        "nombre": "Loretta Flores",
+        "direccion": "958 Ryan Mills Apt. 286\nNew Tyler, MT 27531",
+        "preferencias_alimenticias": "Vegetariano"
+    },
+    {
+        "id_cliente": 25,
+        "nombre": "Rebecca Murphy",
+        "direccion": "772 Meyers Street Suite 543\nChristopherhaven, AL 75267",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 26,
+        "nombre": "Karen Cunningham",
+        "direccion": "86176 Berry Expressway\nHobbsville, PW 23618",
+        "preferencias_alimenticias": "Vegano"
+    },
+    {
+        "id_cliente": 27,
+        "nombre": "Tammy Wallace",
+        "direccion": "916 Derek Corners Suite 138\nVanessamouth, NY 84983",
+        "preferencias_alimenticias": "Vegano"
+    },
+    {
+        "id_cliente": 28,
+        "nombre": "Bryan Greene",
+        "direccion": "490 Joseph Plain\nDarrenborough, NE 37996",
+        "preferencias_alimenticias": "Vegetariano"
+    },
+    {
+        "id_cliente": 29,
+        "nombre": "Nichole Patel",
+        "direccion": "422 Ward Crescent Suite 137\nNorth Michaelstad, NY 87180",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 30,
+        "nombre": "Leslie Henderson",
+        "direccion": "845 Jack Lodge Apt. 448\nWhiteheadborough, TN 21903",
+        "preferencias_alimenticias": "Normal"
+    },
+    {
+        "id_cliente": 31,
+        "nombre": "Sarah Gilmore",
+        "direccion": "714 Gardner Orchard Suite 653\nWest Lisa, VI 86415",
+        "preferencias_alimenticias": "Vegetariano"
+    },
+    {
+        "id_cliente": 32,
+        "nombre": "Julie Kramer",
+        "direccion": "26019 Audrey Summit\nJessicatown, WA 67065",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 33,
+        "nombre": "Alexander Ruiz",
+        "direccion": "0226 Warren Loaf\nMckinneystad, MD 50795",
+        "preferencias_alimenticias": "Vegano"
+    },
+    {
+        "id_cliente": 34,
+        "nombre": "Lauren Williams",
+        "direccion": "52152 Benjamin Ridge\nWest Morgan, MD 31291",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 35,
+        "nombre": "Stephen Gibson",
+        "direccion": "7267 Mario Island\nDawnberg, OR 66862",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 36,
+        "nombre": "Dana Brooks",
+        "direccion": "742 Jeffrey Prairie\nPorterborough, AK 45536",
+        "preferencias_alimenticias": "Normal"
+    },
+    {
+        "id_cliente": 37,
+        "nombre": "Jenny Salazar",
+        "direccion": "3511 Crystal Square Suite 742\nNew Benjaminport, CA 30128",
+        "preferencias_alimenticias": "Normal"
+    },
+    {
+        "id_cliente": 38,
+        "nombre": "Deanna Hammond",
+        "direccion": "618 Melissa Underpass\nPort Seanside, NC 42945",
+        "preferencias_alimenticias": "Vegetariano"
+    },
+    {
+        "id_cliente": 39,
+        "nombre": "Jennifer Rojas",
+        "direccion": "84502 Coleman Coves Apt. 380\nJoseton, NJ 30333",
+        "preferencias_alimenticias": "Vegetariano"
+    },
+    {
+        "id_cliente": 40,
+        "nombre": "Paige Richardson",
+        "direccion": "52550 Ruiz Brooks Apt. 395\nWest Alexandrahaven, AZ 34808",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 41,
+        "nombre": "Shawn Thompson",
+        "direccion": "276 Alan Landing Suite 946\nPort Amy, VA 82941",
+        "preferencias_alimenticias": "Normal"
+    },
+    {
+        "id_cliente": 42,
+        "nombre": "Laura Williams",
+        "direccion": "0403 Wright Track Apt. 308\nDannymouth, SC 95510",
+        "preferencias_alimenticias": "Normal"
+    },
+    {
+        "id_cliente": 43,
+        "nombre": "David Morales",
+        "direccion": "716 Hart Junctions\nNew Betty, AZ 63416",
+        "preferencias_alimenticias": "Vegano"
+    },
+    {
+        "id_cliente": 44,
+        "nombre": "Christopher Gomez",
+        "direccion": "456 Cunningham Circles\nPort Angela, DC 20958",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 45,
+        "nombre": "Emily Callahan",
+        "direccion": "1918 Melissa Valley\nPort Jessicafort, TX 29105",
+        "preferencias_alimenticias": "Vegano"
+    },
+    {
+        "id_cliente": 46,
+        "nombre": "Brianna Medina",
+        "direccion": "6346 Williams Centers Apt. 801\nAdrianton, OR 85851",
+        "preferencias_alimenticias": "Vegano"
+    },
+    {
+        "id_cliente": 47,
+        "nombre": "Kayla Elliott",
+        "direccion": "0210 Russo Camp\nPort Charlestown, PR 02150",
+        "preferencias_alimenticias": "Vegetariano"
+    },
+    {
+        "id_cliente": 48,
+        "nombre": "Nicholas Aguirre",
+        "direccion": "475 Ryan Pine Apt. 896\nRobertbury, UT 20354",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 49,
+        "nombre": "Jennifer Pierce",
+        "direccion": "42696 Ortega Branch Apt. 632\nWest Alexisborough, OK 16819",
+        "preferencias_alimenticias": "Normal"
+    },
+    {
+        "id_cliente": 50,
+        "nombre": "Jennifer Barr",
+        "direccion": "0441 Trevino Station Suite 808\nWest Brianahaven, MH 29079",
+        "preferencias_alimenticias": "Vegano"
+    },
+    {
+        "id_cliente": 51,
+        "nombre": "Donna Huang",
+        "direccion": "2589 Nicole Inlet Apt. 589\nPort Lisaton, WY 26970",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 52,
+        "nombre": "Richard Calderon",
+        "direccion": "USNS Guzman\nFPO AA 93343",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 53,
+        "nombre": "Michele Hudson",
+        "direccion": "332 Baker Mountain Suite 975\nAlexfurt, NJ 54816",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 54,
+        "nombre": "Timothy Wilkins DVM",
+        "direccion": "53190 Frank Bypass Suite 623\nDevonburgh, OK 87400",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 55,
+        "nombre": "Danielle Carter",
+        "direccion": "29717 Stephanie Light\nWilsonhaven, GA 50244",
+        "preferencias_alimenticias": "Normal"
+    },
+    {
+        "id_cliente": 56,
+        "nombre": "Meghan Clark",
+        "direccion": "USS Vasquez\nFPO AA 75179",
+        "preferencias_alimenticias": "Vegano"
+    },
+    {
+        "id_cliente": 57,
+        "nombre": "Rebecca Carr",
+        "direccion": "999 Barbara Village\nEast Kaitlin, GA 47193",
+        "preferencias_alimenticias": "Vegano"
+    },
+    {
+        "id_cliente": 58,
+        "nombre": "Shelly Hunter",
+        "direccion": "09910 Adkins Plains\nRichardton, WV 65661",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 59,
+        "nombre": "Robert Brady",
+        "direccion": "USCGC Goodman\nFPO AP 70563",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 60,
+        "nombre": "Kathy Doyle",
+        "direccion": "80361 Bryan Roads\nKennethport, NV 58162",
+        "preferencias_alimenticias": "Normal"
+    },
+    {
+        "id_cliente": 61,
+        "nombre": "Michael Rodriguez",
+        "direccion": "319 Donald Pine\nAverychester, MP 84888",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 62,
+        "nombre": "William Harris",
+        "direccion": "Unit 8647 Box 6811\nDPO AA 56634",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 63,
+        "nombre": "Katherine Myers",
+        "direccion": "363 Lewis Mission Suite 063\nAllenside, AS 42877",
+        "preferencias_alimenticias": "Vegano"
+    },
+    {
+        "id_cliente": 64,
+        "nombre": "Charles Hines",
+        "direccion": "69236 April Via Suite 285\nVictoriatown, FL 80240",
+        "preferencias_alimenticias": "Vegetariano"
+    },
+    {
+        "id_cliente": 65,
+        "nombre": "Monica Anderson",
+        "direccion": "3977 Daniel Branch\nWelchside, MD 39001",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 66,
+        "nombre": "Craig Simmons",
+        "direccion": "583 Reed Turnpike\nNew Pamela, MS 86188",
+        "preferencias_alimenticias": "Vegano"
+    },
+    {
+        "id_cliente": 67,
+        "nombre": "Kimberly Diaz",
+        "direccion": "4001 Kathy Station\nPort Erica, DE 79242",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 68,
+        "nombre": "Amy Morse",
+        "direccion": "394 Rachel Way\nLeonardstad, PR 26526",
+        "preferencias_alimenticias": "Normal"
+    },
+    {
+        "id_cliente": 69,
+        "nombre": "Samuel Williams",
+        "direccion": "886 Kathy Center Apt. 172\nSouth Kevin, NV 27235",
+        "preferencias_alimenticias": "Vegetariano"
+    },
+    {
+        "id_cliente": 70,
+        "nombre": "Peter Salazar",
+        "direccion": "38342 Bell Knolls\nLake Jesseton, NC 15528",
+        "preferencias_alimenticias": "Vegetariano"
+    },
+    {
+        "id_cliente": 71,
+        "nombre": "Kenneth Cooper",
+        "direccion": "2366 Denise Lake\nNorth Greg, WY 84362",
+        "preferencias_alimenticias": "Vegetariano"
+    },
+    {
+        "id_cliente": 72,
+        "nombre": "Brandy Adams",
+        "direccion": "6279 Huff Gateway Suite 629\nSmithmouth, PA 75450",
+        "preferencias_alimenticias": "Vegetariano"
+    },
+    {
+        "id_cliente": 73,
+        "nombre": "Jonathan Hill",
+        "direccion": "7050 Jasmin Forest\nAndersonport, AS 69013",
+        "preferencias_alimenticias": "Normal"
+    },
+    {
+        "id_cliente": 74,
+        "nombre": "Kari Lutz",
+        "direccion": "657 Keith Road Apt. 047\nEast Kristenshire, RI 26405",
+        "preferencias_alimenticias": "Vegetariano"
+    },
+    {
+        "id_cliente": 75,
+        "nombre": "Devin Oneill",
+        "direccion": "1563 Rose Corner Apt. 829\nPort Jennifer, VT 32866",
+        "preferencias_alimenticias": "Normal"
+    },
+    {
+        "id_cliente": 76,
+        "nombre": "Holly Lester",
+        "direccion": "96712 Kevin Fields\nPort Ericaberg, OH 71647",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 77,
+        "nombre": "William Peterson",
+        "direccion": "2806 Jackson Mills Suite 355\nSanderschester, MS 03030",
+        "preferencias_alimenticias": "Normal"
+    },
+    {
+        "id_cliente": 78,
+        "nombre": "Margaret Anderson",
+        "direccion": "92694 Vasquez Lane\nLake Christopher, GA 59769",
+        "preferencias_alimenticias": "Normal"
+    },
+    {
+        "id_cliente": 79,
+        "nombre": "Mr. Matthew Watkins MD",
+        "direccion": "03536 Anderson Point Apt. 997\nLake Bryanshire, NJ 74499",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 80,
+        "nombre": "Taylor Stewart",
+        "direccion": "65123 Daniel Islands Apt. 759\nBennettmouth, HI 89876",
+        "preferencias_alimenticias": "Normal"
+    },
+    {
+        "id_cliente": 81,
+        "nombre": "Regina Hernandez",
+        "direccion": "895 Tamara Manors\nKimberlyside, PR 69804",
+        "preferencias_alimenticias": "Normal"
+    },
+    {
+        "id_cliente": 82,
+        "nombre": "Adrienne Williams",
+        "direccion": "PSC 3790, Box 8330\nAPO AA 98103",
+        "preferencias_alimenticias": "Normal"
+    },
+    {
+        "id_cliente": 83,
+        "nombre": "Tamara Davidson",
+        "direccion": "4189 John Loop\nLake Shelbyburgh, HI 52748",
+        "preferencias_alimenticias": "Vegano"
+    },
+    {
+        "id_cliente": 84,
+        "nombre": "Lonnie Martin",
+        "direccion": "USCGC Mitchell\nFPO AP 52265",
+        "preferencias_alimenticias": "Vegetariano"
+    },
+    {
+        "id_cliente": 85,
+        "nombre": "Manuel Reed",
+        "direccion": "77663 Morgan Way Suite 553\nWest Robert, DC 80586",
+        "preferencias_alimenticias": "Vegano"
+    },
+    {
+        "id_cliente": 86,
+        "nombre": "James Walton",
+        "direccion": "Unit 5233 Box 9640\nDPO AA 68079",
+        "preferencias_alimenticias": "Vegano"
+    },
+    {
+        "id_cliente": 87,
+        "nombre": "Ronald Harris",
+        "direccion": "12813 Williams Circles\nNorth Brianfurt, WY 48658",
+        "preferencias_alimenticias": "Vegetariano"
+    },
+    {
+        "id_cliente": 88,
+        "nombre": "Dustin Mckinney",
+        "direccion": "4935 Rebecca Route Suite 193\nKennethport, NJ 58115",
+        "preferencias_alimenticias": "Vegetariano"
+    },
+    {
+        "id_cliente": 89,
+        "nombre": "Matthew Kemp",
+        "direccion": "961 Lori Loop Apt. 580\nSouth Rachelstad, NH 17778",
+        "preferencias_alimenticias": "Vegano"
+    },
+    {
+        "id_cliente": 90,
+        "nombre": "Michele Nguyen",
+        "direccion": "0453 Christine Corner\nWest Jon, OR 05752",
+        "preferencias_alimenticias": "Vegano"
+    },
+    {
+        "id_cliente": 91,
+        "nombre": "Susan White",
+        "direccion": "PSC 6956, Box 5932\nAPO AP 67239",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 92,
+        "nombre": "Scott Barnes",
+        "direccion": "642 Huffman Fords Apt. 984\nLake Beth, MN 94418",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 93,
+        "nombre": "Tanner Larsen",
+        "direccion": "USNS Mendoza\nFPO AP 26259",
+        "preferencias_alimenticias": "Vegetariano"
+    },
+    {
+        "id_cliente": 94,
+        "nombre": "Brandon Nichols",
+        "direccion": "34653 Brett Trail Apt. 185\nJoneschester, HI 33776",
+        "preferencias_alimenticias": "Vegano"
+    },
+    {
+        "id_cliente": 95,
+        "nombre": "Kathleen Jones",
+        "direccion": "052 Carol Camp Suite 203\nEast Charles, MA 93416",
+        "preferencias_alimenticias": "Normal"
+    },
+    {
+        "id_cliente": 96,
+        "nombre": "Amanda Bartlett",
+        "direccion": "34487 Rice Falls Apt. 159\nEast Andrew, AS 42902",
+        "preferencias_alimenticias": "Vegano"
+    },
+    {
+        "id_cliente": 97,
+        "nombre": "Nicole Jones",
+        "direccion": "83328 Lawrence Flat Apt. 289\nEast Troyfurt, ND 81895",
+        "preferencias_alimenticias": "Sin gluten"
+    },
+    {
+        "id_cliente": 98,
+        "nombre": "Richard Cuevas",
+        "direccion": "4036 Phillips Unions Apt. 269\nPatriciatown, KY 48286",
+        "preferencias_alimenticias": "Vegetariano"
+    },
+    {
+        "id_cliente": 99,
+        "nombre": "Laura Ford",
+        "direccion": "USS Cunningham\nFPO AA 54999",
+        "preferencias_alimenticias": "Normal"
+    },
+    {
+        "id_cliente": 100,
+        "nombre": "Johnny Walsh",
+        "direccion": "59654 Wright Valleys\nNorth Marissa, IN 72683",
+        "preferencias_alimenticias": "Normal"
+    }
+]
