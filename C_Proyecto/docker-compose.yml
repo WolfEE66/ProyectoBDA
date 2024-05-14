@@ -61,9 +61,20 @@ services:
     ports:
       - "9999:9999"
     environment:
-      - POSTGRES_PASSWORD= bdaPrimOrd
+      - POSTGRES_PASSWORD=bdaPrimOrd
     volumes:
       - "postgres:/var/lib/postgresql/data"
+
+  mongo:
+    image: mongo:latest
+    ports:
+      - "27017:27017"
+
+  neo4j:
+    image: neo4j:latest
+    ports:
+      - "7474:7474"
+      - "7687:7687"
 
   kafka:
     image: wurstmeister/kafka:latest
