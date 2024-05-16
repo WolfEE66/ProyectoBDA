@@ -1,46 +1,58 @@
 import psycopg2
 import csv
-from pyspark.sql import SparkSession
 
-# Configuración de la conexión a la base de datos PostgreSQL
-db_host = "localhost"
-db_port = "9999"
-db_name = "PrimOrd"
-db_user = "primOrd"
-db_password = "bdaPrimOrd"
+# Configuración de la base de datos
+db_config = {
+    "dbname": "PrimOrd",
+    "user": "primOrd",
+    "password": "bdaPrimOrd",
+    "host": "localhost",
+    "port": "9999"
+}
 
-# Conexión a la base de datos
-conn = psycopg2.connect(host=db_host, port=db_port, database=db_name, user=db_user, password=db_password)
+# Conectar a la base de datos
+conn = psycopg2.connect(**db_config)
 cursor = conn.cursor()
 
-# Archivos CSV
-empleados_csv = "empleados.csv"
-hoteles_csv = "hoteles.csv"
+# Crear tablas
+cursor.execute("""
+    CREATE TABLE IF NOT EXISTS empleados (
+        id_empleado SERIAL PRIMARY KEY,
+        nombre VARCHAR(100),
+        posicion VARCHAR(100),
+        fecha_contratacion DATE
+    )
+""")
+cursor.execute("""
+    CREATE TABLE IF NOT EXISTS hoteles (
+        id_hotel SERIAL PRIMARY KEY,
+        nombre_hotel VARCHAR(100),
+        direccion_hotel TEXT,
+        empleados TEXT
+    )
+""")
+conn.commit()
 
-# Función para insertar datos de empleados desde CSV a PostgreSQL
-def insert_empleados():
-    with open(empleados_csv, 'r') as file:
-        reader = csv.reader(file)
-        next(reader)  # Saltar la fila de encabezado
-        for row in reader:
-            cursor.execute("INSERT INTO empleados (id_empleado, nombre, puesto, fecha_contratacion) VALUES (%s, %s, %s, %s)", row)
-    conn.commit()
+# Insertar datos en empleados
+with open('/opt/spark-data_Prim_ord/empleados.csv', 'r') as f:
+    reader = csv.DictReader(f)
+    for row in reader:
+        cursor.execute("""
+            INSERT INTO empleados (id_empleado, nombre, posicion, fecha_contratacion)
+            VALUES (%s, %s, %s, %s)
+        """, (row['id_empleado'], row['nombre'], row['posicion'], row['fecha_contratacion']))
+conn.commit()
 
-# Función para insertar datos de hoteles desde CSV a PostgreSQL
-def insert_hoteles():
-    with open(hoteles_csv, 'r') as file:
-        reader = csv.reader(file)
-        next(reader)  # Saltar la fila de encabezado
-        for row in reader:
-            cursor.execute("INSERT INTO hoteles (id_hotel, nombre_hotel, direccion, id_empleados) VALUES (%s, %s, %s, %s)", row)
-    conn.commit()
+# Insertar datos en hoteles
+with open('/opt/spark-data_Prim_ord/hoteles.csv', 'r') as f:
+    reader = csv.DictReader(f)
+    for row in reader:
+        cursor.execute("""
+            INSERT INTO hoteles (id_hotel, nombre_hotel, direccion_hotel, empleados)
+            VALUES (%s, %s, %s, %s)
+        """, (row['id_hotel'], row['nombre_hotel'], row['direccion_hotel'], row['empleados']))
+conn.commit()
 
-# Llamar a las funciones para insertar datos
-insert_empleados()
-insert_hoteles()
-
-# Cerrar la conexión a la base de datos
+print("Datos insertados en Postgres correctamente.")
 cursor.close()
 conn.close()
-
-print("Datos insertados en PostgreSQL exitosamente.")

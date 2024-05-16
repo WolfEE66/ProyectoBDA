@@ -6,7 +6,7 @@ aws_access_key_id = 'test'
 aws_secret_access_key = 'test'
 
 # Nombre del bucket de S3
-bucket_name = 'mi-bucket'
+bucket_name = 'bucket'
 
 # Crear un cliente de S3 para crear el bucket
 s3_client = boto3.client('s3',
@@ -36,17 +36,32 @@ spark = SparkSession.builder \
     .master("local[*]") \
     .getOrCreate()
 
-# Cargar el archivo restaurantes.json a un DataFrame de Spark
-restaurantes_df = spark.read.json("s3a://mi-bucket/restaurantes.json")
-
-# Cargar el archivo habitaciones.csv a un DataFrame de Spark
-habitaciones_df = spark.read.csv("s3a://mi-bucket/habitaciones.csv", header=True, inferSchema=True)
-
-# Escribir el DataFrame restaurantes_df en formato JSON en S3
-restaurantes_df.write.mode('overwrite').json("s3a://mi-bucket/output/restaurantes")
-
-# Escribir el DataFrame habitaciones_df en formato CSV en S3
-habitaciones_df.write.mode('overwrite').csv("s3a://mi-bucket/output/habitaciones")
+try:
+    df1 = spark.read.option("delimiter", ",").option("header", True).json("s3a://bucket/restaurantes.json")
+    df2 = spark.read.option("delimiter", ",").option("header", True).csv("s3a://bucket/habitaciones.csv")
+   
+    
+    df1 \
+    .write \
+    .option('fs.s3a.committer.name', 'partitioned') \
+    .option('fs.s3a.committer.staging.conflict-mode', 'replace') \
+    .option("fs.s3a.fast.upload.buffer", "bytebuffer")\
+    .mode('overwrite') \
+    .json(path='s3a://bucket/output/restaurantes', sep=',')
+    
+    df2 \
+    .write \
+    .option('fs.s3a.committer.name', 'partitioned') \
+    .option('fs.s3a.committer.staging.conflict-mode', 'replace') \
+    .option("fs.s3a.fast.upload.buffer", "bytebuffer")\
+    .mode('overwrite') \
+    .csv(path='s3a://bucket/output/habitaciones', sep=',')
+    
+    
+except Exception as e:
+    print("error reading TXT")
+    print(e)
 
 # Detener la sesión de Spark
 spark.stop()
+

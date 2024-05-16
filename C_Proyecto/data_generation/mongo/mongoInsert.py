@@ -1,16 +1,16 @@
 import pymongo
 import json
 
-# Conexión a la base de datos MongoDB
-client = pymongo.MongoClient("mongodb://localhost:27017/")
-db = client["proyectobd"]  
-collection = db["proyectocoleccion"]  
+# Conexión a MongoDB
+client = pymongo.MongoClient("mongodb://mongo:27017/")
+db = client["hotel_management"]
+collection = db["clientes"]
 
-# Cargar datos desde el archivo clientes.json
-with open('C:/Users/Desktop/Proyecto/ProyectoBDA/C_Proyecto/data_Prim_ord/json/clientes.json') as file:
-    data = json.load(file)
+# Leer datos desde clientes.json
+with open('/opt/spark-data_Prim_ord/clientes.json') as f:
+    clientes = json.load(f)
 
-# Insertar los datos en la colección
-collection.insert_many(data)
+# Insertar datos en la colección de MongoDB
+collection.insert_many(clientes)
 
-print("Datos insertados exitosamente en MongoDB.")
+print("Datos insertados en MongoDB correctamente.")

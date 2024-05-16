@@ -1,28 +1,34 @@
 from kafka import KafkaProducer
+from neo4j import GraphDatabase
 import json
 
 # Configuración de Kafka
-bootstrap_servers = 'localhost:9092'
-topic = 'neo4j_to_kafka_topic'
+producer = KafkaProducer(
+    bootstrap_servers='kafka:9092',
+    value_serializer=lambda v: json.dumps(v).encode('utf-8')
+)
 
-# Conexión a Kafka
-producer = KafkaProducer(bootstrap_servers=bootstrap_servers)
+# Conexión a Neo4j
+uri = "bolt://neo4j:7687"
+driver = GraphDatabase.driver(uri, auth=("neo4j", "neo4j_password"))
 
-# Función para enviar los datos a Kafka
-def send_data_to_kafka(data):
-    try:
-        # Enviar los datos a Kafka
-        for record in data:
-            producer.send(topic, json.dumps(record).encode('utf-8'))
+def get_data(tx, query):
+    result = tx.run(query)
+    return [record.data() for record in result]
 
-        print("Datos enviados a Kafka desde Neo4j.")
+with driver.session() as session:
+    # Obtener datos de los menús y sus relaciones
+    query = """
+    MATCH (m:Menu)-[:CONTIENE]->(p:Plato)
+    RETURN m, p
+    """
+    data = session.read_transaction(get_data, query)
 
-    except Exception as e:
-        print("Error al enviar datos a Kafka:", e)
+# Enviar datos a Kafka
+for record in data:
+    producer.send('menus_stream', record)
+    print(f"Enviado: {record}")
 
-# Obtener datos de Neo4j y enviarlos a Kafka
-data_from_neo4j = []  # Agrega aquí la lógica para obtener los datos de Neo4j
-send_data_to_kafka(data_from_neo4j)
-
-# Cerrar el productor de Kafka
-producer.close()
+producer.flush()
+print("Todos los datos han sido enviados a Kafka.")
+driver.close()

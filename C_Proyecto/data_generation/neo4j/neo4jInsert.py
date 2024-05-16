@@ -3,42 +3,48 @@ import csv
 import json
 
 # Conexión a Neo4j
-uri = "bolt://localhost:7687"
-username = "neo4j"
-password = "password"
-driver = GraphDatabase.driver(uri, auth=(username, password))
+uri = "bolt://neo4j:7687"
+driver = GraphDatabase.driver(uri, auth=("neo4j", "neo4j_password"))
 
-# Función para insertar datos de los archivos CSV
-def insert_data_from_csv(tx):
-    # Leer y procesar menu.csv
-    with open('menu.csv', newline='') as csvfile:
-        reader = csv.DictReader(csvfile)
-        for row in reader:
-            tx.run("MERGE (m:Menu {id: $id}) "
-                   "SET m.precio = $precio, m.disponibilidad = $disponibilidad",
-                   id=row['id_menu'], precio=row['precio'], disponibilidad=row['disponibilidad'])
+def insert_data(tx, query, parameters=None):
+    tx.run(query, parameters)
 
-    # Leer y procesar platos.csv
-    with open('platos.csv', newline='') as csvfile:
-        reader = csv.DictReader(csvfile)
-        for row in reader:
-            tx.run("MERGE (p:Plato {id: $id}) "
-                   "SET p.nombre = $nombre, p.ingredientes = $ingredientes, p.alergenos = $alergenos",
-                   id=row['platoID'], nombre=row['nombre'], ingredientes=row['ingredientes'], alergenos=row['alergenos'])
+# Leer y cargar datos de menu.csv
+with open('/opt/spark-data_Prim_ord/menu.csv', mode='r') as file:
+    reader = csv.DictReader(file)
+    menu_data = [row for row in reader]
 
-# Función para insertar relaciones desde relaciones.json
-def insert_relations(tx):
-    with open('relaciones.json') as jsonfile:
-        data = json.load(jsonfile)
-        for rel in data:
-            tx.run("MATCH (r:Restaurante {id: $id_restaurante}) "
-                   "MATCH (h:Hotel {id: $id_hotel}) "
-                   "MERGE (r)-[:PERTENECE_A]->(h)",
-                   id_restaurante=rel['id_restaurante'], id_hotel=rel['id_hotel'])
+# Leer y cargar datos de platos.csv
+with open('/opt/spark-data_Prim_ord/platos.csv', mode='r') as file:
+    reader = csv.DictReader(file)
+    platos_data = [row for row in reader]
 
-# Ejecutar las transacciones
+# Leer y cargar datos de relaciones.json
+with open('/opt/spark-data_Prim_ord/relaciones.json') as file:
+    relaciones_data = json.load(file)
+
 with driver.session() as session:
-    session.write_transaction(insert_data_from_csv)
-    session.write_transaction(insert_relations)
+    # Insertar menús
+    for menu in menu_data:
+        query = """
+        CREATE (m:Menu {id_menu: $id_menu, precio: $precio, disponibilidad: $disponibilidad, id_restaurante: $id_restaurante})
+        """
+        session.write_transaction(insert_data, query, menu)
+    
+    # Insertar platos
+    for plato in platos_data:
+        query = """
+        CREATE (p:Plato {platoID: $platoID, nombre: $nombre, ingredientes: $ingredientes, alergenos: $alergenos})
+        """
+        session.write_transaction(insert_data, query, plato)
+    
+    # Insertar relaciones
+    for relacion in relaciones_data:
+        query = """
+        MATCH (m:Menu {id_menu: $id_menu}), (p:Plato {platoID: $id_plato})
+        CREATE (m)-[:CONTIENE]->(p)
+        """
+        session.write_transaction(insert_data, query, relacion)
 
-print("Datos insertados en Neo4j.")
+print("Datos insertados en Neo4j correctamente.")
+driver.close()

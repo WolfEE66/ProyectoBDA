@@ -2,26 +2,24 @@ from kafka import KafkaProducer
 import pymongo
 import json
 
+# Configuración de Kafka
+producer = KafkaProducer(
+    bootstrap_servers='kafka:9092',
+    value_serializer=lambda v: json.dumps(v).encode('utf-8')
+)
+
 # Conexión a MongoDB
-client = pymongo.MongoClient("mongodb://localhost:27017/")
-db = client["proyectobd"]  
-collection = db["proyectocoleccion"] 
+client = pymongo.MongoClient("mongodb://mongo:27017/")
+db = client["hotel_management"]
+collection = db["clientes"]
 
-# Conexión al servidor de Kafka
-producer = KafkaProducer(bootstrap_servers='localhost:9092')
+# Leer datos desde MongoDB
+clientes = list(collection.find())
 
-# Enviar datos desde MongoDB a Kafka
-for document in collection.find():
-    # Convertir el documento de MongoDB a formato JSON
-    message = json.dumps(document).encode('utf-8')
-    
-    # Enviar el mensaje a Kafka en el topic 'clientes_stream'
-    producer.send('clientes_stream', value=message)
+# Enviar datos a Kafka
+for cliente in clientes:
+    producer.send('clientes_stream', cliente)
+    print(f"Enviado: {cliente}")
 
-# Esperar a que todos los mensajes sean enviados antes de cerrar el productor
 producer.flush()
-
-# Cerrar la conexión al servidor de Kafka
-producer.close()
-
-print("Datos enviados a Kafka desde MongoDB.")
+print("Todos los datos han sido enviados a Kafka.")
