@@ -11,17 +11,17 @@ aws_secret_access_key = 'test'
 bucket_name = 'bucket'
 
 # Configuración de conexión a Postgres
-db_url = "jdbc:postgresql://localhost:5432/       "
+db_url = "jdbc:postgresql://localhost:5432/"
 db_properties = {
-    "user": "    ",
-    "password": "     ",
+    "user": "postgres",
+    "password": "bda",
     "driver": "org.postgresql.Driver"
 }
 
 # Crear una sesión de Spark
 spark = SparkSession.builder \
     .appName("HotelAnalysis") \
-    .config("spark.hadoop.fs.s3a.endpoint", "http://spark-localstack-1:4518") \
+    .config("spark.hadoop.fs.s3a.endpoint", "http://c_proyecto-localstack-1:4518") \
     .config("spark.hadoop.fs.s3a.access.key", aws_access_key_id) \
     .config("spark.hadoop.fs.s3a.secret.key", aws_secret_access_key) \
     .config("spark.sql.shuffle.partitions", "4") \
@@ -50,14 +50,17 @@ df_preferencias_comida = df_reservas.select("Preferencias_Comida")
 # 2. Rendimiento del Restaurante (Rendimiento_Restaurante)
 df_precio_medio_menu = df_menus.groupBy("id_restaurante").avg("precio").withColumnRenamed("avg(precio)", "precio_medio")
 df_disponibilidad_platos = df_menus.groupBy("id_restaurante").count().withColumnRenamed("count", "platos_disponibles")
+df_rendimiento_restaurante = df_precio_medio_menu.join(df_disponibilidad_platos, on="id_restaurante")
 
 # 3. Patrones de Reserva (Patrones_Reserva)
 df_duracion_estancia = df_reservas.withColumn("duracion_estancia", col("Fecha_Salida").cast("date").cast("long") - col("Fecha_Llegada").cast("date").cast("long"))
 df_ocupacion_periodos = df_reservas.groupBy("Fecha_Llegada").count().withColumnRenamed("count", "reservas")
+df_patrones_reserva = df_duracion_estancia.join(df_ocupacion_periodos, on="Fecha_Llegada")
 
 # 4. Gestión de Empleados y Ocupación (Empleados_Ocupacion)
 df_empleados_hotel = df_empleados.groupBy("ID_Hotel").count().withColumnRenamed("count", "numero_empleados")
 df_ocupacion_hotel_categoria = df_reservas.groupBy("ID_Hotel", "Tipo_Habitacion").count().withColumnRenamed("count", "numero_reservas")
+df_gestion_empleados_ocupacion = df_empleados_hotel.join(df_ocupacion_hotel_categoria, on="ID_Hotel")
 
 # Guardar los DataFrames en Postgres
 
@@ -65,16 +68,13 @@ df_ocupacion_hotel_categoria = df_reservas.groupBy("ID_Hotel", "Tipo_Habitacion"
 df_preferencias_comida.write.jdbc(url=db_url, table="preferencias_comida", mode="overwrite", properties=db_properties)
 
 # 2. Rendimiento del Restaurante
-df_precio_medio_menu.write.jdbc(url=db_url, table="rendimiento_restaurante_precio_medio", mode="overwrite", properties=db_properties)
-df_disponibilidad_platos.write.jdbc(url=db_url, table="rendimiento_restaurante_disponibilidad_platos", mode="overwrite", properties=db_properties)
+df_rendimiento_restaurante.write.jdbc(url=db_url, table="rendimiento_restaurante", mode="overwrite", properties=db_properties)
 
 # 3. Patrones de Reserva
-df_duracion_estancia.write.jdbc(url=db_url, table="patrones_reserva_duracion", mode="overwrite", properties=db_properties)
-df_ocupacion_periodos.write.jdbc(url=db_url, table="patrones_reserva_ocupacion_periodos", mode="overwrite", properties=db_properties)
+df_patrones_reserva.write.jdbc(url=db_url, table="patrones_reserva", mode="overwrite", properties=db_properties)
 
 # 4. Gestión de Empleados y Ocupación
-df_empleados_hotel.write.jdbc(url=db_url, table="empleados_hotel", mode="overwrite", properties=db_properties)
-df_ocupacion_hotel_categoria.write.jdbc(url=db_url, table="ocupacion_hotel_categoria", mode="overwrite", properties=db_properties)
+df_gestion_empleados_ocupacion.write.jdbc(url=db_url, table="gestion_empleados_ocupacion", mode="overwrite", properties=db_properties)
 
 # Detener la sesión de Spark
 spark.stop()

@@ -8,9 +8,9 @@ spark = SparkSession.builder \
 
 # Configuración de la base de datos
 db_config = {
-    "url": "jdbc:postgresql://localhost:9999/PrimOrd",
-    "user": "primOrd",
-    "password": "bdaPrimOrd",
+    "url": "jdbc:postgresql://localhost:9999/primord",
+    "user": "postgres",
+    "password": "bda",
     "driver": "org.postgresql.Driver"
 }
 

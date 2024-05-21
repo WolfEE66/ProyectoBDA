@@ -25,7 +25,7 @@ except Exception as e:
 # Crear una sesión de Spark
 spark = SparkSession.builder \
     .appName("SPARK S3") \
-    .config("spark.hadoop.fs.s3a.endpoint", "http://spark-localstack-1:4518") \
+    .config("spark.hadoop.fs.s3a.endpoint", "http://c_proyecto-localstack-1:4518") \
     .config("spark.hadoop.fs.s3a.access.key", aws_access_key_id) \
     .config("spark.hadoop.fs.s3a.secret.key", aws_secret_access_key) \
     .config("spark.sql.shuffle.partitions", "4") \

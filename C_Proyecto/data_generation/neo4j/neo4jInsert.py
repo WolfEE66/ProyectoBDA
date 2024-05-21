@@ -1,50 +1,57 @@
-from neo4j import GraphDatabase
 import csv
 import json
+from neo4j import GraphDatabase
 
-# Conexión a Neo4j
-uri = "bolt://neo4j:7687"
-driver = GraphDatabase.driver(uri, auth=("neo4j", "neo4j_password"))
+# Definir la función para insertar datos
+def insert_data(tx, query, data):
+    tx.run(query, **data)
 
-def insert_data(tx, query, parameters=None):
-    tx.run(query, parameters)
+# Definir la conexión con Neo4j
+uri = "bolt://localhost:7687"
+username = "neo4j"
+password = "123123123"
+driver = GraphDatabase.driver(uri, auth=(username, password))
 
-# Leer y cargar datos de menu.csv
-with open('/opt/spark-data_Prim_ord/menu.csv', mode='r') as file:
-    reader = csv.DictReader(file)
-    menu_data = [row for row in reader]
+try:
+    # Leer y cargar datos de platos.csv
+    with open('C:/Users/A.A.R.O/Desktop/Proyecto/ProyectoBDA/C_Proyecto/data_Prim_ord/csv/platos.csv', mode='r') as file:
+        reader = csv.DictReader(file)
+        platos_data = [row for row in reader]
 
-# Leer y cargar datos de platos.csv
-with open('/opt/spark-data_Prim_ord/platos.csv', mode='r') as file:
-    reader = csv.DictReader(file)
-    platos_data = [row for row in reader]
+    # Leer y cargar datos de menus.csv
+    with open('C:/Users/A.A.R.O/Desktop/Proyecto/ProyectoBDA/C_Proyecto/data_Prim_ord/csv/menu.csv', mode='r') as file:
+        reader = csv.DictReader(file)
+        menus_data = [row for row in reader]
 
-# Leer y cargar datos de relaciones.json
-with open('/opt/spark-data_Prim_ord/relaciones.json') as file:
-    relaciones_data = json.load(file)
+    # Leer y cargar datos de relaciones.json 
+    with open('C:/Users/A.A.R.O/Desktop/Proyecto/ProyectoBDA/C_Proyecto/data_Prim_ord/json/relaciones.json') as file:
+        relaciones_data = json.load(file)
 
-with driver.session() as session:
-    # Insertar menús
-    for menu in menu_data:
-        query = """
-        CREATE (m:Menu {id_menu: $id_menu, precio: $precio, disponibilidad: $disponibilidad, id_restaurante: $id_restaurante})
-        """
-        session.write_transaction(insert_data, query, menu)
-    
-    # Insertar platos
-    for plato in platos_data:
-        query = """
-        CREATE (p:Plato {platoID: $platoID, nombre: $nombre, ingredientes: $ingredientes, alergenos: $alergenos})
-        """
-        session.write_transaction(insert_data, query, plato)
-    
-    # Insertar relaciones
-    for relacion in relaciones_data:
-        query = """
-        MATCH (m:Menu {id_menu: $id_menu}), (p:Plato {platoID: $id_plato})
-        CREATE (m)-[:CONTIENE]->(p)
-        """
-        session.write_transaction(insert_data, query, relacion)
+    with driver.session() as session:
+        # Insertar platos
+        for plato in platos_data:
+            query = """
+            CREATE (p:Plato {platoID: $platoID, nombre: $nombre, ingredientes: $ingredientes, alergenos: $alergenos})
+            """
+            session.write_transaction(insert_data, query, plato)
+        
+        # Insertar menus
+        for menu in menus_data:
+            query = """
+            CREATE (m:Menu {id_menu: $id_menu, precio: $precio, disponibilidad: $disponibilidad, id_restaurante: $id_restaurante})
+            """
+            session.write_transaction(insert_data, query, menu)
+        
+        # Insertar relaciones
+        for relacion in relaciones_data:
+            query = """
+            MATCH (m:Menu {id_menu: $id_menu}), (p:Plato {platoID: $id_plato})
+            CREATE (m)-[:CONTIENE]->(p)
+            """
+            session.write_transaction(insert_data, query, relacion)
 
-print("Datos insertados en Neo4j correctamente.")
-driver.close()
+    print("Datos insertados en Neo4j correctamente.")
+
+finally:
+    if 'driver' in locals():
+        driver.close()

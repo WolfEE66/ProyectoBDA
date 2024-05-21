@@ -4,13 +4,16 @@ import json
 
 # Configuración de Kafka
 producer = KafkaProducer(
-    bootstrap_servers='kafka:9092',
+    bootstrap_servers='localhost:9092',
     value_serializer=lambda v: json.dumps(v).encode('utf-8')
 )
 
 # Conexión a Neo4j
-uri = "bolt://neo4j:7687"
-driver = GraphDatabase.driver(uri, auth=("neo4j", "neo4j_password"))
+# Definir la conexión con Neo4j
+uri = "bolt://localhost:7687"
+username = "neo4j"
+password = "123123123"
+driver = GraphDatabase.driver(uri, auth=(username, password))
 
 def get_data(tx, query):
     result = tx.run(query)

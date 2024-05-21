@@ -11,7 +11,7 @@ bucket_name = 'bucket'
 # Crear una sesión de Spark
 spark = SparkSession.builder \
     .appName("HotelAnalysis") \
-    .config("spark.hadoop.fs.s3a.endpoint", "http://spark-localstack-1:4518") \
+    .config("spark.hadoop.fs.s3a.endpoint", "http://c_proyecto-localstack-1:4518") \
     .config("spark.hadoop.fs.s3a.access.key", aws_access_key_id) \
     .config("spark.hadoop.fs.s3a.secret.key", aws_secret_access_key) \
     .config("spark.sql.shuffle.partitions", "4") \
