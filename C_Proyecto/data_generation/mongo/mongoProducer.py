@@ -1,11 +1,12 @@
 from kafka import KafkaProducer
 import pymongo
 import json
+from bson import ObjectId
 
 # Configuración de Kafka
 producer = KafkaProducer(
     bootstrap_servers='localhost:9092',
-    value_serializer=lambda v: json.dumps(v).encode('utf-8')
+    value_serializer=lambda v: json.dumps(v, default=str).encode('utf-8')
 )
 
 # Conexión a MongoDB
@@ -18,6 +19,8 @@ clientes = list(collection.find())
 
 # Enviar datos a Kafka
 for cliente in clientes:
+    # Convertir ObjectId a string
+    cliente['_id'] = str(cliente['_id'])
     producer.send('clientes_stream', cliente)
     print(f"Enviado: {cliente}")
 

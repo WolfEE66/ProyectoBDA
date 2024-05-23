@@ -34,7 +34,7 @@ try:
     conn.commit()
 
     # Insertar datos en la tabla empleados
-    with open('C:/Users/A.A.R.O/Desktop/Proyecto/ProyectoBDA/C_Proyecto/data_Prim_ord/empleados.csv', 'r') as f:  
+    with open('C:/Users/A.A.R.O/Desktop/Proyecto/ProyectoBDA/C_Proyecto/data_Prim_ord/csv/empleados.csv', 'r') as f:  
         reader = csv.DictReader(f)
         for row in reader:
             cursor.execute("""
@@ -44,7 +44,7 @@ try:
     conn.commit()
 
     # Insertar datos en la tabla hoteles
-    with open('C:/Users/A.A.R.O/Desktop/Proyecto/ProyectoBDA/C_Proyecto/data_Prim_ord/hoteles.csv', 'r') as f:
+    with open('C:/Users/A.A.R.O/Desktop/Proyecto/ProyectoBDA/C_Proyecto/data_Prim_ord/csv/hoteles.csv', 'r') as f:
         reader = csv.DictReader(f)
         for row in reader:
             cursor.execute("""

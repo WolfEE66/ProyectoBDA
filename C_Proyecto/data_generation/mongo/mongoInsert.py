@@ -7,7 +7,7 @@ db = client["hotel_management"]
 collection = db["clientes"]
 
 # Leer datos desde clientes.json
-with open('C:/Users/A.A.R.O/Desktop/Proyecto/ProyectoBDA/C_Proyecto/data_Prim_ord/json/clientes.json') as f:
+with open('data_Prim_ord/json/clientes.json') as f:
     clientes = json.load(f)
 
 # Insertar datos en la colección de MongoDB
